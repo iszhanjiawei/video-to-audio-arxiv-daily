@@ -94,6 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Glow with the Flow: AI-Assisted Creation of Ambient Lightscapes for Music Videos**|Frederic Anthony Robinson et.al.|[2602.08838](http://arxiv.org/abs/2602.08838)|null|
+|**2026-02-09**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
 |**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|Hanwen Zhang et.al.|[2602.05496](http://arxiv.org/abs/2602.05496)|null|
 |**2026-02-05**|**Exploring Physical Intelligence Emergence via Omni-Modal Architecture and Physical Data Engine**|Minghao Han et.al.|[2602.07064](http://arxiv.org/abs/2602.07064)|null|
 |**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](http://arxiv.org/abs/2602.04705)|null|
