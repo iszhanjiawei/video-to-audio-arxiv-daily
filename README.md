@@ -95,6 +95,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**FCN-LLM: Empower LLM for Brain Functional Connectivity Network Understanding via Graph-level Multi-task Instruction Tuning**|Xingcan Hu et.al.|[2603.01135](http://arxiv.org/abs/2603.01135)|null|
 |**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)|null|
 |**2026-02-25**|**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**|Euisoo Jung et.al.|[2602.21760](http://arxiv.org/abs/2602.21760)|null|
 |**2026-02-25**|**A Hidden Semantic Bottleneck in Conditional Embeddings of Diffusion Transformers**|Trung X. Pham et.al.|[2602.21596](http://arxiv.org/abs/2602.21596)|null|
