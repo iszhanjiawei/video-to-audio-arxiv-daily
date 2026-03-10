@@ -97,173 +97,528 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-03-09**|**Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows**|Shentong Mo et.al.|[2603.08126](http://arxiv.org/abs/2603.08126)|null|
+|**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](http://arxiv.org/abs/2603.08483)|null|
+|**2026-03-09**|**Listening with the Eyes: Benchmarking Egocentric Co-Speech Grounding across Space and Time**|Weijie Zhou et.al.|[2603.07966](http://arxiv.org/abs/2603.07966)|null|
+|**2026-03-08**|**Multi-View Based Audio Visual Target Speaker Extraction**|Peijun Yang et.al.|[2603.07696](http://arxiv.org/abs/2603.07696)|null|
+|**2026-03-08**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
+|**2026-03-08**|**Taming Modality Entanglement in Continual Audio-Visual Segmentation**|Yuyang Hong et.al.|[2510.17234](http://arxiv.org/abs/2510.17234)|null|
+|**2026-03-07**|**Seeing the Context: Rich Visual Context-Aware Speech Recognition via Multimodal Reasoning**|Wenjie Tian et.al.|[2603.07263](http://arxiv.org/abs/2603.07263)|null|
+|**2026-03-07**|**mAVE: A Watermark for Joint Audio-Visual Generation Models**|Luyang Si et.al.|[2603.07090](http://arxiv.org/abs/2603.07090)|null|
+|**2026-03-07**|**EmoOmni: Bridging Emotional Understanding and Expression in Omni-Modal LLMs**|Wenjie Tian et.al.|[2602.21900](http://arxiv.org/abs/2602.21900)|null|
+|**2026-03-07**|**Do Modern Video-LLMs Need to Listen? A Benchmark Audit and Scalable Remedy**|Geewook Kim et.al.|[2509.17901](http://arxiv.org/abs/2509.17901)|null|
 |**2026-03-06**|**Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**|Hila Chefer et.al.|[2603.06507](http://arxiv.org/abs/2603.06507)|null|
+|**2026-03-06**|**AV-Unified: A Unified Framework for Audio-visual Scene Understanding**|Guangyao Li et.al.|[2603.06530](http://arxiv.org/abs/2603.06530)|null|
+|**2026-03-06**|**TempoSyncDiff: Distilled Temporally-Consistent Diffusion for Low-Latency Audio-Driven Talking Head Generation**|Soumya Mazumdar et.al.|[2603.06057](http://arxiv.org/abs/2603.06057)|null|
+|**2026-03-06**|**A Closed-Loop CPR Training Glove with Integrated Tactile Sensing and Haptic Feedback**|Jaeyoung Moon et.al.|[2603.05793](http://arxiv.org/abs/2603.05793)|null|
+|**2026-03-06**|**Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering**|Kun Li et.al.|[2601.19821](http://arxiv.org/abs/2601.19821)|null|
+|**2026-03-06**|**Purification Before Fusion: Toward Mask-Free Speech Enhancement for Robust Audio-Visual Speech Recognition**|Linzhi Wu et.al.|[2601.12436](http://arxiv.org/abs/2601.12436)|null|
+|**2026-03-06**|**SPARK: Jailbreaking T2V Models by Synergistically Prompting Auditory and Recontextualized Knowledge**|Zonghao Ying et.al.|[2511.13127](http://arxiv.org/abs/2511.13127)|null|
 |**2026-03-05**|**GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement**|Xiaodong Zhu et.al.|[2603.05095](http://arxiv.org/abs/2603.05095)|null|
 |**2026-03-05**|**DeformTrace: A Deformable State Space Model with Relay Tokens for Temporal Forgery Localization**|Xiaodong Zhu et.al.|[2603.04882](http://arxiv.org/abs/2603.04882)|null|
+|**2026-03-05**|**SarcasmMiner: A Dual-Track Post-Training Framework for Robust Audio-Visual Sarcasm Reasoning**|Zhu Li et.al.|[2603.05275](http://arxiv.org/abs/2603.05275)|null|
+|**2026-03-05**|**OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs**|Caorui Li et.al.|[2510.10689](http://arxiv.org/abs/2510.10689)|null|
+|**2026-03-04**|**Crab $^{+}$ : A Scalable and Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**|Dongnuan Cai et.al.|[2603.04128](http://arxiv.org/abs/2603.04128)|null|
+|**2026-03-04**|**UniSync: Towards Generalizable and High-Fidelity Lip Synchronization for Challenging Scenarios**|Ruidi Fan et.al.|[2603.03882](http://arxiv.org/abs/2603.03882)|null|
+|**2026-03-04**|**Robust LLM-based Audio-Visual Speech Recognition with Sparse Modality Alignment and Visual Unit-Guided Refinement**|Fei Su et.al.|[2603.03811](http://arxiv.org/abs/2603.03811)|null|
+|**2026-03-03**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
+|**2026-03-03**|**Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner**|Haojie Zheng et.al.|[2512.10571](http://arxiv.org/abs/2512.10571)|null|
+|**2026-03-02**|**OmniRet: Efficient and High-Fidelity Omni Modality Retrieval**|Chuong Huynh et.al.|[2603.02098](http://arxiv.org/abs/2603.02098)|null|
+|**2026-03-02**|**CueNet: Robust Audio-Visual Speaker Extraction through Cross-Modal Cue Mining and Interaction**|Jiadong Wang et.al.|[2603.01530](http://arxiv.org/abs/2603.01530)|null|
+|**2026-03-02**|**SeaVIS: Sound-Enhanced Association for Online Audio-Visual Instance Segmentation**|Yingjian Zhu et.al.|[2603.01431](http://arxiv.org/abs/2603.01431)|null|
+|**2026-03-02**|**The USTC-NERCSLIP Systems for the CHiME-9 MCoRec Challenge**|Ya Jiang et.al.|[2603.01415](http://arxiv.org/abs/2603.01415)|null|
+|**2026-03-02**|**How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?**|Yujian Lee et.al.|[2601.08133](http://arxiv.org/abs/2601.08133)|null|
 |**2026-03-01**|**FCN-LLM: Empower LLM for Brain Functional Connectivity Network Understanding via Graph-level Multi-task Instruction Tuning**|Xingcan Hu et.al.|[2603.01135](http://arxiv.org/abs/2603.01135)|null|
+|**2026-02-27**|**Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR**|Kristian Paolo David et.al.|[2602.23747](http://arxiv.org/abs/2602.23747)|null|
+|**2026-02-27**|**Unlocking Cognitive Capabilities and Analyzing the Perception-Logic Trade-off**|Longyin Zhang et.al.|[2602.23730](http://arxiv.org/abs/2602.23730)|null|
+|**2026-02-27**|**Adapting Speech Foundation Models for Unified Multimodal Speech Recognition with Large Language Models**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
+|**2026-02-26**|**Scaling Audio-Visual Quality Assessment Dataset via Crowdsourcing**|Renyu Yang et.al.|[2602.22659](http://arxiv.org/abs/2602.22659)|null|
+|**2026-02-26**|**RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer**|Fangyu Du et.al.|[2508.05115](http://arxiv.org/abs/2508.05115)|null|
 |**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[2602.20981](http://arxiv.org/abs/2602.20981)|null|
 |**2026-02-25**|**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**|Euisoo Jung et.al.|[2602.21760](http://arxiv.org/abs/2602.21760)|null|
 |**2026-02-25**|**A Hidden Semantic Bottleneck in Conditional Embeddings of Diffusion Transformers**|Trung X. Pham et.al.|[2602.21596](http://arxiv.org/abs/2602.21596)|null|
+|**2026-02-25**|**Leveraging large multimodal models for audio-video deepfake detection: a pilot study**|Songjun Cao et.al.|[2602.23393](http://arxiv.org/abs/2602.23393)|null|
+|**2026-02-25**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
+|**2026-02-25**|**Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics**|Junjie Chen et.al.|[2512.15340](http://arxiv.org/abs/2512.15340)|null|
 |**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|Hanxiang Qin et.al.|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**Sound Source Localization for Spatial Mapping of Surgical Actions in Dynamic Scenes**|Jonas Hein et.al.|[2510.24332](http://arxiv.org/abs/2510.24332)|null|
+|**2026-02-23**|**WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM**|Changli Tang et.al.|[2509.21990](http://arxiv.org/abs/2509.21990)|null|
 |**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
+|**2026-02-22**|**Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition**|Alexandros Haliassos et.al.|[2602.19316](http://arxiv.org/abs/2602.19316)|null|
+|**2026-02-20**|**Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**|Aashish Chandra et.al.|[2602.18618](http://arxiv.org/abs/2602.18618)|null|
+|**2026-02-20**|**Audio-Visual Continual Test-Time Adaptation without Forgetting**|Sarthak Kumar Maharana et.al.|[2602.18528](http://arxiv.org/abs/2602.18528)|null|
+|**2026-02-20**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al.|[2602.18527](http://arxiv.org/abs/2602.18527)|null|
+|**2026-02-17**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
+|**2026-02-15**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
+|**2026-02-14**|**Hierarchical Audio-Visual-Proprioceptive Fusion for Precise Robotic Manipulation**|Siyuan Li et.al.|[2602.13640](http://arxiv.org/abs/2602.13640)|null|
+|**2026-02-13**|**Adding internal audio sensing to internal vision enables human-like in-hand fabric recognition with soft robotic fingertips**|Iris Andrussow et.al.|[2602.12918](http://arxiv.org/abs/2602.12918)|null|
+|**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[2602.12160](http://arxiv.org/abs/2602.12160)|null|
+|**2026-02-12**|**Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation**|Lingyong Yan et.al.|[2602.11790](http://arxiv.org/abs/2602.11790)|null|
+|**2026-02-12**|**TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions**|Linli Yao et.al.|[2602.08711](http://arxiv.org/abs/2602.08711)|null|
+|**2026-02-12**|**A Cocktail-Party Benchmark: Multi-Modal dataset and Comparative Evaluation Results**|Thai-Binh Nguyen et.al.|[2510.23276](http://arxiv.org/abs/2510.23276)|null|
 |**2026-02-10**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
+|**2026-02-10**|**ALIVE: Animate Your World with Lifelike Audio-Video Generation**|Ying Guo et.al.|[2602.08682](http://arxiv.org/abs/2602.08682)|null|
+|**2026-02-10**|**Quantifying Multimodal Imbalance: A GMM-Guided Adaptive Loss for Audio-Visual Learning**|Zhaocheng Liu et.al.|[2510.21797](http://arxiv.org/abs/2510.21797)|null|
 |**2026-02-09**|**Glow with the Flow: AI-Assisted Creation of Ambient Lightscapes for Music Videos**|Frederic Anthony Robinson et.al.|[2602.08838](http://arxiv.org/abs/2602.08838)|null|
+|**2026-02-09**|**CAE-AV: Improving Audio-Visual Learning via Cross-modal Interactive Enrichment**|Yunzuo Hu et.al.|[2602.08309](http://arxiv.org/abs/2602.08309)|null|
+|**2026-02-09**|**Cross-Modal Bottleneck Fusion For Noise Robust Audio-Visual Speech Recognition**|Seaone Ok et.al.|[2602.08293](http://arxiv.org/abs/2602.08293)|null|
+|**2026-02-08**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|Hongyu Zhu et.al.|[2510.11579](http://arxiv.org/abs/2510.11579)|null|
+|**2026-02-08**|**D-ORCA: Dialogue-Centric Optimization for Robust Audio-Visual Captioning**|Changli Tang et.al.|[2602.07960](http://arxiv.org/abs/2602.07960)|null|
+|**2026-02-07**|**Task-Conditioned Probing Reveals Brain-Alignment Patterns in Instruction-Tuned Multimodal LLMs**|Subba Reddy Oota et.al.|[2506.08277](http://arxiv.org/abs/2506.08277)|null|
+|**2026-02-06**|**CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models**|Videet Mehta et.al.|[2602.07077](http://arxiv.org/abs/2602.07077)|null|
+|**2026-02-06**|**SyncAnyone: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild**|Xindi Zhang et.al.|[2512.21736](http://arxiv.org/abs/2512.21736)|null|
 |**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|Hanwen Zhang et.al.|[2602.05496](http://arxiv.org/abs/2602.05496)|null|
 |**2026-02-05**|**Exploring Physical Intelligence Emergence via Omni-Modal Architecture and Physical Data Engine**|Minghao Han et.al.|[2602.07064](http://arxiv.org/abs/2602.07064)|null|
+|**2026-02-05**|**EgoAVU: Egocentric Audio-Visual Understanding**|Ashish Seth et.al.|[2602.06139](http://arxiv.org/abs/2602.06139)|null|
+|**2026-02-05**|**Sounding Highlights: Dual-Pathway Audio Encoders for Audio-Visual Video Highlight Detection**|Seohyun Joo et.al.|[2602.03891](http://arxiv.org/abs/2602.03891)|null|
 |**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](http://arxiv.org/abs/2602.04705)|null|
+|**2026-02-04**|**VR Calm Plus: Coupling a Squeezable Tangible Interaction with Immersive VR for Stress Regulation**|He Zhang et.al.|[2602.05093](http://arxiv.org/abs/2602.05093)|null|
+|**2026-02-04**|**Knowing When to Answer: Adaptive Confidence Refinement for Reliable Audio-Visual Question Answering**|Dinh Phu Tran et.al.|[2602.04924](http://arxiv.org/abs/2602.04924)|null|
+|**2026-02-04**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
+|**2026-02-04**|**Integrating Fine-Grained Audio-Visual Evidence for Robust Multimodal Emotion Reasoning**|Zhixian Zhao et.al.|[2601.18321](http://arxiv.org/abs/2601.18321)|null|
+|**2026-02-03**|**Asymmetric Hierarchical Anchoring for Audio-Visual Joint Representation: Resolving Information Allocation Ambiguity for Robust Cross-Modal Generalization**|Bixing Wu et.al.|[2602.03570](http://arxiv.org/abs/2602.03570)|null|
+|**2026-02-03**|**Audit After Segmentation: Reference-Free Mask Quality Assessment for Language-Referred Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2602.03892](http://arxiv.org/abs/2602.03892)|null|
+|**2026-02-03**|**MUSE: A Multi-agent Framework for Unconstrained Story Envisioning via Closed-Loop Cognitive Orchestration**|Wenzhang Sun et.al.|[2602.03028](http://arxiv.org/abs/2602.03028)|null|
+|**2026-02-03**|**video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM**|Guangzhi Sun et.al.|[2510.11129](http://arxiv.org/abs/2510.11129)|null|
 |**2026-02-02**|**vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models**|Peiqi Yin et.al.|[2602.02204](http://arxiv.org/abs/2602.02204)|null|
+|**2026-02-02**|**FiLoRA: Focus-and-Ignore LoRA for Controllable Feature Reliance**|Hyunsuk Chung et.al.|[2602.02060](http://arxiv.org/abs/2602.02060)|null|
+|**2026-02-02**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2026-02-01**|**Position: 3D Gaussian Splatting Watermarking Should Be Scenario-Driven and Threat-Model Explicit**|Yangfan Deng et.al.|[2602.02602](http://arxiv.org/abs/2602.02602)|null|
+|**2026-02-01**|**SSNAPS: Audio-Visual Separation of Speech and Background Noise with Diffusion Inverse Sampling**|Yochai Yemini et.al.|[2602.01394](http://arxiv.org/abs/2602.01394)|null|
 |**2026-01-31**|**Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis**|Zicheng Kong et.al.|[2602.00846](http://arxiv.org/abs/2602.00846)|null|
+|**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
+|**2026-01-31**|**Cross-Modal Binary Attention: An Energy-Efficient Fusion Framework for Audio-Visual Learning**|Mohamed Saleh et.al.|[2602.00701](http://arxiv.org/abs/2602.00701)|null|
+|**2026-01-31**|**MTAVG-Bench: A Comprehensive Benchmark for Evaluating Multi-Talker Dialogue-Centric Audio-Video Generation**|Yang-Hao Zhou et.al.|[2602.00607](http://arxiv.org/abs/2602.00607)|null|
+|**2026-01-30**|**Divide and Conquer: Multimodal Video Deepfake Detection via Cross-Modal Fusion and Localization**|Qingcao Li et.al.|[2602.00209](http://arxiv.org/abs/2602.00209)|null|
+|**2026-01-30**|**LPIPS-AttnWav2Lip: Generic Audio-Driven lip synchronization for Talking Head Generation in the Wild**|Zhipeng Chen et.al.|[2602.00189](http://arxiv.org/abs/2602.00189)|null|
+|**2026-01-30**|**PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios**|Xudong Lu et.al.|[2601.22575](http://arxiv.org/abs/2601.22575)|null|
+|**2026-01-30**|**CoVA: Text-Guided Composed Video Retrieval for Audio-Visual Content**|Gyuwon Han et.al.|[2601.22508](http://arxiv.org/abs/2601.22508)|null|
 |**2026-01-29**|**SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation**|Yanan Wang et.al.|[2601.15017](http://arxiv.org/abs/2601.15017)|null|
+|**2026-01-29**|**JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion**|Anthony Chen et.al.|[2601.22143](http://arxiv.org/abs/2601.22143)|null|
+|**2026-01-29**|**MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models**|Sangyun Chung et.al.|[2601.21181](http://arxiv.org/abs/2601.21181)|null|
+|**2026-01-29**|**MotionBeat: Motion-Aligned Music Representation via Embodied Contrastive Learning and Bar-Equivariant Contact-Aware Encoding**|Xuanchen Wang et.al.|[2510.13244](http://arxiv.org/abs/2510.13244)|null|
+|**2026-01-29**|**End-to-end audio-visual learning for cochlear implant sound coding simulations in noisy environments**|Meng-Ping Lin et.al.|[2508.13576](http://arxiv.org/abs/2508.13576)|null|
 |**2026-01-28**|**LLMBind: A Unified Modality-Task Integration Framework**|Bin Zhu et.al.|[2402.14891](http://arxiv.org/abs/2402.14891)|null|
+|**2026-01-28**|**Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching**|Wei Chee Yew et.al.|[2512.03553](http://arxiv.org/abs/2512.03553)|null|
 |**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
+|**2026-01-27**|**Beyond Lips: Integrating Gesture and Lip Cues for Robust Audio-visual Speaker Extraction**|Zexu Pan et.al.|[2601.19130](http://arxiv.org/abs/2601.19130)|null|
+|**2026-01-27**|**Adaptive Multimodal Person Recognition: A Robust Framework for Handling Missing Modalities**|Aref Farhadipour et.al.|[2512.14961](http://arxiv.org/abs/2512.14961)|null|
+|**2026-01-27**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMs**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|null|
 |**2026-01-26**|**From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance**|Ardalan Aryashad et.al.|[2510.03906](http://arxiv.org/abs/2510.03906)|null|
+|**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](http://arxiv.org/abs/2601.18393)|null|
+|**2026-01-26**|**Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models**|Umberto Cappellazzo et.al.|[2511.07253](http://arxiv.org/abs/2511.07253)|null|
+|**2026-01-25**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-01-24**|**Revealing the Truth with ConLLM for Detecting Multi-Modal Deepfakes**|Gautam Siddharth Kashyap et.al.|[2601.17530](http://arxiv.org/abs/2601.17530)|null|
+|**2026-01-24**|**ToS: A Team of Specialists ensemble framework for Stereo Sound Event Localization and Detection with distance estimation in Video**|Davide Berghi et.al.|[2601.17611](http://arxiv.org/abs/2601.17611)|null|
 |**2026-01-23**|**A Multimodal Data Collection Framework for Dialogue-Driven Assistive Robotics to Clarify Ambiguities: A Wizard-of-Oz Pilot Study**|Guangping Liu et.al.|[2601.16870](http://arxiv.org/abs/2601.16870)|null|
+|**2026-01-23**|**One Attempt at Building an Inclusive & Accessible Hybrid Astronomy Conference: FRB 2025**|Alice P. Curtin et.al.|[2601.14357](http://arxiv.org/abs/2601.14357)|null|
+|**2026-01-22**|**Attentive AV-FusionNet: Audio-Visual Quality Prediction with Hybrid Attention**|Ina Salaj et.al.|[2509.16994](http://arxiv.org/abs/2509.16994)|null|
 |**2026-01-21**|**Interpreting Multimodal Communication at Scale in Short-Form Video: Visual, Audio, and Textual Mental Health Discourse on TikTok**|Mingyue Zha et.al.|[2601.15278](http://arxiv.org/abs/2601.15278)|null|
+|**2026-01-21**|**FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**|Jiaxuan Liu et.al.|[2601.14777](http://arxiv.org/abs/2601.14777)|null|
+|**2026-01-21**|**READ-Net: Clarifying Emotional Ambiguity via Adaptive Feature Recalibration for Audio-Visual Depression Detection**|Chenglizhao Chen et.al.|[2601.14651](http://arxiv.org/abs/2601.14651)|null|
+|**2026-01-20**|**FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs**|Qian Chen et.al.|[2601.13836](http://arxiv.org/abs/2601.13836)|null|
+|**2026-01-20**|**Physic-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al.|[2512.21650](http://arxiv.org/abs/2512.21650)|null|
+|**2026-01-20**|**ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars**|Ziqiao Peng et.al.|[2512.19546](http://arxiv.org/abs/2512.19546)|null|
 |**2026-01-19**|**Rapport du Projet de Recherche TRAIMA**|Julie Rançon et.al.|[2601.12844](http://arxiv.org/abs/2601.12844)|null|
+|**2026-01-19**|**Remote Triggers: Misophonia, Technology Non-Use, and Design for Inclusive Digital Spaces**|Tawfiq Ammari et.al.|[2601.13355](http://arxiv.org/abs/2601.13355)|null|
+|**2026-01-19**|**FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference**|Chaeyoung Jung et.al.|[2601.13143](http://arxiv.org/abs/2601.13143)|null|
+|**2026-01-19**|**Exploring the Impacts of Background Noise on Auditory Stimuli of Audio-Visual eHMIs for Hearing, Deaf, and Hard-of-Hearing People**|Wenge Xu et.al.|[2601.13098](http://arxiv.org/abs/2601.13098)|null|
+|**2026-01-17**|**Learning Audio-Visual Embeddings with Inferred Latent Interaction Graphs**|Donghuo Zeng et.al.|[2601.11995](http://arxiv.org/abs/2601.11995)|null|
+|**2026-01-16**|**TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**|Girish A. Koushik et.al.|[2601.11178](http://arxiv.org/abs/2601.11178)|null|
+|**2026-01-16**|**Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity**|Hauke Licht et.al.|[2512.10882](http://arxiv.org/abs/2512.10882)|null|
+|**2026-01-16**|**MoLAN: A Unified Modality-Aware Noise Dynamic Editing Framework for Multimodal Sentiment Analysis**|Xingle Xu et.al.|[2508.09145](http://arxiv.org/abs/2508.09145)|null|
+|**2026-01-13**|**Apollo: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
 |**2026-01-11**|**DaQ-MSA: Denoising and Qualifying Diffusion Augmentations for Multimodal Sentiment Analysis**|Jiazhang Liang et.al.|[2601.06870](http://arxiv.org/abs/2601.06870)|null|
 |**2026-01-11**|**Omni2Sound: Towards Unified Video-Text-to-Audio Generation**|Yusheng Dai et.al.|[2601.02731](http://arxiv.org/abs/2601.02731)|null|
+|**2026-01-11**|**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**|Yi Wang et.al.|[2601.08868](http://arxiv.org/abs/2601.08868)|null|
 |**2026-01-10**|**QMAVIS: Long Video-Audio Understanding using Fusion of Large Multimodal Models**|Zixing Lin et.al.|[2601.06573](http://arxiv.org/abs/2601.06573)|null|
 |**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra et.al.|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
+|**2026-01-08**|**Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience**|Sophie Villenave et.al.|[2601.04781](http://arxiv.org/abs/2601.04781)|null|
+|**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
+|**2026-01-06**|**Vclip: Face-based Speaker Generation by Face-voice Association Learning**|Yao Shi et.al.|[2601.02753](http://arxiv.org/abs/2601.02753)|null|
+|**2026-01-06**|**SyncLipMAE: Contrastive Masked Pretraining for Audio-Visual Talking-Face Representation**|Zeyu Ling et.al.|[2510.10069](http://arxiv.org/abs/2510.10069)|null|
+|**2025-12-30**|**PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation**|Tianxin Xie et.al.|[2512.23994](http://arxiv.org/abs/2512.23994)|null|
+|**2025-12-28**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005](http://arxiv.org/abs/2512.02005)|null|
+|**2025-12-27**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191](http://arxiv.org/abs/2506.05191)|null|
 |**2025-12-25**|**Detecting and Mitigating Insertion Hallucination in Video-to-Audio Generation**|Liyang Chen et.al.|[2510.08078](http://arxiv.org/abs/2510.08078)|null|
 |**2025-12-24**|**T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation**|Zhe Cao et.al.|[2512.21094](http://arxiv.org/abs/2512.21094)|null|
+|**2025-12-24**|**M $^3$ KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**|Hyeongcheol Park et.al.|[2512.20136](http://arxiv.org/abs/2512.20136)|null|
 |**2025-12-23**|**TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**|Jian-Yu Jiang-Lin et.al.|[2512.10652](http://arxiv.org/abs/2512.10652)|null|
+|**2025-12-23**|**TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation**|Ji-Hoon Kim et.al.|[2512.20296](http://arxiv.org/abs/2512.20296)|null|
+|**2025-12-23**|**DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation**|Jingqi Tian et.al.|[2512.20117](http://arxiv.org/abs/2512.20117)|null|
+|**2025-12-23**|**Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**|Team Seedance et.al.|[2512.13507](http://arxiv.org/abs/2512.13507)|null|
+|**2025-12-22**|**D $^{2}$ Stream: Decoupled Dual-Stream Temporal-Speaker Interaction for Audio-Visual Speaker Detection**|Junhao Xiao et.al.|[2512.19130](http://arxiv.org/abs/2512.19130)|null|
+|**2025-12-21**|**In-Context Audio Control of Video Diffusion Transformers**|Wenze Liu et.al.|[2512.18772](http://arxiv.org/abs/2512.18772)|null|
 |**2025-12-18**|**Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?**|Jiaqi Wang et.al.|[2512.13281](http://arxiv.org/abs/2512.13281)|null|
+|**2025-12-18**|**AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding**|Sanjoy Chowdhury et.al.|[2512.16250](http://arxiv.org/abs/2512.16250)|null|
+|**2025-12-18**|**ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search**|Zhenjie Liu et.al.|[2511.06833](http://arxiv.org/abs/2511.06833)|null|
+|**2025-12-17**|**Audio-Visual Cross-Modal Compression for Generative Face Video Coding**|Youmin Xu et.al.|[2512.15262](http://arxiv.org/abs/2512.15262)|null|
+|**2025-12-17**|**AdSum: Two-stream Audio-visual Summarization for Automated Video Advertisement Clipping**|Wen Xie et.al.|[2510.26569](http://arxiv.org/abs/2510.26569)|null|
+|**2025-12-16**|**TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation**|Zhenzhi Wang et.al.|[2512.14938](http://arxiv.org/abs/2512.14938)|null|
+|**2025-12-16**|**Scalable Frameworks for Real-World Audio-Visual Speech Recognition**|Sungnyun Kim et.al.|[2512.14083](http://arxiv.org/abs/2512.14083)|null|
+|**2025-12-16**|**Audio-Visual Camera Pose Estimation with Passive Scene Sounds and In-the-Wild Video**|Daniel Adebi et.al.|[2512.12165](http://arxiv.org/abs/2512.12165)|null|
 |**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
 |**2025-12-15**|**How PARTs assemble into wholes: Learning the relative composition of images**|Melika Ayoughi et.al.|[2506.03682](http://arxiv.org/abs/2506.03682)|null|
+|**2025-12-15**|**STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits**|Foivos Paraperas Papantoniou et.al.|[2512.13247](http://arxiv.org/abs/2512.13247)|null|
+|**2025-12-15**|**Audio-Visual Speech Enhancement: Architectural Design and Deployment Strategies**|Anis Hamadouche et.al.|[2508.08468](http://arxiv.org/abs/2508.08468)|null|
+|**2025-12-14**|**Schrodinger Audio-Visual Editor: Object-Level Audiovisual Removal**|Weihan Xu et.al.|[2512.12875](http://arxiv.org/abs/2512.12875)|null|
+|**2025-12-14**|**JointAVBench: A Benchmark for Joint Audio-Visual Reasoning Evaluation**|Jianghan Chao et.al.|[2512.12772](http://arxiv.org/abs/2512.12772)|null|
 |**2025-12-13**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
+|**2025-12-11**|**Building Audio-Visual Digital Twins with Smartphones**|Zitong Lan et.al.|[2512.10778](http://arxiv.org/abs/2512.10778)|null|
+|**2025-12-11**|**EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs**|Chao Gong et.al.|[2512.10324](http://arxiv.org/abs/2512.10324)|null|
+|**2025-12-11**|**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**|Xiangyu Zhao et.al.|[2511.19877](http://arxiv.org/abs/2511.19877)|null|
 |**2025-12-10**|**ChronusOmni: Improving Time Awareness of Omni Large Language Models**|Yijing Chen et.al.|[2512.09841](http://arxiv.org/abs/2512.09841)|null|
 |**2025-12-10**|**VABench: A Comprehensive Benchmark for Audio-Video Generation**|Daili Hua et.al.|[2512.09299](http://arxiv.org/abs/2512.09299)|null|
 |**2025-12-10**|**CardioLive: Empowering Video Streaming with Online Cardiac Monitoring**|Sheng Lyu et.al.|[2502.00702](http://arxiv.org/abs/2502.00702)|null|
+|**2025-12-10**|**AURORA:Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation**|Ziyang Luo et.al.|[2508.02149](http://arxiv.org/abs/2508.02149)|null|
+|**2025-12-10**|**TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models**|Ziyang Luo et.al.|[2506.11436](http://arxiv.org/abs/2506.11436)|null|
 |**2025-12-09**|**PAVAS: Physics-Aware Video-to-Audio Synthesis**|Oh Hyun-Bin et.al.|[2512.08282](http://arxiv.org/abs/2512.08282)|null|
 |**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
+|**2025-12-08**|**DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection**|Sayeem Been Zaman et.al.|[2512.07351](http://arxiv.org/abs/2512.07351)|null|
+|**2025-12-07**|**Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation**|Jisoo Park et.al.|[2512.06689](http://arxiv.org/abs/2512.06689)|null|
 |**2025-12-06**|**MAVERIX: Multimodal Audio-Visual Evaluation and Recognition IndeX**|Liuyue Xie et.al.|[2503.21699](http://arxiv.org/abs/2503.21699)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-04**|**DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation**|Fu Li et.al.|[2512.06022](http://arxiv.org/abs/2512.06022)|null|
+|**2025-12-04**|**Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning**|Dongchao Yang et.al.|[2512.03783](http://arxiv.org/abs/2512.03783)|null|
+|**2025-12-03**|**Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation**|Yuchen Deng et.al.|[2512.03590](http://arxiv.org/abs/2512.03590)|null|
+|**2025-12-03**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
+|**2025-12-03**|**ERF-BA-TFD+: A Multimodal Model for Audio-Visual Deepfake Detection**|Xin Zhang et.al.|[2508.17282](http://arxiv.org/abs/2508.17282)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**|Junwon Lee et.al.|[2512.02650](http://arxiv.org/abs/2512.02650)|null|
 |**2025-12-02**|**YingVideo-MV: Music-Driven Multi-Stage Video Generation**|Jiahui Chen et.al.|[2512.02492](http://arxiv.org/abs/2512.02492)|null|
 |**2025-12-02**|**OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning**|Boyu Zhu et.al.|[2512.02306](http://arxiv.org/abs/2512.02306)|null|
+|**2025-12-02**|**Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs**|Tianle Chen et.al.|[2511.22826](http://arxiv.org/abs/2511.22826)|null|
+|**2025-11-30**|**Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound**|Jiahua Wang et.al.|[2512.00883](http://arxiv.org/abs/2512.00883)|null|
+|**2025-11-29**|**Learning to Hear by Seeing: It's Time for Vision Language Models to Understand Artistic Emotion from Sight and Sound**|Dengming Zhang et.al.|[2511.12077](http://arxiv.org/abs/2511.12077)|null|
 |**2025-11-28**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-28**|**A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks**|Chia Xin Liang et.al.|[2411.06284](http://arxiv.org/abs/2411.06284)|null|
+|**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
+|**2025-11-28**|**LongCat-Flash-Omni Technical Report**|Meituan LongCat Team et.al.|[2511.00279](http://arxiv.org/abs/2511.00279)|null|
 |**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
 |**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
 |**2025-11-27**|**Do You See What I Say? Generalizable Deepfake Detection based on Visual Speech Recognition**|Maheswar Bora et.al.|[2511.22443](http://arxiv.org/abs/2511.22443)|null|
-|**2025-11-27**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
+|**2025-11-27**|**MoLT: Mixture of Layer-Wise Tokens for Efficient Audio-Visual Learning**|Kyeongha Rho et.al.|[2512.00115](http://arxiv.org/abs/2512.00115)|null|
+|**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
+|**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
+|**2025-11-27**|**R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios**|Lu Zhu et.al.|[2511.16901](http://arxiv.org/abs/2511.16901)|null|
+|**2025-11-26**|**AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control**|Xinyue Guo et.al.|[2511.21146](http://arxiv.org/abs/2511.21146)|null|
 |**2025-11-24**|**Multimodal Real-Time Anomaly Detection and Industrial Applications**|Aman Verma et.al.|[2511.18698](http://arxiv.org/abs/2511.18698)|null|
 |**2025-11-24**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
+|**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|
+|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|null|
+|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
+|**2025-11-22**|**Decoupled Audio-Visual Dataset Distillation**|Wenyuan Li et.al.|[2511.17890](http://arxiv.org/abs/2511.17890)|null|
+|**2025-11-21**|**Investigating self-supervised representations for audio-visual deepfake detection**|Dragos-Alexandru Boldisor et.al.|[2511.17181](http://arxiv.org/abs/2511.17181)|null|
 |**2025-11-20**|**AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI**|Chae-Gyun Lim et.al.|[2511.20686](http://arxiv.org/abs/2511.20686)|null|
+|**2025-11-20**|**Real-Time Inference for Distributed Multimodal Systems under Communication Delay Uncertainty**|Victor Croisfelt et.al.|[2511.16225](http://arxiv.org/abs/2511.16225)|null|
 |**2025-11-19**|**A Multimodal Transformer Approach for UAV Detection and Aerial Object Recognition Using Radar, Audio, and Video Data**|Mauro Larrat et.al.|[2511.15312](http://arxiv.org/abs/2511.15312)|null|
 |**2025-11-18**|**Surprisingly Fragile: Assessing and Addressing Prompt Instability in Multimodal Foundation Models**|Ian Stewart et.al.|[2408.14595](http://arxiv.org/abs/2408.14595)|null|
+|**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
+|**2025-11-18**|**SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM**|An Yu et.al.|[2511.14143](http://arxiv.org/abs/2511.14143)|null|
+|**2025-11-18**|**GAIS: Frame-Level Gated Audio-Visual Integration with Semantic Variance-Scaled Perturbation for Text-Video Retrieval**|Bowen Yang et.al.|[2508.01711](http://arxiv.org/abs/2508.01711)|null|
+|**2025-11-15**|**READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation**|Haotian Wang et.al.|[2508.03457](http://arxiv.org/abs/2508.03457)|null|
 |**2025-11-14**|**AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization**|Zhonghua Jiang et.al.|[2511.11106](http://arxiv.org/abs/2511.11106)|null|
+|**2025-11-14**|**AV-Dialog: Spoken Dialogue Models with Audio-Visual Input**|Tuochao Chen et.al.|[2511.11124](http://arxiv.org/abs/2511.11124)|null|
+|**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](http://arxiv.org/abs/2511.09915)|null|
+|**2025-11-13**|**Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization**|Ashutosh Anshul et.al.|[2511.10212](http://arxiv.org/abs/2511.10212)|null|
+|**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|null|
+|**2025-11-12**|**Fairness-Aware Few-Shot Learning for Audio-Visual Stress Detection**|Anushka Sanjay Shelke et.al.|[2511.09039](http://arxiv.org/abs/2511.09039)|null|
+|**2025-11-12**|**Two-stage Audio-Visual Target Speaker Extraction System for Real-Time Processing On Edge Device**|Zixuan Li et.al.|[2505.22229](http://arxiv.org/abs/2505.22229)|null|
 |**2025-11-11**|**ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism**|Zedong Liu et.al.|[2507.10069](http://arxiv.org/abs/2507.10069)|null|
+|**2025-11-11**|**Distributed Zero-Shot Learning for Visual Recognition**|Zhi Chen et.al.|[2511.08170](http://arxiv.org/abs/2511.08170)|null|
+|**2025-11-11**|**Multi-modal Deepfake Detection and Localization with FPN-Transformer**|Chende Zheng et.al.|[2511.08031](http://arxiv.org/abs/2511.08031)|null|
+|**2025-11-11**|**AVAR-Net: A Lightweight Audio-Visual Anomaly Recognition Framework with a Benchmark Dataset**|Amjid Ali et.al.|[2510.13630](http://arxiv.org/abs/2510.13630)|null|
 |**2025-11-10**|**Quality Over Quantity? LLM-Based Curation for a Data-Efficient Audio-Video Foundation Model**|Ali Vosoughi et.al.|[2503.09205](http://arxiv.org/abs/2503.09205)|null|
+|**2025-11-09**|**ELEGANCE: Efficient LLM Guidance for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2511.06288](http://arxiv.org/abs/2511.06288)|null|
+|**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-05**|**Analytical Queries for Unstructured Data**|Daniel Kang et.al.|[2511.03489](http://arxiv.org/abs/2511.03489)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-05**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
+|**2025-11-05**|**Emotion Recognition in Multi-Speaker Conversations through Speaker Identification, Knowledge Distillation, and Hierarchical Fusion**|Xiao Li et.al.|[2511.13731](http://arxiv.org/abs/2511.13731)|null|
 |**2025-11-04**|**LUMA-RAG: Lifelong Multimodal Agents with Provably Stable Streaming Alignment**|Rohan Wandre et.al.|[2511.02371](http://arxiv.org/abs/2511.02371)|null|
 |**2025-11-04**|**MultiSoundGen: Video-to-Audio Generation for Multi-Event Scenarios via SlowFast Contrastive Audio-Visual Pretraining and Direct Preference Optimization**|Jianxuan Yang et.al.|[2509.19999](http://arxiv.org/abs/2509.19999)|null|
+|**2025-11-03**|**Towards General Auditory Intelligence: Large Multimodal Models for Machine Listening and Speaking**|Siyin Wang et.al.|[2511.01299](http://arxiv.org/abs/2511.01299)|null|
 |**2025-10-30**|**FreeSliders: Training-Free, Modality-Agnostic Concept Sliders for Fine-Grained Diffusion Control in Images, Audio, and Video**|Rotem Ezra et.al.|[2511.00103](http://arxiv.org/abs/2511.00103)|null|
 |**2025-10-29**|**Data-Juicer 2.0: Cloud-Scale Adaptive Data Processing for and with Foundation Models**|Daoyuan Chen et.al.|[2501.14755](http://arxiv.org/abs/2501.14755)|null|
+|**2025-10-29**|**Audio-Visual Speech Enhancement In Complex Scenarios With Separation And Dereverberation Joint Modeling**|Jiarong Du et.al.|[2510.26825](http://arxiv.org/abs/2510.26825)|null|
 |**2025-10-28**|**Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation**|Kang Zhang et.al.|[2510.24103](http://arxiv.org/abs/2510.24103)|null|
 |**2025-10-28**|**Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok**|Inga K. Wohlert et.al.|[2506.05868](http://arxiv.org/abs/2506.05868)|null|
 |**2025-10-28**|**OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions**|Cheng Luo et.al.|[2505.21724](http://arxiv.org/abs/2505.21724)|null|
+|**2025-10-28**|**V-SAT: Video Subtitle Annotation Tool**|Arpita Kundu et.al.|[2510.24180](http://arxiv.org/abs/2510.24180)|null|
+|**2025-10-28**|**Listening without Looking: Modality Bias in Audio-Visual Captioning**|Yuchi Ishikawa et.al.|[2510.24024](http://arxiv.org/abs/2510.24024)|null|
 |**2025-10-27**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
+|**2025-10-27**|**TEn-CATG:Text-Enriched Audio-Visual Video Parsing with Multi-Scale Category-Aware Temporal Graph**|Yaru Chen et.al.|[2509.04086](http://arxiv.org/abs/2509.04086)|null|
 |**2025-10-25**|**MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation**|Shoubin Yu et.al.|[2506.17113](http://arxiv.org/abs/2506.17113)|null|
 |**2025-10-25**|**DEEMO: De-identity Multimodal Emotion Recognition and Reasoning**|Deng Li et.al.|[2504.19549](http://arxiv.org/abs/2504.19549)|null|
+|**2025-10-24**|**$\texttt{AVROBUSTBENCH}$ : Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time**|Sarthak Kumar Maharana et.al.|[2506.00358](http://arxiv.org/abs/2506.00358)|null|
+|**2025-10-23**|**PreFM: Online Audio-Visual Event Parsing via Predictive Future Modeling**|Xiao Yu et.al.|[2505.23155](http://arxiv.org/abs/2505.23155)|null|
 |**2025-10-22**|**ModServe: Modality- and Stage-Aware Resource Disaggregation for Scalable Multimodal Model Serving**|Haoran Qiu et.al.|[2502.00937](http://arxiv.org/abs/2502.00937)|null|
+|**2025-10-21**|**Embodied Navigation with Auxiliary Task of Action Description Prediction**|Haru Kondoh et.al.|[2510.21809](http://arxiv.org/abs/2510.21809)|null|
+|**2025-10-21**|**AV-Master: Dual-Path Comprehensive Perception Makes Better Audio-Visual Question Answering**|Jiayu Zhang et.al.|[2510.18346](http://arxiv.org/abs/2510.18346)|null|
 |**2025-10-20**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al.|[2510.18075](http://arxiv.org/abs/2510.18075)|null|
 |**2025-10-20**|**ManzaiSet: A Multimodal Dataset of Viewer Responses to Japanese Manzai Comedy**|Kazuki Kawamura et.al.|[2510.18014](http://arxiv.org/abs/2510.18014)|null|
+|**2025-10-18**|**Audio-Visual Speech Enhancement for Spatial Audio - Spatial-VisualVoice and the MAVE Database**|Danielle Yaffe et.al.|[2510.16437](http://arxiv.org/abs/2510.16437)|null|
+|**2025-10-18**|**VGGSounder: Audio-Visual Evaluations for Foundation Models**|Daniil Zverev et.al.|[2508.08237](http://arxiv.org/abs/2508.08237)|null|
+|**2025-10-17**|**Poultry Farm Intelligence: An Integrated Multi-Sensor AI Platform for Enhanced Welfare and Productivity**|Pieris Panagi et.al.|[2510.15757](http://arxiv.org/abs/2510.15757)|null|
 |**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-16**|**AvatarSync: Rethinking Talking-Head Animation through Phoneme-Guided Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
-|**2025-10-13**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|Hongyu Zhu et.al.|[2510.11579](http://arxiv.org/abs/2510.11579)|null|
+|**2025-10-16**|**Revisit Modality Imbalance at the Decision Layer**|Xiaoyu Ma et.al.|[2510.14411](http://arxiv.org/abs/2510.14411)|null|
+|**2025-10-16**|**PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis**|Soumyya Kanti Datta et.al.|[2510.14241](http://arxiv.org/abs/2510.14241)|null|
+|**2025-10-16**|**Towards Inclusive Communication: A Unified Framework for Generating Spoken Language from Sign, Lip, and Audio**|Jeong Hun Yeo et.al.|[2508.20476](http://arxiv.org/abs/2508.20476)|null|
+|**2025-10-15**|**Two Heads Are Better Than One: Audio-Visual Speech Error Correction with Dual Hypotheses**|Sungnyun Kim et.al.|[2510.13281](http://arxiv.org/abs/2510.13281)|null|
+|**2025-10-15**|**ESG-Net: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization**|Huilai Li et.al.|[2507.09945](http://arxiv.org/abs/2507.09945)|null|
+|**2025-10-14**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|Ziyang Ma et.al.|[2510.12720](http://arxiv.org/abs/2510.12720)|null|
+|**2025-10-14**|**A Fast and Lightweight Model for Causal Audio-Visual Speech Separation**|Wendi Sang et.al.|[2506.06689](http://arxiv.org/abs/2506.06689)|null|
 |**2025-10-13**|**Communication-Efficient Diffusion Denoising Parallelization via Reuse-then-Predict Mechanism**|Kunyun Wang et.al.|[2505.14741](http://arxiv.org/abs/2505.14741)|null|
+|**2025-10-13**|**Audio-Guided Visual Perception for Audio-Visual Navigation**|Yi Wang et.al.|[2510.11760](http://arxiv.org/abs/2510.11760)|null|
 |**2025-10-11**|**Benchmarking and Bridging Emotion Conflicts for Multimodal Emotion Reasoning**|Zhiyuan Han et.al.|[2508.01181](http://arxiv.org/abs/2508.01181)|null|
+|**2025-10-11**|**Complementary and Contrastive Learning for Audio-Visual Segmentation**|Sitong Gong et.al.|[2510.10051](http://arxiv.org/abs/2510.10051)|null|
 |**2025-10-10**|**MMAudioSep: Taming Video-to-Audio Generative Model Towards Video/Text-Queried Sound Separation**|Akira Takahashi et.al.|[2510.09065](http://arxiv.org/abs/2510.09065)|null|
 |**2025-10-10**|**TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis**|Tri Ton et.al.|[2504.05684](http://arxiv.org/abs/2504.05684)|null|
+|**2025-10-10**|**SeeingSounds: Learning Audio-to-Visual Alignment via Text**|Simone Carnemolla et.al.|[2510.11738](http://arxiv.org/abs/2510.11738)|null|
+|**2025-10-10**|**From Coarse to Fine: Recursive Audio-Visual Semantic Enhancement for Speech Separation**|Ke Xue et.al.|[2509.22425](http://arxiv.org/abs/2509.22425)|null|
+|**2025-10-10**|**AniME: Adaptive Multi-Agent Planning for Long Animation Generation**|Lisai Zhang et.al.|[2508.18781](http://arxiv.org/abs/2508.18781)|null|
 |**2025-10-09**|**IsoSignVid2Aud: Sign Language Video to Audio Conversion without Text Intermediaries**|Harsh Kavediya et.al.|[2510.07837](http://arxiv.org/abs/2510.07837)|null|
 |**2025-10-08**|**Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visual Temporal Understanding**|Yolo Yunlong Tang et.al.|[2403.16276](http://arxiv.org/abs/2403.16276)|null|
+|**2025-10-08**|**AV-EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Omni-modal LLMS with Audio-visual Cues**|Krish Patel et.al.|[2510.07355](http://arxiv.org/abs/2510.07355)|null|
 |**2025-10-07**|**LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval**|Avishree Khare et.al.|[2510.06512](http://arxiv.org/abs/2510.06512)|null|
 |**2025-10-07**|**Controllable Audio-Visual Viewpoint Generation from 360° Spatial Information**|Christian Marinoni et.al.|[2510.06060](http://arxiv.org/abs/2510.06060)|null|
 |**2025-10-07**|**FoleyGRAM: Video-to-Audio Generation with GRAM-Aligned Multimodal Encoders**|Riccardo Fosco Gramaccioni et.al.|[2510.05829](http://arxiv.org/abs/2510.05829)|null|
 |**2025-10-07**|**StereoSync: Spatially-Aware Stereo Audio Generation from Video**|Christian Marinoni et.al.|[2510.05828](http://arxiv.org/abs/2510.05828)|null|
 |**2025-10-07**|**DiffSDA: Unsupervised Diffusion Sequential Disentanglement Across Modalities**|Hedi Zisling et.al.|[2510.05717](http://arxiv.org/abs/2510.05717)|null|
 |**2025-10-07**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
+|**2025-10-07**|**CL-UZH submission to the NIST SRE 2024 Speaker Recognition Evaluation**|Aref Farhadipour et.al.|[2510.00952](http://arxiv.org/abs/2510.00952)|null|
+|**2025-10-06**|**AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement**|M. Sajid et.al.|[2510.05295](http://arxiv.org/abs/2510.05295)|null|
 |**2025-10-05**|**StereoFoley: Object-Aware Stereo Audio Generation from Video**|Tornike Karchkhadze et.al.|[2509.18272](http://arxiv.org/abs/2509.18272)|null|
+|**2025-10-05**|**MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2510.04136](http://arxiv.org/abs/2510.04136)|null|
+|**2025-10-05**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-10-03**|**SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos**|Amir Dellali et.al.|[2510.02916](http://arxiv.org/abs/2510.02916)|null|
 |**2025-10-02**|**Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation**|Beijia Lu et.al.|[2510.02617](http://arxiv.org/abs/2510.02617)|null|
 |**2025-10-02**|**Stacked Regression using Off-the-shelf, Stimulus-tuned and Fine-tuned Neural Networks for Predicting fMRI Brain Responses to Movies (Algonauts 2025 Report)**|Robert Scholz et.al.|[2510.06235](http://arxiv.org/abs/2510.06235)|null|
 |**2025-10-02**|**SoundReactor: Frame-level Online Video-to-Audio Generation**|Koichi Saito et.al.|[2510.02110](http://arxiv.org/abs/2510.02110)|null|
+|**2025-10-02**|**Beyond Simple Fusion: Adaptive Gated Fusion for Robust Multimodal Sentiment Analysis**|Han Wu et.al.|[2510.01677](http://arxiv.org/abs/2510.01677)|null|
 |**2025-10-01**|**Dynamic Pacing for Real-time Satellite Traffic**|Aashish Gottipati et.al.|[2507.09798](http://arxiv.org/abs/2507.09798)|null|
 |**2025-09-30**|**Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation**|Chetwin Low et.al.|[2510.01284](http://arxiv.org/abs/2510.01284)|null|
 |**2025-09-30**|**Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models**|Chaeyoung Jung et.al.|[2505.20873](http://arxiv.org/abs/2505.20873)|null|
+|**2025-09-30**|**LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning**|Kang Yang et.al.|[2509.25670](http://arxiv.org/abs/2509.25670)|null|
+|**2025-09-30**|**Iterative Residual Cross-Attention Mechanism: An Integrated Approach for Audio-Visual Navigation Tasks**|Hailong Zhang et.al.|[2509.25652](http://arxiv.org/abs/2509.25652)|null|
+|**2025-09-30**|**Leveraging Mamba with Full-Face Vision for Audio-Visual Speech Enhancement**|Rong Chao et.al.|[2508.13624](http://arxiv.org/abs/2508.13624)|null|
+|**2025-09-30**|**AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding**|Chaeyoung Jung et.al.|[2505.20862](http://arxiv.org/abs/2505.20862)|null|
 |**2025-09-29**|**Training-Free Multimodal Guidance for Video to Audio Generation**|Eleonora Grassucci et.al.|[2509.24550](http://arxiv.org/abs/2509.24550)|null|
+|**2025-09-29**|**Scalable Audio-Visual Masked Autoencoders for Efficient Affective Video Facial Analysis**|Xuecheng Wu et.al.|[2509.24214](http://arxiv.org/abs/2509.24214)|null|
 |**2025-09-28**|**AudioMoG: Guiding Audio Generation with Mixture-of-Guidance**|Junyou Wang et.al.|[2509.23727](http://arxiv.org/abs/2509.23727)|null|
-|**2025-09-26**|**WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM**|Changli Tang et.al.|[2509.21990](http://arxiv.org/abs/2509.21990)|null|
+|**2025-09-28**|**AISHELL6-whisper: A Chinese Mandarin Audio-visual Whisper Speech Dataset with Speech Recognition Baselines**|Cancan Li et.al.|[2509.23833](http://arxiv.org/abs/2509.23833)|null|
+|**2025-09-28**|**Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention**|Kai Li et.al.|[2509.23610](http://arxiv.org/abs/2509.23610)|null|
+|**2025-09-28**|**HDA-SELD: Hierarchical Cross-Modal Distillation with Multi-Level Data Augmentation for Low-Resource Audio-Visual Sound Event Localization and Detection**|Qing Wang et.al.|[2508.12334](http://arxiv.org/abs/2508.12334)|null|
+|**2025-09-28**|**Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models**|Leyi Pan et.al.|[2508.07173](http://arxiv.org/abs/2508.07173)|null|
+|**2025-09-28**|**Face-voice Association in Multilingual Environments (FAME) 2026 Challenge Evaluation Plan**|Marta Moscati et.al.|[2508.04592](http://arxiv.org/abs/2508.04592)|null|
+|**2025-09-27**|**Object-AVEdit: An Object-level Audio-Visual Editing Model**|Youquan Fu et.al.|[2510.00050](http://arxiv.org/abs/2510.00050)|null|
+|**2025-09-27**|**XGC-AVis: Towards Audio-Visual Content Understanding with a Multi-Agent Collaborative System**|Yuqin Cao et.al.|[2509.23251](http://arxiv.org/abs/2509.23251)|null|
 |**2025-09-26**|**Syncphony: Synchronized Audio-to-Video Generation with Diffusion Transformers**|Jibin Song et.al.|[2509.21893](http://arxiv.org/abs/2509.21893)|null|
 |**2025-09-26**|**VAT-KG: Knowledge-Intensive Multimodal Knowledge Graph Dataset for Retrieval-Augmented Generation**|Hyeongcheol Park et.al.|[2506.21556](http://arxiv.org/abs/2506.21556)|null|
+|**2025-09-26**|**High-Quality Sound Separation Across Diverse Categories via Visually-Guided Generative Modeling**|Chao Huang et.al.|[2509.22063](http://arxiv.org/abs/2509.22063)|null|
+|**2025-09-26**|**StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing**|Liyang Chen et.al.|[2509.21887](http://arxiv.org/abs/2509.21887)|null|
+|**2025-09-26**|**GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition**|Tianyue Wang et.al.|[2509.16031](http://arxiv.org/abs/2509.16031)|null|
+|**2025-09-26**|**video-SALMONN 2: Caption-Enhanced Audio-Visual Large Language Models**|Changli Tang et.al.|[2506.15220](http://arxiv.org/abs/2506.15220)|null|
+|**2025-09-26**|**EgoVIS@CVPR: PAIR-Net: Enhancing Egocentric Speaker Detection via Pretrained Audio-Visual Fusion and Alignment Loss**|Yu Wang et.al.|[2506.02247](http://arxiv.org/abs/2506.02247)|null|
+|**2025-09-25**|**Real-Time System for Audio-Visual Target Speech Enhancement**|T. Aleksandra Ma et.al.|[2509.20741](http://arxiv.org/abs/2509.20741)|null|
+|**2025-09-24**|**Audio-Visual Separation with Hierarchical Fusion and Representation Alignment**|Han Hu et.al.|[2510.07326](http://arxiv.org/abs/2510.07326)|null|
+|**2025-09-24**|**Robust Audio-Visual Target Speaker Extraction with Emotion-Aware Multiple Enrollment Fusion**|Zhan Jin et.al.|[2509.12583](http://arxiv.org/abs/2509.12583)|null|
+|**2025-09-23**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Yunzhe Shen et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
+|**2025-09-23**|**Dynamic Multi-Target Fusion for Efficient Audio-Visual Navigation**|Yinfeng Yu et.al.|[2509.21377](http://arxiv.org/abs/2509.21377)|null|
+|**2025-09-23**|**SimToken: A Simple Baseline for Referring Audio-Visual Segmentation**|Dian Jin et.al.|[2509.17537](http://arxiv.org/abs/2509.17537)|null|
+|**2025-09-23**|**Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**|Tan-Hanh Pham et.al.|[2508.12587](http://arxiv.org/abs/2508.12587)|null|
+|**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
+|**2025-09-22**|**Leveraging Audio-Visual Data to Reduce the Multilingual Gap in Self-Supervised Speech Models**|María Andrea Cruz Blandón et.al.|[2509.17523](http://arxiv.org/abs/2509.17523)|null|
 |**2025-09-21**|**VAInpaint: Zero-Shot Video-Audio inpainting framework with LLMs-driven Module**|Kam Man Wu et.al.|[2509.17022](http://arxiv.org/abs/2509.17022)|null|
+|**2025-09-21**|**Audio-Guided Dynamic Modality Fusion with Stereo-Aware Attention for Audio-Visual Navigation**|Jia Li et.al.|[2509.16924](http://arxiv.org/abs/2509.16924)|null|
+|**2025-09-21**|**Advancing Audio-Visual Navigation Through Multi-Agent Collaboration in 3D Environments**|Hailong Zhang et.al.|[2509.22698](http://arxiv.org/abs/2509.22698)|null|
+|**2025-09-21**|**PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control**|Tianheng Zhu et.al.|[2509.16922](http://arxiv.org/abs/2509.16922)|null|
 |**2025-09-19**|**Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech**|Xinlei Niu et.al.|[2509.15492](http://arxiv.org/abs/2509.15492)|null|
+|**2025-09-19**|**Interpreting the Role of Visemes in Audio-Visual Speech Recognition**|Aristeidis Papadopoulos et.al.|[2509.16023](http://arxiv.org/abs/2509.16023)|null|
+|**2025-09-19**|**SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models**|Qiaolin Wang et.al.|[2509.15661](http://arxiv.org/abs/2509.15661)|null|
+|**2025-09-19**|**RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes**|Fang Li et.al.|[2509.15123](http://arxiv.org/abs/2509.15123)|null|
+|**2025-09-18**|**Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**|Zhu Li et.al.|[2509.15476](http://arxiv.org/abs/2509.15476)|null|
+|**2025-09-18**|**Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification**|Yuanjian Chen et.al.|[2509.14893](http://arxiv.org/abs/2509.14893)|null|
+|**2025-09-18**|**MMED: A Multimodal Micro-Expression Dataset based on Audio-Visual Fusion**|Junbo Wang et.al.|[2509.14592](http://arxiv.org/abs/2509.14592)|null|
 |**2025-09-17**|**A long-form single-speaker real-time MRI speech dataset and benchmark**|Sean Foley et.al.|[2509.14479](http://arxiv.org/abs/2509.14479)|null|
+|**2025-09-17**|**Diffusion-Based Unsupervised Audio-Visual Speech Separation in Noisy Environments with Noise Prior**|Yochai Yemini et.al.|[2509.14379](http://arxiv.org/abs/2509.14379)|null|
+|**2025-09-17**|**Teacher-Guided Pseudo Supervision and Cross-Modal Alignment for Audio-Visual Video Parsing**|Yaru Chen et.al.|[2509.14097](http://arxiv.org/abs/2509.14097)|null|
+|**2025-09-17**|**The Cybersecurity of a Humanoid Robot**|Víctor Mayoral-Vilches et.al.|[2509.14096](http://arxiv.org/abs/2509.14096)|null|
+|**2025-09-17**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
+|**2025-09-15**|**Character-Centric Understanding of Animated Movies**|Zhongrui Gui et.al.|[2509.12204](http://arxiv.org/abs/2509.12204)|null|
 |**2025-09-12**|**DyKen-Hyena: Dynamic Kernel Generation via Cross-Modal Attention for Multimodal Intent Recognition**|Yifei Wang et.al.|[2509.09940](http://arxiv.org/abs/2509.09940)|null|
 |**2025-09-11**|**D-CAT: Decoupled Cross-Attention Transfer between Sensor Modalities for Unimodal Inference**|Leen Daher et.al.|[2509.09747](http://arxiv.org/abs/2509.09747)|null|
+|**2025-09-10**|**PianoVAM: A Multimodal Piano Performance Dataset**|Yonghyun Kim et.al.|[2509.08800](http://arxiv.org/abs/2509.08800)|null|
+|**2025-09-10**|**HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**|Liyang Chen et.al.|[2509.08519](http://arxiv.org/abs/2509.08519)|null|
+|**2025-09-10**|**Memory-Anchored Multimodal Reasoning for Explainable Video Forensics**|Chen Chen et.al.|[2508.14581](http://arxiv.org/abs/2508.14581)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|Xiaoran Yang et.al.|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
+|**2025-09-08**|**Integrating Spatial and Semantic Embeddings for Stereo Sound Event Localization in Videos**|Davide Berghi et.al.|[2509.06598](http://arxiv.org/abs/2509.06598)|null|
+|**2025-09-07**|**UniVerse-1: Unified Audio-Video Generation via Stitching of Experts**|Duomin Wang et.al.|[2509.06155](http://arxiv.org/abs/2509.06155)|null|
 |**2025-09-05**|**Efficient Video-to-Audio Generation via Multiple Foundation Models Mapper**|Gehui Chen et.al.|[2509.04957](http://arxiv.org/abs/2509.04957)|null|
+|**2025-09-05**|**MEAN-RIR: Multi-Modal Environment-Aware Network for Robust Room Impulse Response Estimation**|Jiajian Chen et.al.|[2509.05205](http://arxiv.org/abs/2509.05205)|null|
 |**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|Tian Miao et.al.|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
+|**2025-09-03**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-08-29**|**Consistent and Invariant Generalization Learning for Short-video Misinformation Detection**|Hanghui Guo et.al.|[2507.04061](http://arxiv.org/abs/2507.04061)|null|
+|**2025-08-29**|**Learning from Silence and Noise for Visual Sound Source Localization**|Xavier Juanola et.al.|[2508.21761](http://arxiv.org/abs/2508.21761)|null|
 |**2025-08-28**|**MM-HSD: Multi-Modal Hate Speech Detection in Videos**|Berta Céspedes-Sarrias et.al.|[2508.20546](http://arxiv.org/abs/2508.20546)|null|
+|**2025-08-28**|**A Solution of Ultra Wideband Based High-resolution and Lossless Audio Transmission**|Fengyun Zhang et.al.|[2508.20782](http://arxiv.org/abs/2508.20782)|null|
+|**2025-08-27**|**Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360-Degree Videos**|Mert Cokelek et.al.|[2508.20221](http://arxiv.org/abs/2508.20221)|null|
+|**2025-08-27**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
+|**2025-08-26**|**Audio-Visual Feature Synchronization for Robust Speech Enhancement in Hearing Aids**|Nasir Saleem et.al.|[2508.19483](http://arxiv.org/abs/2508.19483)|null|
+|**2025-08-26**|**Improving Noise Robust Audio-Visual Speech Recognition via Router-Gated Cross-Modal Feature Fusion**|DongHoon Lim et.al.|[2508.18734](http://arxiv.org/abs/2508.18734)|null|
+|**2025-08-24**|**Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and Voice**|Hugo Bohy et.al.|[2508.17502](http://arxiv.org/abs/2508.17502)|null|
 |**2025-08-23**|**HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation**|Sizhe Shan et.al.|[2508.16930](http://arxiv.org/abs/2508.16930)|null|
 |**2025-08-22**|**Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment**|Fengshun Wang et.al.|[2508.16291](http://arxiv.org/abs/2508.16291)|null|
 |**2025-08-21**|**FoleySpace: Vision-Aligned Binaural Spatial Audio Generation**|Lei Zhao et.al.|[2508.12918](http://arxiv.org/abs/2508.12918)|null|
+|**2025-08-21**|**AURA: A Fine-Grained Benchmark and Decomposed Metric for Audio-Visual Reasoning**|Siminfar Samakoush Galougah et.al.|[2508.07470](http://arxiv.org/abs/2508.07470)|null|
 |**2025-08-19**|**Towards Efficient Vision State Space Models via Token Merging**|Jinyoung Park et.al.|[2508.13599](http://arxiv.org/abs/2508.13599)|null|
 |**2025-08-19**|**EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis**|Shuai Tan et.al.|[2508.13442](http://arxiv.org/abs/2508.13442)|null|
+|**2025-08-19**|**InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing**|Shaoshu Yang et.al.|[2508.14033](http://arxiv.org/abs/2508.14033)|null|
+|**2025-08-18**|**SPANER: Shared Prompt Aligner for Multimodal Semantic Representation**|Thye Shan Ng et.al.|[2508.13387](http://arxiv.org/abs/2508.13387)|null|
+|**2025-08-18**|**Multi-source Multimodal Progressive Domain Adaption for Audio-Visual Deception Detection**|Ronghao Lin et.al.|[2508.12842](http://arxiv.org/abs/2508.12842)|null|
 |**2025-08-16**|**MOVER: Multimodal Optimal Transport with Volume-based Embedding Regularization**|Haochen You et.al.|[2508.12149](http://arxiv.org/abs/2508.12149)|null|
 |**2025-08-15**|**Mitigating Category Imbalance: Fosafer System for the Multimodal Emotion and Intent Joint Understanding Challenge**|Honghong Wang et.al.|[2508.11362](http://arxiv.org/abs/2508.11362)|null|
 |**2025-08-14**|**LD-LAudio-V1: Video-to-Long-Form-Audio Generation Extension with Dual Lightweight Adapters**|Haomin Zhang et.al.|[2508.11074](http://arxiv.org/abs/2508.11074)|null|
 |**2025-08-14**|**A Unified Multi-Agent Framework for Universal Multimodal Understanding and Generation**|Jiulin Li et.al.|[2508.10494](http://arxiv.org/abs/2508.10494)|null|
+|**2025-08-13**|**SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection**|Yachao Liang et.al.|[2508.09913](http://arxiv.org/abs/2508.09913)|null|
 |**2025-08-12**|**Gotta Hear Them All: Towards Sound Source Aware Audio Generation**|Wei Guo et.al.|[2411.15447](http://arxiv.org/abs/2411.15447)|null|
+|**2025-08-12**|**Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization**|Chaoqun Cui et.al.|[2508.08550](http://arxiv.org/abs/2508.08550)|null|
+|**2025-08-12**|**MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing**|Langyu Wang et.al.|[2507.01384](http://arxiv.org/abs/2507.01384)|null|
 |**2025-08-11**|**Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**|Peiqi He et.al.|[2508.08199](http://arxiv.org/abs/2508.08199)|null|
 |**2025-08-11**|**UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling**|Ziqian Wang et.al.|[2508.07558](http://arxiv.org/abs/2508.07558)|null|
+|**2025-08-11**|**AD-AVSR: Asymmetric Dual-stream Enhancement for Robust Audio-Visual Speech Recognition**|Junxiao Xue et.al.|[2508.07608](http://arxiv.org/abs/2508.07608)|null|
+|**2025-08-10**|**KLASSify to Verify: Audio-Visual Deepfake Detection Using SSL-based Audio and Handcrafted Visual Features**|Ivan Kukanov et.al.|[2508.07337](http://arxiv.org/abs/2508.07337)|null|
+|**2025-08-10**|**Engagement Prediction of Short Videos with Large Multimodal Models**|Wei Sun et.al.|[2508.02516](http://arxiv.org/abs/2508.02516)|null|
 |**2025-08-09**|**X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation**|Jian Ma et.al.|[2503.06134](http://arxiv.org/abs/2503.06134)|null|
+|**2025-08-09**|**eMotions: A Large-Scale Dataset and Audio-Visual Fusion Network for Emotion Analysis in Short-form Videos**|Xuecheng Wu et.al.|[2508.06902](http://arxiv.org/abs/2508.06902)|null|
 |**2025-08-08**|**AGI for the Earth, the path, possibilities and how to evaluate intelligence of models that work with Earth Observation Data?**|Mojtaba Valipour et.al.|[2508.06057](http://arxiv.org/abs/2508.06057)|null|
 |**2025-08-07**|**AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation**|Le Wang et.al.|[2508.00733](http://arxiv.org/abs/2508.00733)|null|
+|**2025-08-06**|**CLASP: Cross-modal Salient Anchor-based Semantic Propagation for Weakly-supervised Dense Audio-Visual Event Localization**|Jinxing Zhou et.al.|[2508.04566](http://arxiv.org/abs/2508.04566)|null|
+|**2025-08-06**|**Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2508.04418](http://arxiv.org/abs/2508.04418)|null|
+|**2025-08-06**|**ViLLA-MMBench: A Unified Benchmark Suite for LLM-Augmented Multimodal Movie Recommendation**|Fatemeh Nazary et.al.|[2508.04206](http://arxiv.org/abs/2508.04206)|null|
+|**2025-08-06**|**SVC 2025: the First Multimodal Deception Detection Challenge**|Xun Lin et.al.|[2508.04129](http://arxiv.org/abs/2508.04129)|null|
+|**2025-08-06**|**AV-SSAN: Audio-Visual Selective DoA Estimation through Explicit Multi-Band Semantic-Spatial Alignment**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
+|**2025-08-06**|**Can Sound Replace Vision in LLaVA With Token Substitution?**|Ali Vosoughi et.al.|[2506.10416](http://arxiv.org/abs/2506.10416)|null|
 |**2025-08-04**|**Multimodal Large Language Models for End-to-End Affective Computing: Benchmarking and Boosting with Generative Knowledge Prompting**|Miaosen Luo et.al.|[2508.02429](http://arxiv.org/abs/2508.02429)|null|
+|**2025-08-04**|**How Would It Sound? Material-Controlled Multimodal Acoustic Profile Generation for Indoor Scenes**|Mahnoor Fatima Saad et.al.|[2508.02905](http://arxiv.org/abs/2508.02905)|null|
+|**2025-08-04**|**Text2Lip: Progressive Lip-Synced Talking Face Generation from Text via Viseme-Guided Rendering**|Xu Wang et.al.|[2508.02362](http://arxiv.org/abs/2508.02362)|null|
+|**2025-08-04**|**Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling**|Xuanjun Chen et.al.|[2508.02000](http://arxiv.org/abs/2508.02000)|null|
+|**2025-08-04**|**Real-Time Audio-Visual Speech Enhancement Using Pre-trained Visual Representations**|T. Aleksandra Ma et.al.|[2507.21448](http://arxiv.org/abs/2507.21448)|null|
 |**2025-08-01**|**Multi-Agent Game Generation and Evaluation via Audio-Visual Recordings**|Alexia Jolicoeur-Martineau et.al.|[2508.00632](http://arxiv.org/abs/2508.00632)|null|
+|**2025-07-31**|**Learning Personalised Human Internal Cognition from External Expressive Behaviours for Real Personality Recognition**|Xiangyu Kong et.al.|[2508.00205](http://arxiv.org/abs/2508.00205)|null|
+|**2025-07-31**|**Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation**|Kaining Ying et.al.|[2507.22886](http://arxiv.org/abs/2507.22886)|null|
+|**2025-07-30**|**HOLA: Enhancing Audio-visual Deepfake Detection via Hierarchical Contextual Aggregations and Efficient Pre-training**|Xuecheng Wu et.al.|[2507.22781](http://arxiv.org/abs/2507.22781)|null|
+|**2025-07-30**|**Traits Run Deep: Enhancing Personality Assessment via Psychology-Guided LLM Representations and Multimodal Apparent Behaviors**|Jia Li et.al.|[2507.22367](http://arxiv.org/abs/2507.22367)|null|
+|**2025-07-29**|**From Waveforms to Pixels: A Survey on Audio-Visual Segmentation**|Jia Li et.al.|[2508.03724](http://arxiv.org/abs/2508.03724)|null|
+|**2025-07-29**|**VeS: Teaching Pixels to Listen Without Supervision**|Sajay Raj et.al.|[2507.22008](http://arxiv.org/abs/2507.22008)|null|
+|**2025-07-29**|**Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning**|Jiong Yin et.al.|[2507.21588](http://arxiv.org/abs/2507.21588)|null|
+|**2025-07-28**|**Implicit Counterfactual Learning for Audio-Visual Segmentation**|Mingfeng Zha et.al.|[2507.20740](http://arxiv.org/abs/2507.20740)|null|
+|**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579](http://arxiv.org/abs/2507.20579)|null|
 |**2025-07-27**|**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation**|Shuolin Xu et.al.|[2507.20368](http://arxiv.org/abs/2507.20368)|null|
 |**2025-07-22**|**METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark**|Xu Yang et.al.|[2507.16206](http://arxiv.org/abs/2507.16206)|null|
+|**2025-07-22**|**AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs**|Lidong Lu et.al.|[2506.05328](http://arxiv.org/abs/2506.05328)|null|
+|**2025-07-21**|**MeMo: Attentional Momentum for Real-time Audio-visual Speaker Extraction under Impaired Visual Conditions**|Junjie Li et.al.|[2507.15294](http://arxiv.org/abs/2507.15294)|null|
 |**2025-07-17**|**SpecMaskFoley: Steering Pretrained Spectral Masked Generative Transformer Toward Synchronized Video-to-audio Synthesis via ControlNet**|Zhi Zhong et.al.|[2505.16195](http://arxiv.org/abs/2505.16195)|null|
+|**2025-07-17**|**AVFSNet: Audio-Visual Speech Separation for Flexible Number of Speakers with Multi-Scale and Multi-Task Learning**|Daning Zhang et.al.|[2507.12972](http://arxiv.org/abs/2507.12972)|null|
+|**2025-07-16**|**Language-Guided Contrastive Audio-Visual Masked Autoencoder with Automatically Generated Audio-Visual-Text Triplets from Videos**|Yuchi Ishikawa et.al.|[2507.11967](http://arxiv.org/abs/2507.11967)|null|
+|**2025-07-16**|**Developing an AI-Guided Assistant Device for the Deaf and Hearing Impaired**|Jiayu et.al.|[2507.14215](http://arxiv.org/abs/2507.14215)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-14**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|
+|**2025-07-14**|**SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation**|Youliang Zhang et.al.|[2507.09862](http://arxiv.org/abs/2507.09862)|null|
+|**2025-07-14**|**On the development of an AI performance and behavioural measures for teaching and classroom management**|Andreea I. Niculescu et.al.|[2506.11143](http://arxiv.org/abs/2506.11143)|null|
 |**2025-07-13**|**Hear-Your-Click: Interactive Object-Specific Video-to-Audio Generation**|Yingshan Liang et.al.|[2507.04959](http://arxiv.org/abs/2507.04959)|null|
+|**2025-07-12**|**Dynamic Inter-Class Confusion-Aware Encoder for Audio-Visual Fusion in Human Activity Recognition**|Kaixuan Cong et.al.|[2507.09323](http://arxiv.org/abs/2507.09323)|null|
+|**2025-07-09**|**Audio-Visual Speech Separation via Bottleneck Iterative Network**|Sidong Zhang et.al.|[2507.07270](http://arxiv.org/abs/2507.07270)|null|
 |**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-08**|**Multimodal Integration Challenges in Emotionally Expressive Child Avatars for Training Applications**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
 |**2025-07-07**|**iLSU-T: an Open Dataset for Uruguayan Sign Language Translation**|Ariel E. Stassi et.al.|[2507.21104](http://arxiv.org/abs/2507.21104)|null|
 |**2025-07-07**|**UniForm: A Unified Multi-Task Diffusion Transformer for Audio-Video Generation**|Lei Zhao et.al.|[2502.03897](http://arxiv.org/abs/2502.03897)|null|
+|**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845](http://arxiv.org/abs/2507.04845)|null|
+|**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
+|**2025-07-04**|**Label-Free Long-Horizon 3D UAV Trajectory Prediction via Motion-Aligned RGB and Event Cues**|Hanfang Liang et.al.|[2507.03365](http://arxiv.org/abs/2507.03365)|null|
 |**2025-07-03**|**Spotlighting Partially Visible Cinematic Language for Video-to-Audio Generation via Self-distillation**|Feizhen Huang et.al.|[2507.02271](http://arxiv.org/abs/2507.02271)|null|
 |**2025-07-03**|**The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions**|Ping Liu et.al.|[2502.05673](http://arxiv.org/abs/2502.05673)|null|
+|**2025-06-30**|**Revisiting Audio-Visual Segmentation with Vision-Centric Transformer**|Shaofei Huang et.al.|[2506.23623](http://arxiv.org/abs/2506.23623)|null|
+|**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
+|**2025-06-29**|**Mettle: Meta-Token Learning for Memory-Efficient Audio-Visual Adaptation**|Jinxing Zhou et.al.|[2506.23271](http://arxiv.org/abs/2506.23271)|null|
+|**2025-06-29**|**DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding**|Mona Ahmadian et.al.|[2506.23196](http://arxiv.org/abs/2506.23196)|null|
+|**2025-06-29**|**OmniEval: A Benchmark for Evaluating Omni-modal Models with Visual, Auditory, and Textual Inputs**|Yiman Zhang et.al.|[2506.20960](http://arxiv.org/abs/2506.20960)|null|
 |**2025-06-28**|**Peccavi: Visual Paraphrase Attack Safe and Distortion Free Image Watermarking Technique for AI-Generated Images**|Shreyas Dixit et.al.|[2506.22960](http://arxiv.org/abs/2506.22960)|null|
+|**2025-06-26**|**Leveraging Unlabeled Audio-Visual Data in Speech Emotion Recognition using Knowledge Distillation**|Varsha Pendyala et.al.|[2507.00055](http://arxiv.org/abs/2507.00055)|null|
 |**2025-06-25**|**Universal and Efficient Detection of Adversarial Data through Nonuniform Impact on Network Layers**|Furkan Mumcu et.al.|[2506.20816](http://arxiv.org/abs/2506.20816)|null|
+|**2025-06-25**|**The role of audio-visual integration in the time course of phonetic encoding in self-supervised speech models**|Yi Wang et.al.|[2506.20361](http://arxiv.org/abs/2506.20361)|null|
 |**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
+|**2025-06-24**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557](http://arxiv.org/abs/2506.18557)|null|
+|**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
+|**2025-06-21**|**SSAVSV: Towards Unified Model for Self-Supervised Audio-Visual Speaker Verification**|Gnana Praveen Rajasekhar et.al.|[2506.17694](http://arxiv.org/abs/2506.17694)|null|
+|**2025-06-20**|**V-CASS: Vision-context-aware Expressive Speech Synthesis for Enhancing User Understanding of Videos**|Qixin Wang et.al.|[2506.16716](http://arxiv.org/abs/2506.16716)|null|
+|**2025-06-19**|**VS-Singer: Vision-Guided Stereo Singing Voice Synthesis with Consistency Schrödinger Bridge**|Zijing Zhao et.al.|[2506.16020](http://arxiv.org/abs/2506.16020)|null|
 |**2025-06-16**|**Detecting Adversarial Examples**|Furkan Mumcu et.al.|[2410.17442](http://arxiv.org/abs/2410.17442)|null|
+|**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
+|**2025-06-15**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
 |**2025-06-13**|**ViSAGe: Video-to-Spatial Audio Generation**|Jaeyeon Kim et.al.|[2506.12199](http://arxiv.org/abs/2506.12199)|null|
+|**2025-06-13**|**Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models**|Jinming Wen et.al.|[2506.11521](http://arxiv.org/abs/2506.11521)|null|
+|**2025-06-13**|**MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks**|Sanjoy Chowdhury et.al.|[2506.07016](http://arxiv.org/abs/2506.07016)|null|
+|**2025-06-12**|**Research on Audio-Visual Quality Assessment Dataset and Method for User-Generated Omnidirectional Video**|Fei Zhao et.al.|[2506.10331](http://arxiv.org/abs/2506.10331)|null|
 |**2025-06-10**|**MOSAIC-F: A Framework for Enhancing Students' Oral Presentation Skills through Personalized Feedback**|Alvaro Becerra et.al.|[2506.08634](http://arxiv.org/abs/2506.08634)|null|
+|**2025-06-10**|**Context-aware TFL: A Universal Context-aware Contrastive Learning Framework for Temporal Forgery Localization**|Qilin Yin et.al.|[2506.08493](http://arxiv.org/abs/2506.08493)|null|
 |**2025-06-09**|**Seeing Voices: Generating A-Roll Video from Audio with Mirage**|Aditi Sundararaman et.al.|[2506.08279](http://arxiv.org/abs/2506.08279)|null|
-|**2025-06-09**|**Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain**|Subba Reddy Oota et.al.|[2506.08277](http://arxiv.org/abs/2506.08277)|null|
+|**2025-06-09**|**Audio-Sync Video Generation with Multi-Stream Temporal Control**|Shuchen Weng et.al.|[2506.08003](http://arxiv.org/abs/2506.08003)|null|
+|**2025-06-09**|**Lightweight Joint Audio-Visual Deepfake Detection via Single-Stream Multi-Modal Learning Framework**|Kuiyuan Zhang et.al.|[2506.07358](http://arxiv.org/abs/2506.07358)|null|
+|**2025-06-08**|**Harmony-Aware Music-driven Motion Synthesis with Perceptual Constraint on UGC Datasets**|Xinyi Wu et.al.|[2506.07076](http://arxiv.org/abs/2506.07076)|null|
+|**2025-06-07**|**Multimodal Spatial Language Maps for Robot Navigation and Manipulation**|Chenguang Huang et.al.|[2506.06862](http://arxiv.org/abs/2506.06862)|null|
 |**2025-06-06**|**DeepFake Doctor: Diagnosing and Treating Audio-Video Fake Detection**|Marcel Klemt et.al.|[2506.05851](http://arxiv.org/abs/2506.05851)|null|
 |**2025-06-06**|**Efficient Diffusion Models: A Survey**|Hui Shen et.al.|[2502.06805](http://arxiv.org/abs/2502.06805)|null|
+|**2025-06-05**|**SocialDF: Benchmark Dataset and Detection Model for Mitigating Harmful Deepfake Content on Social Media Platforms**|Arnesh Batra et.al.|[2506.05538](http://arxiv.org/abs/2506.05538)|null|
+|**2025-06-05**|**ViCocktail: Automated Multi-Modal Data Collection for Vietnamese Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.04635](http://arxiv.org/abs/2506.04635)|null|
 |**2025-06-04**|**ReactDiff: Latent Diffusion for Facial Reaction Generation**|Jiaming Li et.al.|[2505.14151](http://arxiv.org/abs/2505.14151)|null|
 |**2025-06-04**|**MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps**|Valentin Gabeff et.al.|[2503.18223](http://arxiv.org/abs/2503.18223)|null|
+|**2025-06-04**|**SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing**|Mingfei Chen et.al.|[2506.05414](http://arxiv.org/abs/2506.05414)|null|
+|**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|
+|**2025-06-04**|**CLIP-AE: CLIP-assisted Cross-view Audio-Visual Enhancement for Unsupervised Temporal Action Localization**|Rui Xia et.al.|[2505.23524](http://arxiv.org/abs/2505.23524)|null|
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|null|
+|**2025-06-03**|**SNIFR : Boosting Fine-Grained Child Harmful Content Detection Through Audio-Visual Alignment with Cascaded Cross-Transformer**|Orchid Chetia Phukan et.al.|[2506.03378](http://arxiv.org/abs/2506.03378)|null|
+|**2025-06-03**|**Cross-attention and Self-attention for Audio-visual Speaker Diarization in MISP-Meeting Challenge**|Zhaoyang Li et.al.|[2506.02621](http://arxiv.org/abs/2506.02621)|null|
 |**2025-06-02**|**Is Extending Modality The Right Path Towards Omni-Modality?**|Tinghui Zhu et.al.|[2506.01872](http://arxiv.org/abs/2506.01872)|null|
 |**2025-06-02**|**SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings**|Weikai Lu et.al.|[2502.12562](http://arxiv.org/abs/2502.12562)|null|
 |**2025-06-02**|**Ola: Pushing the Frontiers of Omni-Modal Language Model**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
+|**2025-06-02**|**Cocktail-Party Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.02178](http://arxiv.org/abs/2506.02178)|null|
+|**2025-06-02**|**Can We Trust Machine Learning? The Reliability of Features from Open-Source Speech Analysis Tools for Speech Modeling**|Tahiya Chowdhury et.al.|[2506.11072](http://arxiv.org/abs/2506.11072)|null|
+|**2025-06-02**|**SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes**|Yuji Wang et.al.|[2506.01558](http://arxiv.org/abs/2506.01558)|null|
+|**2025-06-02**|**Learning Sparsity for Effective and Efficient Music Performance Question Answering**|Xingjian Diao et.al.|[2506.01319](http://arxiv.org/abs/2506.01319)|null|
+|**2025-06-02**|**Online Audio-Visual Autoregressive Speaker Extraction**|Zexu Pan et.al.|[2506.01270](http://arxiv.org/abs/2506.01270)|null|
+|**2025-06-01**|**AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting**|Yuyuan Liu et.al.|[2506.01015](http://arxiv.org/abs/2506.01015)|null|
+|**2025-05-31**|**Length Aware Speech Translation for Video Dubbing**|Harveen Singh Chadha et.al.|[2506.00740](http://arxiv.org/abs/2506.00740)|null|
+|**2025-05-30**|**TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis**|Yu Zhang et.al.|[2505.14910](http://arxiv.org/abs/2505.14910)|null|
 |**2025-05-29**|**MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**|Siyuan Wang et.al.|[2505.23120](http://arxiv.org/abs/2505.23120)|null|
+|**2025-05-29**|**Towards disentangling the contributions of articulation and acoustics in multimodal phoneme recognition**|Sean Foley et.al.|[2505.24059](http://arxiv.org/abs/2505.24059)|null|
+|**2025-05-29**|**Video Editing for Audio-Visual Dubbing**|Binyamin Manela et.al.|[2505.23406](http://arxiv.org/abs/2505.23406)|null|
 |**2025-05-28**|**Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates**|Jaewoo Ahn et.al.|[2505.22943](http://arxiv.org/abs/2505.22943)|null|
 |**2025-05-28**|**Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model**|Yong Ren et.al.|[2505.13062](http://arxiv.org/abs/2505.13062)|null|
+|**2025-05-28**|**Tell me Habibi, is it Real or Fake?**|Kartik Kuckreja et.al.|[2505.22581](http://arxiv.org/abs/2505.22581)|null|
 |**2025-05-27**|**Facial Attribute Based Text Guided Face Anonymization**|Mustafa İzzet Muştu et.al.|[2505.21002](http://arxiv.org/abs/2505.21002)|null|
+|**2025-05-27**|**Multimodal Assessment of Speech Impairment in ALS Using Audio-Visual and Machine Learning Approaches**|Francesco Pierotti et.al.|[2505.21093](http://arxiv.org/abs/2505.21093)|null|
+|**2025-05-27**|**Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs**|Wenhao You et.al.|[2505.20638](http://arxiv.org/abs/2505.20638)|null|
+|**2025-05-27**|**Plug-and-Play Co-Occurring Face Attention for Robust Audio-Visual Speaker Extraction**|Zexu Pan et.al.|[2505.20635](http://arxiv.org/abs/2505.20635)|null|
+|**2025-05-27**|**The Multimodal Information Based Speech Processing (MISP) 2025 Challenge: Audio-Visual Diarization and Recognition**|Ming Gao et.al.|[2505.13971](http://arxiv.org/abs/2505.13971)|null|
 |**2025-05-26**|**Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks**|Chang Liu et.al.|[2505.20038](http://arxiv.org/abs/2505.20038)|null|
 |**2025-05-26**|**Multi-modal brain encoding models for multi-modal stimuli**|Subba Reddy Oota et.al.|[2505.20027](http://arxiv.org/abs/2505.20027)|null|
+|**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|null|
+|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938](http://arxiv.org/abs/2505.19938)|null|
+|**2025-05-25**|**Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis**|Minsu Kim et.al.|[2505.18972](http://arxiv.org/abs/2505.18972)|null|
 |**2025-05-24**|**DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets**|Maria Makarova et.al.|[2505.18876](http://arxiv.org/abs/2505.18876)|null|
+|**2025-05-23**|**Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities**|Ziwei Zhou et.al.|[2505.17862](http://arxiv.org/abs/2505.17862)|null|
+|**2025-05-22**|**REACT 2025: the Third Multiple Appropriate Facial Reaction Generation Challenge**|Siyang Song et.al.|[2505.17223](http://arxiv.org/abs/2505.17223)|null|
+|**2025-05-21**|**Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach**|Umberto Cappellazzo et.al.|[2505.14336](http://arxiv.org/abs/2505.14336)|null|
+|**2025-05-20**|**Representation Learning for Semantic Alignment of Language, Audio, and Visual Modalities**|Parthasaarathy Sudarsanam et.al.|[2505.14562](http://arxiv.org/abs/2505.14562)|null|
+|**2025-05-20**|**Two Empirical Studies on Audiovisual Semiotics of Uncertainty**|Sita Vriend et.al.|[2505.14379](http://arxiv.org/abs/2505.14379)|null|
+|**2025-05-19**|**Multiscale Adaptive Conflict-Balancing Model For Multimedia Deepfake Detection**|Zihan Xiong et.al.|[2505.12966](http://arxiv.org/abs/2505.12966)|null|
+|**2025-05-19**|**Audio-Visual Contact Classification for Tree Structures in Agriculture**|Ryan Spears et.al.|[2505.12665](http://arxiv.org/abs/2505.12665)|null|
 |**2025-05-17**|**Enhanced Multimodal Hate Video Detection via Channel-wise and Modality-wise Fusion**|Yinghui Zhang et.al.|[2505.12051](http://arxiv.org/abs/2505.12051)|null|
+|**2025-05-17**|**Learning to Highlight Audio by Watching Movies**|Chao Huang et.al.|[2505.12154](http://arxiv.org/abs/2505.12154)|null|
+|**2025-05-16**|**Sonification of entanglement dynamics in many-qubit systems**|Juliette Tudoce et.al.|[2505.11159](http://arxiv.org/abs/2505.11159)|null|
+|**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|null|
+|**2025-05-15**|**LAV: Audio-Driven Dynamic Visual Generation with Neural Compression and StyleGAN2**|Jongmin Jung et.al.|[2505.10101](http://arxiv.org/abs/2505.10101)|null|
 |**2025-05-13**|**AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques**|Aman Raj et.al.|[2505.08202](http://arxiv.org/abs/2505.08202)|null|
 |**2025-05-08**|**Fine-Tuning Video-Text Contrastive Model for Primate Behavior Retrieval from Unlabeled Raw Videos**|Giulio Cesare Mastrocinque Santo et.al.|[2505.05681](http://arxiv.org/abs/2505.05681)|null|
 |**2025-05-07**|**mWhisper-Flamingo for Multilingual Audio-Visual Noise-Robust Speech Recognition**|Andrew Rouditchenko et.al.|[2502.01547](http://arxiv.org/abs/2502.01547)|null|

@@ -24,6 +24,6 @@ wechat_push:
 # keywords to search
 keywords:
     "video-to-speech Papers":
-        filters: ["video-to-speech"]
+        filters: ["video-to-speech", "video to speech"]
     "video-to-audio Papers":
-        filters: ["video-to-audio"]
+        filters: ["Video to Audio", "V2A", "Audio-Visual", "Video Dubbing"]
