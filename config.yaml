@@ -27,3 +27,5 @@ keywords:
         filters: ["video-to-speech", "video to speech"]
     "video-to-audio Papers":
         filters: ["Video to Audio", "V2A", "Audio-Visual", "Video Dubbing"]
+    "Video Generation":
+      filters: [ "Video Generation", "T2V","Video Synthesis" ]
