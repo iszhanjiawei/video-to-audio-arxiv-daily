@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -90,12 +90,13 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows**|Shentong Mo et.al.|[2603.08126](http://arxiv.org/abs/2603.08126)|null|
 |**2026-03-06**|**Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**|Hila Chefer et.al.|[2603.06507](http://arxiv.org/abs/2603.06507)|null|
 |**2026-03-05**|**GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement**|Xiaodong Zhu et.al.|[2603.05095](http://arxiv.org/abs/2603.05095)|null|
 |**2026-03-05**|**DeformTrace: A Deformable State Space Model with Relay Tokens for Temporal Forgery Localization**|Xiaodong Zhu et.al.|[2603.04882](http://arxiv.org/abs/2603.04882)|null|
@@ -629,5 +630,5 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
