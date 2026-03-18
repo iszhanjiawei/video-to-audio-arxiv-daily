@@ -1,4 +1,4 @@
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,7 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-15**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-02-23**|**An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction**|Guanting Shen et.al.|[2602.20219](http://arxiv.org/abs/2602.20219)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-25**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
@@ -92,19 +92,24 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-17**|**LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement**|Chih-Ning Chen et.al.|[2603.13952](http://arxiv.org/abs/2603.13952)|null|
+|**2026-03-17**|**Is Seeing Believing? Evaluating Human Sensitivity to Synthetic Video**|David Wegmann et.al.|[2603.13846](http://arxiv.org/abs/2603.13846)|null|
+|**2026-03-17**|**SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models**|Tianyu Xie et.al.|[2603.16859](http://arxiv.org/abs/2603.16859)|null|
+|**2026-03-17**|**Diffusion Models for Joint Audio-Video Generation**|Alejandro Paredes La Torre et.al.|[2603.16093](http://arxiv.org/abs/2603.16093)|null|
+|**2026-03-17**|**Gradual emergence of temporal structures depending on the distance between neighboring callers in natural habitat of male treefrogs**|Ikkyu Aihara et.al.|[2603.16051](http://arxiv.org/abs/2603.16051)|null|
 |**2026-03-16**|**Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling**|Ernie Chu et.al.|[2603.14794](http://arxiv.org/abs/2603.14794)|null|
 |**2026-03-16**|**AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer**|Pengjun Fang et.al.|[2603.15597](http://arxiv.org/abs/2603.15597)|null|
-|**2026-03-15**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-16**|**AILive Mixer: A Deep Learning based Zero Latency Automatic Music Mixer for Live Music Performances**|Devansh Zurale et.al.|[2603.15995](http://arxiv.org/abs/2603.15995)|null|
 |**2026-03-15**|**Selective Noise Suppression and Discriminative Mutual Interaction for Robust Audio-Visual Segmentation**|Kai Peng et.al.|[2603.14203](http://arxiv.org/abs/2603.14203)|null|
+|**2026-03-15**|**DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression**|Bingzhou Li et.al.|[2603.15685](http://arxiv.org/abs/2603.15685)|null|
 |**2026-03-14**|**MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos**|Arushi Goel et.al.|[2603.14145](http://arxiv.org/abs/2603.14145)|null|
-|**2026-03-14**|**LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement**|Chih-Ning Chen et.al.|[2603.13952](http://arxiv.org/abs/2603.13952)|null|
-|**2026-03-14**|**Is Seeing Believing? Evaluating Human Sensitivity to Synthetic Video**|David Wegmann et.al.|[2603.13846](http://arxiv.org/abs/2603.13846)|null|
 |**2026-03-13**|**OmniForcing: Unleashing Real-time Joint Audio-Visual Generation**|Yaofeng Su et.al.|[2603.11647](http://arxiv.org/abs/2603.11647)|null|
 |**2026-03-13**|**Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach**|Elena Ryumina et.al.|[2603.13056](http://arxiv.org/abs/2603.13056)|null|
 |**2026-03-12**|**Logics-Parsing-Omni Technical Report**|Xin An et.al.|[2603.09677](http://arxiv.org/abs/2603.09677)|null|
@@ -1009,12 +1014,19 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
+|**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
+|**2026-03-17**|**Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search**|Sainan Liu et.al.|[2603.16711](http://arxiv.org/abs/2603.16711)|null|
+|**2026-03-17**|**Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation**|Mutian Xu et.al.|[2603.16669](http://arxiv.org/abs/2603.16669)|null|
+|**2026-03-17**|**VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment**|Tengjiao Yin et.al.|[2603.16271](http://arxiv.org/abs/2603.16271)|null|
+|**2026-03-17**|**S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**|Haodong Yan et.al.|[2603.16195](http://arxiv.org/abs/2603.16195)|null|
+|**2026-03-17**|**Diffusion Models for Joint Audio-Video Generation**|Alejandro Paredes La Torre et.al.|[2603.16093](http://arxiv.org/abs/2603.16093)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Xingtai Gui et.al.|[2603.14948](http://arxiv.org/abs/2603.14948)|null|
 |**2026-03-16**|**FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving**|Yaoru Li et.al.|[2603.14938](http://arxiv.org/abs/2603.14938)|null|
 |**2026-03-16**|**MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model**|Jinguang Tong et.al.|[2603.14686](http://arxiv.org/abs/2603.14686)|null|
@@ -3065,5 +3077,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 
