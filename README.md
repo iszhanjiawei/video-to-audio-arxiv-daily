@@ -1,4 +1,4 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -92,12 +92,13 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|null|
 |**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-17**|**LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement**|Chih-Ning Chen et.al.|[2603.13952](http://arxiv.org/abs/2603.13952)|null|
 |**2026-03-17**|**Is Seeing Believing? Evaluating Human Sensitivity to Synthetic Video**|David Wegmann et.al.|[2603.13846](http://arxiv.org/abs/2603.13846)|null|
@@ -1014,12 +1015,20 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|null|
+|**2026-03-19**|**Spectrally-Guided Diffusion Noise Schedules**|Carlos Esteves et.al.|[2603.19222](http://arxiv.org/abs/2603.19222)|null|
+|**2026-03-19**|**V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors**|Songjia He et.al.|[2603.18811](http://arxiv.org/abs/2603.18811)|null|
+|**2026-03-19**|**PhysVideo: Physically Plausible Video Generation with Cross-View Geometry Guidance**|Cong Wang et.al.|[2603.18639](http://arxiv.org/abs/2603.18639)|null|
+|**2026-03-19**|**Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering**|Jiayi Luo et.al.|[2603.18636](http://arxiv.org/abs/2603.18636)|null|
+|**2026-03-19**|**Improving Joint Audio-Video Generation with Cross-Modal Context Learning**|Bingqi Ma et.al.|[2603.18600](http://arxiv.org/abs/2603.18600)|null|
+|**2026-03-19**|**3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model**|Hyun-kyu Ko et.al.|[2603.18524](http://arxiv.org/abs/2603.18524)|null|
 |**2026-03-18**|**Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search**|Sainan Liu et.al.|[2603.16711](http://arxiv.org/abs/2603.16711)|null|
 |**2026-03-18**|**S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**|Haodong Yan et.al.|[2603.16195](http://arxiv.org/abs/2603.16195)|null|
 |**2026-03-18**|**The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**|Yigit Ekin et.al.|[2603.17998](http://arxiv.org/abs/2603.17998)|null|
@@ -3089,5 +3098,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
