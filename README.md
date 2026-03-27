@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -92,14 +92,16 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**SAVe: Self-Supervised Audio-visual Deepfake Detection Exploiting Visual Artifacts and Audio-visual Misalignment**|Sahibzada Adil Shahzad et.al.|[2603.25140](http://arxiv.org/abs/2603.25140)|null|
 |**2026-03-25**|**POLY-SIM: Polyglot Speaker Identification with Missing Modality Grand Challenge 2026 Evaluation Plan**|Marta Moscati et.al.|[2603.24569](http://arxiv.org/abs/2603.24569)|null|
 |**2026-03-25**|**Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection**|Jielun Peng et.al.|[2603.23960](http://arxiv.org/abs/2603.23960)|null|
+|**2026-03-25**|**AVControl: Efficient Framework for Training Audio-Visual Controls**|Matan Ben-Yosef et.al.|[2603.24793](http://arxiv.org/abs/2603.24793)|null|
 |**2026-03-24**|**Integrating GenAI in Filmmaking: From Co-Creativity to Distributed Creativity**|Pierluigi Masai et.al.|[2603.23415](http://arxiv.org/abs/2603.23415)|null|
 |**2026-03-24**|**A Synchronized Audio-Visual Multi-View Capture System**|Xiangwei Shi et.al.|[2603.23089](http://arxiv.org/abs/2603.23089)|null|
 |**2026-03-24**|**When AVSR Meets Video Conferencing: Dataset, Degradation, and the Hidden Mechanism Behind Performance Collapse**|Yihuan Huang et.al.|[2603.22915](http://arxiv.org/abs/2603.22915)|null|
@@ -1028,7 +1030,7 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## Video Generation
 
@@ -3142,5 +3144,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
