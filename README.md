@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -93,12 +93,13 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
 |**2026-03-31**|**SIREN: Spatially-Informed Reconstruction of Binaural Audio with Vision**|Mingyeong Song et.al.|[2603.29820](http://arxiv.org/abs/2603.29820)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
 |**2026-03-30**|**AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**|Milton Zhou et.al.|[2603.28366](http://arxiv.org/abs/2603.28366)|null|
@@ -1040,16 +1041,19 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration**|Fengyuan Yang et.al.|[2604.01043](http://arxiv.org/abs/2604.01043)|null|
+|**2026-04-01**|**MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer**|Samuel Teodoro et.al.|[2604.00853](http://arxiv.org/abs/2604.00853)|null|
 |**2026-03-31**|**OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**|Yuheng Liu et.al.|[2603.30045](http://arxiv.org/abs/2603.30045)|null|
 |**2026-03-31**|**Gloria: Consistent Character Video Generation via Content Anchors**|Yuhang Yang et.al.|[2603.29931](http://arxiv.org/abs/2603.29931)|null|
 |**2026-03-31**|**SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation**|Ryosuke Matsuda et.al.|[2603.29186](http://arxiv.org/abs/2603.29186)|null|
 |**2026-03-31**|**TrajectoryMover: Generative Movement of Object Trajectories in Videos**|Kiran Chhatre et.al.|[2603.29092](http://arxiv.org/abs/2603.29092)|null|
+|**2026-03-31**|**Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry**|Syed Eqbal Alam et.al.|[2604.00319](http://arxiv.org/abs/2604.00319)|null|
 |**2026-03-30**|**PhysVid: Physics Aware Local Conditioning for Generative Video Models**|Saurabh Pathak et.al.|[2603.26285](http://arxiv.org/abs/2603.26285)|null|
 |**2026-03-30**|**Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms**|Muyang He et.al.|[2603.28489](http://arxiv.org/abs/2603.28489)|null|
 |**2026-03-30**|**VistaGEN: Consistent Driving Video Generation with Fine-Grained Control Using Multiview Visual-Language Reasoning**|Li-Heng Chen et.al.|[2603.28353](http://arxiv.org/abs/2603.28353)|null|
@@ -3184,5 +3188,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
