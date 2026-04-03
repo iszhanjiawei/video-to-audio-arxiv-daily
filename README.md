@@ -1,4 +1,4 @@
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -93,12 +93,14 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Woosh: A Sound Effects Foundation Model**|Gaëtan Hadjeres et.al.|[2604.01929](http://arxiv.org/abs/2604.01929)|null|
+|**2026-04-02**|**CogPic: A Multimodal Dataset for Early Cognitive Impairment Assessment via Picture Description Tasks**|Liuyu Wu et.al.|[2604.01626](http://arxiv.org/abs/2604.01626)|null|
 |**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
 |**2026-03-31**|**SIREN: Spatially-Informed Reconstruction of Binaural Audio with Vision**|Mingyeong Song et.al.|[2603.29820](http://arxiv.org/abs/2603.29820)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
@@ -1041,12 +1043,17 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|
+|**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Yang Zhou et.al.|[2604.01765](http://arxiv.org/abs/2604.01765)|null|
+|**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
+|**2026-04-02**|**Moiré Video Authentication: A Physical Signature Against AI Video Generation**|Yuan Qing et.al.|[2604.01654](http://arxiv.org/abs/2604.01654)|null|
+|**2026-04-02**|**ZEUS: Accelerating Diffusion Models with Only Second-Order Predictor**|Yixiao Wang et.al.|[2604.01552](http://arxiv.org/abs/2604.01552)|null|
 |**2026-04-01**|**ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration**|Fengyuan Yang et.al.|[2604.01043](http://arxiv.org/abs/2604.01043)|null|
 |**2026-04-01**|**MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer**|Samuel Teodoro et.al.|[2604.00853](http://arxiv.org/abs/2604.00853)|null|
 |**2026-03-31**|**OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation**|Yuheng Liu et.al.|[2603.30045](http://arxiv.org/abs/2603.30045)|null|
@@ -3188,5 +3195,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
