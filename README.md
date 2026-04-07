@@ -1,4 +1,4 @@
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -93,19 +93,26 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
+|**2026-04-06**|**OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text**|Weiguo Pian et.al.|[2604.04348](http://arxiv.org/abs/2604.04348)|null|
+|**2026-04-05**|**Hierarchical Semantic Correlation-Aware Masked Autoencoder for Unsupervised Audio-Visual Representation Learning**|Donghuo Zeng et.al.|[2604.04229](http://arxiv.org/abs/2604.04229)|null|
+|**2026-04-05**|**VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning**|Yang Zhang et.al.|[2604.03998](http://arxiv.org/abs/2604.03998)|null|
+|**2026-04-05**|**A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning**|Tianle Chen et.al.|[2604.03995](http://arxiv.org/abs/2604.03995)|null|
 |**2026-04-03**|**Do Audio-Visual Large Language Models Really See and Hear?**|Ramaneswaran Selvakumar et.al.|[2604.02605](http://arxiv.org/abs/2604.02605)|null|
 |**2026-04-02**|**Woosh: A Sound Effects Foundation Model**|Gaëtan Hadjeres et.al.|[2604.01929](http://arxiv.org/abs/2604.01929)|null|
 |**2026-04-02**|**CogPic: A Multimodal Dataset for Early Cognitive Impairment Assessment via Picture Description Tasks**|Liuyu Wu et.al.|[2604.01626](http://arxiv.org/abs/2604.01626)|null|
 |**2026-04-02**|**Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation**|Teng Liu et.al.|[2604.02391](http://arxiv.org/abs/2604.02391)|null|
 |**2026-04-02**|**Spatial-Aware Conditioned Fusion for Audio-Visual Navigation**|Shaohang Wu et.al.|[2604.02390](http://arxiv.org/abs/2604.02390)|null|
 |**2026-04-02**|**Audio Spatially-Guided Fusion for Audio-Visual Navigation**|Xinyu Zhou et.al.|[2604.02389](http://arxiv.org/abs/2604.02389)|null|
+|**2026-04-02**|**CoLoRSMamba: Conditional LoRA-Steered Mamba for Supervised Multimodal Violence Detection**|Damith Chamalke Senadeera et.al.|[2604.03329](http://arxiv.org/abs/2604.03329)|null|
 |**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
+|**2026-04-01**|**CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks**|Wish Suharitdamrong et.al.|[2604.03314](http://arxiv.org/abs/2604.03314)|null|
 |**2026-03-31**|**SIREN: Spatially-Informed Reconstruction of Binaural Audio with Vision**|Mingyeong Song et.al.|[2603.29820](http://arxiv.org/abs/2603.29820)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
 |**2026-03-30**|**AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**|Milton Zhou et.al.|[2603.28366](http://arxiv.org/abs/2603.28366)|null|
@@ -1047,12 +1054,24 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale**|Zhengcen Li et.al.|[2604.04634](http://arxiv.org/abs/2604.04634)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
+|**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
+|**2026-04-06**|**UENR-600K: A Large-Scale Physically Grounded Dataset for Nighttime Video Deraining**|Pei Yang et.al.|[2604.04402](http://arxiv.org/abs/2604.04402)|null|
+|**2026-04-06**|**GENSERVE: Efficient Co-Serving of Heterogeneous Diffusion Model Workloads**|Fanjiang Ye et.al.|[2604.04335](http://arxiv.org/abs/2604.04335)|null|
+|**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198](http://arxiv.org/abs/2604.04198)|null|
+|**2026-04-05**|**OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models**|Liyu Zhang et.al.|[2604.04142](http://arxiv.org/abs/2604.04142)|null|
+|**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[2604.04029](http://arxiv.org/abs/2604.04029)|null|
+|**2026-04-04**|**ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos**|Peijun Bao et.al.|[2604.03819](http://arxiv.org/abs/2604.03819)|null|
+|**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|null|
+|**2026-04-04**|**SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation**|Guiyu Zhang et.al.|[2604.03723](http://arxiv.org/abs/2604.03723)|null|
+|**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552](http://arxiv.org/abs/2604.03552)|null|
 |**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|
 |**2026-04-03**|**Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation**|Hanshuai Cui et.al.|[2604.02979](http://arxiv.org/abs/2604.02979)|null|
 |**2026-04-03**|**HairOrbit: Multi-view Aware 3D Hair Modeling from Single Portraits**|Leyang Jin et.al.|[2604.02867](http://arxiv.org/abs/2604.02867)|null|
@@ -3203,5 +3222,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
