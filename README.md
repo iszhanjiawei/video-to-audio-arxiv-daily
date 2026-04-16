@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -95,16 +95,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
+|**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
+|**2026-04-15**|**Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models**|Ami Baid et.al.|[2604.14129](http://arxiv.org/abs/2604.14129)|null|
+|**2026-04-15**|**AVID: A Benchmark for Omni-Modal Audio-Visual Inconsistency Understanding via Agent-Driven Construction**|Zixuan Chen et.al.|[2604.13593](http://arxiv.org/abs/2604.13593)|null|
+|**2026-04-15**|**MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments**|Han Wang et.al.|[2604.13418](http://arxiv.org/abs/2604.13418)|null|
 |**2026-04-14**|**Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification**|Jiayu Zhang et.al.|[2604.10695](http://arxiv.org/abs/2604.10695)|null|
 |**2026-04-13**|**Unified Multimodal Uncertain Inference**|Dengjia Zhang et.al.|[2604.08701](http://arxiv.org/abs/2604.08701)|null|
 |**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
-|**2026-04-13**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-13**|**OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video**|Junfu Pu et.al.|[2604.11102](http://arxiv.org/abs/2604.11102)|null|
 |**2026-04-13**|**LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation**|Qi Wang et.al.|[2604.11052](http://arxiv.org/abs/2604.11052)|null|
 |**2026-04-13**|**Why Your Tokenizer Fails in Information Fusion: A Timing-Aware Pre-Quantization Fusion for Video-Enhanced Audio Tokenization**|Xiangyu Zhang et.al.|[2604.12145](http://arxiv.org/abs/2604.12145)|null|
@@ -1078,12 +1082,17 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
+|**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
+|**2026-04-15**|**From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation**|Mohammad Mahdi et.al.|[2604.13793](http://arxiv.org/abs/2604.13793)|null|
+|**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Hengye Lyu et.al.|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
+|**2026-04-15**|**VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**|Yifan Li et.al.|[2604.13425](http://arxiv.org/abs/2604.13425)|null|
 |**2026-04-14**|**Lyra 2.0: Explorable Generative 3D Worlds**|Tianchang Shen et.al.|[2604.13036](http://arxiv.org/abs/2604.13036)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Andrei Atanov et.al.|[2604.12887](http://arxiv.org/abs/2604.12887)|null|
@@ -1097,7 +1106,6 @@
 |**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
 |**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
-|**2026-04-13**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
 |**2026-04-12**|**Immune2V: Image Immunization Against Dual-Stream Image-to-Video Generation**|Zeqian Long et.al.|[2604.10837](http://arxiv.org/abs/2604.10837)|null|
 |**2026-04-11**|**Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning**|Nicolae Cudlenco et.al.|[2604.10383](http://arxiv.org/abs/2604.10383)|null|
@@ -3294,5 +3302,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
