@@ -1,4 +1,4 @@
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -95,12 +95,14 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
+|**2026-04-16**|**ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling**|Jianxuan Yang et.al.|[2604.15086](http://arxiv.org/abs/2604.15086)|null|
 |**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
 |**2026-04-15**|**Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models**|Ami Baid et.al.|[2604.14129](http://arxiv.org/abs/2604.14129)|null|
@@ -114,7 +116,6 @@
 |**2026-04-13**|**Why Your Tokenizer Fails in Information Fusion: A Timing-Aware Pre-Quantization Fusion for Video-Enhanced Audio Tokenization**|Xiangyu Zhang et.al.|[2604.12145](http://arxiv.org/abs/2604.12145)|null|
 |**2026-04-12**|**VidAudio-Bench: Benchmarking V2A and VT2A Generation across Four Audio Categories**|Qian Zhang et.al.|[2604.10542](http://arxiv.org/abs/2604.10542)|null|
 |**2026-04-10**|**Generalizing Video DeepFake Detection by Self-generated Audio-Visual Pseudo-Fakes**|Zihe Wei et.al.|[2604.09110](http://arxiv.org/abs/2604.09110)|null|
-|**2026-04-10**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
 |**2026-04-10**|**MAGE: Modality-Agnostic Music Generation and Editing**|Muhammad Usama Saleem et.al.|[2604.09803](http://arxiv.org/abs/2604.09803)|null|
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
 |**2026-04-09**|**Tracking Listener Attention: Gaze-Guided Audio-Visual Speech Enhancement Framework**|Hsiang-Cheng Yang et.al.|[2604.08359](http://arxiv.org/abs/2604.08359)|null|
@@ -1082,12 +1083,18 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
+|**2026-04-16**|**How to Correctly Make Mistakes: A Framework for Constructing and Benchmarking Mistake Aware Egocentric Procedural Videos**|Olga Loginova et.al.|[2604.15134](http://arxiv.org/abs/2604.15134)|null|
+|**2026-04-16**|**MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production**|Huanran Hu et.al.|[2604.15127](http://arxiv.org/abs/2604.15127)|null|
+|**2026-04-16**|**Flow of Truth: Proactive Temporal Forensics for Image-to-Video Generation**|Yuzhuo Chen et.al.|[2604.15003](http://arxiv.org/abs/2604.15003)|null|
+|**2026-04-16**|**Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation**|Hassan Ali et.al.|[2604.14953](http://arxiv.org/abs/2604.14953)|null|
+|**2026-04-16**|**Controllable Video Object Insertion via Multiview Priors**|Xia Qi et.al.|[2604.14556](http://arxiv.org/abs/2604.14556)|null|
 |**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
 |**2026-04-15**|**From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation**|Mohammad Mahdi et.al.|[2604.13793](http://arxiv.org/abs/2604.13793)|null|
@@ -3302,5 +3309,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
