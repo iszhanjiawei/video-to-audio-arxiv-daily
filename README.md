@@ -1,4 +1,4 @@
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|null|
 |**2026-04-09**|**PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation**|Soumya Mazumdar et.al.|[2604.08037](http://arxiv.org/abs/2604.08037)|null|
 |**2026-04-07**|**A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models**|Huiyao Chen et.al.|[2502.08660](http://arxiv.org/abs/2502.08660)|null|
 |**2026-03-27**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
@@ -95,12 +96,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|null|
+|**2026-04-17**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
 |**2026-04-16**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
 |**2026-04-16**|**ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling**|Jianxuan Yang et.al.|[2604.15086](http://arxiv.org/abs/2604.15086)|null|
 |**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
@@ -110,7 +114,6 @@
 |**2026-04-15**|**MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments**|Han Wang et.al.|[2604.13418](http://arxiv.org/abs/2604.13418)|null|
 |**2026-04-14**|**Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification**|Jiayu Zhang et.al.|[2604.10695](http://arxiv.org/abs/2604.10695)|null|
 |**2026-04-13**|**Unified Multimodal Uncertain Inference**|Dengjia Zhang et.al.|[2604.08701](http://arxiv.org/abs/2604.08701)|null|
-|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
 |**2026-04-13**|**OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video**|Junfu Pu et.al.|[2604.11102](http://arxiv.org/abs/2604.11102)|null|
 |**2026-04-13**|**LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation**|Qi Wang et.al.|[2604.11052](http://arxiv.org/abs/2604.11052)|null|
 |**2026-04-13**|**Why Your Tokenizer Fails in Information Fusion: A Timing-Aware Pre-Quantization Fusion for Video-Enhanced Audio Tokenization**|Xiangyu Zhang et.al.|[2604.12145](http://arxiv.org/abs/2604.12145)|null|
@@ -1083,15 +1086,17 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-17**|**MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production**|Huanran Hu et.al.|[2604.15127](http://arxiv.org/abs/2604.15127)|null|
+|**2026-04-17**|**Efficient Video Diffusion Models: Advancements and Challenges**|Shitong Shao et.al.|[2604.15911](http://arxiv.org/abs/2604.15911)|null|
 |**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
 |**2026-04-16**|**How to Correctly Make Mistakes: A Framework for Constructing and Benchmarking Mistake Aware Egocentric Procedural Videos**|Olga Loginova et.al.|[2604.15134](http://arxiv.org/abs/2604.15134)|null|
-|**2026-04-16**|**MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production**|Huanran Hu et.al.|[2604.15127](http://arxiv.org/abs/2604.15127)|null|
 |**2026-04-16**|**Flow of Truth: Proactive Temporal Forensics for Image-to-Video Generation**|Yuzhuo Chen et.al.|[2604.15003](http://arxiv.org/abs/2604.15003)|null|
 |**2026-04-16**|**Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation**|Hassan Ali et.al.|[2604.14953](http://arxiv.org/abs/2604.14953)|null|
 |**2026-04-16**|**Controllable Video Object Insertion via Multiview Priors**|Xia Qi et.al.|[2604.14556](http://arxiv.org/abs/2604.14556)|null|
@@ -1108,7 +1113,6 @@
 |**2026-04-14**|**Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation**|Wentai Zhang et.al.|[2604.12219](http://arxiv.org/abs/2604.12219)|null|
 |**2026-04-13**|**ELT: Elastic Looped Transformers for Visual Generation**|Sahil Goyal et.al.|[2604.09168](http://arxiv.org/abs/2604.09168)|null|
 |**2026-04-13**|**Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory**|Zile Wang et.al.|[2604.08995](http://arxiv.org/abs/2604.08995)|null|
-|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
 |**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Junhao Chen et.al.|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
 |**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
 |**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
@@ -3309,5 +3313,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
