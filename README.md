@@ -1,4 +1,4 @@
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -96,7 +96,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -1088,19 +1088,24 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683](http://arxiv.org/abs/2604.19683)|null|
+|**2026-04-22**|**MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation**|Liyang Li et.al.|[2604.19679](http://arxiv.org/abs/2604.19679)|null|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
+|**2026-04-22**|**SignDATA: Data Pipeline for Sign Language Translation**|Kuanwei Chen et.al.|[2604.20357](http://arxiv.org/abs/2604.20357)|null|
+|**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
+|**2026-04-22**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
+|**2026-04-22**|**HumanScore: Benchmarking Human Motions in Generated Videos**|Yusu Fang et.al.|[2604.20157](http://arxiv.org/abs/2604.20157)|null|
 |**2026-04-21**|**MultiWorld: Scalable Multi-Agent Multi-View Video World Models**|Haoyu Wu et.al.|[2604.18564](http://arxiv.org/abs/2604.18564)|null|
 |**2026-04-21**|**Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation**|Yanjun Guo et.al.|[2604.18215](http://arxiv.org/abs/2604.18215)|null|
 |**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
 |**2026-04-21**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734](http://arxiv.org/abs/2604.19734)|null|
 |**2026-04-21**|**ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**|Zhengwentai Sun et.al.|[2604.19720](http://arxiv.org/abs/2604.19720)|null|
-|**2026-04-21**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683](http://arxiv.org/abs/2604.19683)|null|
-|**2026-04-21**|**MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation**|Liyang Li et.al.|[2604.19679](http://arxiv.org/abs/2604.19679)|null|
 |**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
 |**2026-04-21**|**TS-Attn: Temporal-wise Separable Attention for Multi-Event Video Generation**|Hongyu Zhang et.al.|[2604.19473](http://arxiv.org/abs/2604.19473)|null|
 |**2026-04-21**|**Learning to Credit the Right Steps: Objective-aware Process Optimization for Visual Generation**|Rui Li et.al.|[2604.19234](http://arxiv.org/abs/2604.19234)|null|
@@ -3338,5 +3343,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
