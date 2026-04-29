@@ -1,4 +1,4 @@
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,7 +97,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -1097,12 +1097,16 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation**|Yupeng Zhou et.al.|[2604.25819](http://arxiv.org/abs/2604.25819)|null|
+|**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
+|**2026-04-28**|**Benchmarking and Improving GUI Agents in High-Dynamic Environments**|Enqi Liu et.al.|[2604.25380](http://arxiv.org/abs/2604.25380)|null|
+|**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
 |**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
 |**2026-04-26**|**Building a Precise Video Language with Human-AI Oversight**|Zhiqiu Lin et.al.|[2604.21718](http://arxiv.org/abs/2604.21718)|null|
 |**2026-04-26**|**Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation**|Dennis Menn et.al.|[2604.23858](http://arxiv.org/abs/2604.23858)|null|
@@ -3369,5 +3373,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
 
