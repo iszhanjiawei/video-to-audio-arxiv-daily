@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,12 +97,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**Are DeepFakes Realistic Enough? Exploring Semantic Mismatch as a Novel Challenge**|Sharayu Nilesh Deshmukh et.al.|[2604.28022](http://arxiv.org/abs/2604.28022)|null|
+|**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|null|
+|**2026-04-30**|**BUT System Description for CHiME-9 MCoRec Challenge**|Dominik Klement et.al.|[2604.27436](http://arxiv.org/abs/2604.27436)|null|
 |**2026-04-29**|**Attribution-Guided Multimodal Deepfake Detection via Cross-Modal Forensic Fingerprints**|Wasim Ahmad et.al.|[2604.26453](http://arxiv.org/abs/2604.26453)|null|
 |**2026-04-27**|**Omni-o3: Deep Nested Omnimodal Deduction for Deliberative Audio-Visual Reasoning**|Zhicheng Zhang et.al.|[2604.24191](http://arxiv.org/abs/2604.24191)|null|
 |**2026-04-27**|**LAVA: Layered Audio-Visual Anti-tampering Watermarking for Robust Deepfake Detection and Localization**|Bokang Zeng et.al.|[2604.23957](http://arxiv.org/abs/2604.23957)|null|
@@ -1098,12 +1101,20 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-30**|**AesRM: Improving Video Aesthetics with Expert-Level Feedback**|Yujin Han et.al.|[2604.28078](http://arxiv.org/abs/2604.28078)|null|
+|**2026-04-30**|**MotuBrain: An Advanced World Action Model for Robot Control**|MotuBrain Team et.al.|[2604.27792](http://arxiv.org/abs/2604.27792)|null|
+|**2026-04-30**|**ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control**|Yanghao Zhou et.al.|[2604.27711](http://arxiv.org/abs/2604.27711)|null|
+|**2026-04-30**|**Robot Learning from Human Videos: A Survey**|Junyi Ma et.al.|[2604.27621](http://arxiv.org/abs/2604.27621)|null|
+|**2026-04-30**|**SandSim: Curve-Guided Gaussian Splatting for Reconstructing Sand Painting Processes**|Yilin Wang et.al.|[2604.27572](http://arxiv.org/abs/2604.27572)|null|
+|**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
+|**2026-04-30**|**YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal**|Chenyang Wu et.al.|[2604.27322](http://arxiv.org/abs/2604.27322)|null|
 |**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
 |**2026-04-28**|**Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation**|Yupeng Zhou et.al.|[2604.25819](http://arxiv.org/abs/2604.25819)|null|
 |**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
@@ -3375,5 +3386,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
