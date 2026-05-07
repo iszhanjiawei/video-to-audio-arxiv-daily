@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,19 +97,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Valley3: Scaling Omni Foundation Models for E-commerce**|Zeyu Chen et.al.|[2605.01278](http://arxiv.org/abs/2605.01278)|null|
+|**2026-05-06**|**To Fuse or to Drop? Dual-Path Learning for Resolving Modality Conflicts in Multimodal Emotion Recognition**|Yangchen Yu et.al.|[2605.04877](http://arxiv.org/abs/2605.04877)|null|
 |**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
 |**2026-05-03**|**What's on Your Mind? Exploring Privacy of Mental Health Apps**|Chloe Georgiou et.al.|[2605.02016](http://arxiv.org/abs/2605.02016)|null|
 |**2026-05-03**|**TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation**|Xiaoda Yang et.al.|[2605.01809](http://arxiv.org/abs/2605.01809)|null|
 |**2026-05-03**|**Delayed Commitment for Representation Readiness in Stage-wise Audio-Visual Learning**|Xinmeng Xu et.al.|[2605.01673](http://arxiv.org/abs/2605.01673)|null|
 |**2026-05-02**|**Omni-Fake: Benchmarking Unified Multimodal Social Media Deepfake Detection**|Tianxiao Li et.al.|[2605.01638](http://arxiv.org/abs/2605.01638)|null|
 |**2026-05-02**|**OmniEncoder: See, Hear, and Feel Continuous Motion Like Humans With One Encoder**|Detao Bai et.al.|[2605.01506](http://arxiv.org/abs/2605.01506)|null|
-|**2026-05-02**|**Valley3: Scaling Omni Foundation Models for E-commerce**|Zeyu Chen et.al.|[2605.01278](http://arxiv.org/abs/2605.01278)|null|
 |**2026-05-02**|**Multimodal Confidence Modeling in Audio-Visual Quality Assessment**|Mayesha Maliha R. Mithila et.al.|[2605.01219](http://arxiv.org/abs/2605.01219)|null|
 |**2026-05-01**|**MMAudio-LABEL: Audio Event Labeling via Audio Generation for Silent Video**|Kazuya Tateishi et.al.|[2605.00495](http://arxiv.org/abs/2605.00495)|null|
 |**2026-05-01**|**MMAudioReverbs: Video-Guided Acoustic Modeling for Dereverberation and Room Impulse Response Estimation**|Akira Takahashi et.al.|[2605.00431](http://arxiv.org/abs/2605.00431)|null|
@@ -1113,22 +1114,25 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**SignVerse-2M: A Two-Million-Clip Pose-Native Universe of 55+ Sign Languages**|Sen Fang et.al.|[2605.01720](http://arxiv.org/abs/2605.01720)|null|
+|**2026-05-06**|**WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models**|Karthik Inbasekar et.al.|[2605.03475](http://arxiv.org/abs/2605.03475)|null|
+|**2026-05-06**|**LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)**|Wei Luo et.al.|[2605.05187](http://arxiv.org/abs/2605.05187)|null|
+|**2026-05-06**|**FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation**|Yuanzhi Wang et.al.|[2605.04702](http://arxiv.org/abs/2605.04702)|null|
+|**2026-05-06**|**Stream-T1: Test-Time Scaling for Streaming Video Generation**|Yijing Tu et.al.|[2605.04461](http://arxiv.org/abs/2605.04461)|null|
 |**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
 |**2026-05-05**|**Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**|Bin Wu et.al.|[2605.03849](http://arxiv.org/abs/2605.03849)|null|
 |**2026-05-05**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
-|**2026-05-05**|**WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models**|Karthik Inbasekar et.al.|[2605.03475](http://arxiv.org/abs/2605.03475)|null|
 |**2026-05-04**|**Video Generation with Predictive Latents**|Yian Zhao et.al.|[2605.02134](http://arxiv.org/abs/2605.02134)|null|
 |**2026-05-03**|**Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models**|Junyuan Xiao et.al.|[2605.01896](http://arxiv.org/abs/2605.01896)|null|
 |**2026-05-03**|**TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation**|Xiaoda Yang et.al.|[2605.01809](http://arxiv.org/abs/2605.01809)|null|
 |**2026-05-03**|**TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks**|Quanchen Zou et.al.|[2605.01761](http://arxiv.org/abs/2605.01761)|null|
 |**2026-05-03**|**Motion-Aware Caching for Efficient Autoregressive Video Generation**|Jing Xu et.al.|[2605.01725](http://arxiv.org/abs/2605.01725)|null|
-|**2026-05-03**|**SignVerse-2M: A Two-Million-Clip Pose-Native Universe of 25+ Sign Languages**|Sen Fang et.al.|[2605.01720](http://arxiv.org/abs/2605.01720)|null|
 |**2026-05-03**|**Video Active Perception: Effective Inference-Time Long-Form Video Understanding with Vision-Language Models**|Martin Q. Ma et.al.|[2605.01662](http://arxiv.org/abs/2605.01662)|null|
 |**2026-05-02**|**Action Agent: Agentic Video Generation Meets Flow-Constrained Diffusion**|Jeffrin Sam et.al.|[2605.01477](http://arxiv.org/abs/2605.01477)|null|
 |**2026-05-01**|**MotuBrain: An Advanced World Action Model for Robot Control**|MotuBrain Team et.al.|[2604.27792](http://arxiv.org/abs/2604.27792)|null|
@@ -3416,5 +3420,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
