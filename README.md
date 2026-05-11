@@ -103,9 +103,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study**|Junran Wang et.al.|[2605.05340](http://arxiv.org/abs/2605.05340)|null|
+|**2026-05-08**|**MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation**|Xinyan Ye et.al.|[2605.08050](http://arxiv.org/abs/2605.08050)|null|
+|**2026-05-08**|**TraceAV-Bench: Benchmarking Multi-Hop Trajectory Reasoning over Long Audio-Visual Videos**|Hengyi Feng et.al.|[2605.07593](http://arxiv.org/abs/2605.07593)|null|
+|**2026-05-08**|**PRIMED: Adaptive Modality Suppression for Referring Audio-Visual Segmentation via Biased Competition**|Yuchen He et.al.|[2605.07154](http://arxiv.org/abs/2605.07154)|null|
+|**2026-05-08**|**Do Joint Audio-Video Generation Models Understand Physics?**|Zijun Cui et.al.|[2605.07061](http://arxiv.org/abs/2605.07061)|null|
 |**2026-05-06**|**Valley3: Scaling Omni Foundation Models for E-commerce**|Zeyu Chen et.al.|[2605.01278](http://arxiv.org/abs/2605.01278)|null|
 |**2026-05-06**|**To Fuse or to Drop? Dual-Path Learning for Resolving Modality Conflicts in Multimodal Emotion Recognition**|Yangchen Yu et.al.|[2605.04877](http://arxiv.org/abs/2605.04877)|null|
-|**2026-05-06**|**How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study**|Junran Wang et.al.|[2605.05340](http://arxiv.org/abs/2605.05340)|null|
 |**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
 |**2026-05-03**|**What's on Your Mind? Exploring Privacy of Mental Health Apps**|Chloe Georgiou et.al.|[2605.02016](http://arxiv.org/abs/2605.02016)|null|
 |**2026-05-03**|**TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation**|Xiaoda Yang et.al.|[2605.01809](http://arxiv.org/abs/2605.01809)|null|
