@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,17 +97,17 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**TB-AVA: Text as a Semantic Bridge for Audio-Visual Parameter Efficient Finetuning**|Seongah Kim et.al.|[2605.11572](http://arxiv.org/abs/2605.11572)|null|
 |**2026-05-12**|**Probing Cross-modal Information Hubs in Audio-Visual LLMs**|Jihoo Jung et.al.|[2605.10815](http://arxiv.org/abs/2605.10815)|null|
 |**2026-05-12**|**OmniRefine: Alignment-Aware Cooperative Compression for Efficient Omnimodal Large Language Models**|Yuchen Deng et.al.|[2605.12056](http://arxiv.org/abs/2605.12056)|null|
 |**2026-05-12**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
 |**2026-05-12**|**Keep What Audio Cannot Say: Context-Preserving Token Pruning for Omni-LLMs**|Chaeyoung Jung et.al.|[2605.11605](http://arxiv.org/abs/2605.11605)|null|
-|**2026-05-12**|**TB-AVA: Text as a Semantic Bridge for Audio-Visual Parameter Efficient Finetuning**|Seongah Kim et.al.|[2605.11572](http://arxiv.org/abs/2605.11572)|null|
 |**2026-05-11**|**Separate First, Fuse Later: Mitigating Cross-Modal Interference in Audio-Visual LLMs Reasoning with Modality-Specific Chain-of-Thought**|Xuanchen Li et.al.|[2605.09906](http://arxiv.org/abs/2605.09906)|null|
 |**2026-05-11**|**ChladniSonify: A Visual-Acoustic Mapping Method for Chladni Patterns in New Media Art Creation**|Yakun Liu et.al.|[2605.09846](http://arxiv.org/abs/2605.09846)|null|
 |**2026-05-10**|**What's on Your Mind? Exploring Privacy of Mental Health Apps**|Chloe Georgiou et.al.|[2605.02016](http://arxiv.org/abs/2605.02016)|null|
@@ -1132,12 +1132,16 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Harold Haodong Chen et.al.|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
+|**2026-05-13**|**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**|Yuchao Gu et.al.|[2605.13724](http://arxiv.org/abs/2605.13724)|null|
+|**2026-05-13**|**Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation**|Jiayu Chen et.al.|[2605.13111](http://arxiv.org/abs/2605.13111)|null|
+|**2026-05-13**|**CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation**|Seonghyun Jin et.al.|[2605.12938](http://arxiv.org/abs/2605.12938)|null|
 |**2026-05-12**|**CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives**|Yihao Meng et.al.|[2605.12496](http://arxiv.org/abs/2605.12496)|null|
 |**2026-05-12**|**OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation**|Guohui Zhang et.al.|[2605.12480](http://arxiv.org/abs/2605.12480)|null|
 |**2026-05-12**|**Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation**|Xinhao Hu et.al.|[2605.12198](http://arxiv.org/abs/2605.12198)|null|
@@ -3475,5 +3479,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
