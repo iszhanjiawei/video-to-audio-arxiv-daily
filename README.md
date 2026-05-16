@@ -1,4 +1,4 @@
-## Updated on 2026.05.15
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,16 +97,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference**|Thomas Witt et.al.|[2605.14844](http://arxiv.org/abs/2605.14844)|null|
+|**2026-05-14**|**IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments**|Dinanath Pathya et.al.|[2605.14736](http://arxiv.org/abs/2605.14736)|null|
+|**2026-05-13**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
 |**2026-05-13**|**TB-AVA: Text as a Semantic Bridge for Audio-Visual Parameter Efficient Finetuning**|Seongah Kim et.al.|[2605.11572](http://arxiv.org/abs/2605.11572)|null|
 |**2026-05-12**|**Probing Cross-modal Information Hubs in Audio-Visual LLMs**|Jihoo Jung et.al.|[2605.10815](http://arxiv.org/abs/2605.10815)|null|
 |**2026-05-12**|**OmniRefine: Alignment-Aware Cooperative Compression for Efficient Omnimodal Large Language Models**|Yuchen Deng et.al.|[2605.12056](http://arxiv.org/abs/2605.12056)|null|
-|**2026-05-12**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
 |**2026-05-12**|**Keep What Audio Cannot Say: Context-Preserving Token Pruning for Omni-LLMs**|Chaeyoung Jung et.al.|[2605.11605](http://arxiv.org/abs/2605.11605)|null|
 |**2026-05-11**|**Separate First, Fuse Later: Mitigating Cross-Modal Interference in Audio-Visual LLMs Reasoning with Modality-Specific Chain-of-Thought**|Xuanchen Li et.al.|[2605.09906](http://arxiv.org/abs/2605.09906)|null|
 |**2026-05-11**|**ChladniSonify: A Visual-Acoustic Mapping Method for Chladni Patterns in New Media Art Creation**|Yakun Liu et.al.|[2605.09846](http://arxiv.org/abs/2605.09846)|null|
@@ -1132,7 +1134,7 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Video Generation
 
@@ -3499,5 +3501,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
