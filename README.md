@@ -1,4 +1,4 @@
-## Updated on 2026.05.17
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,12 +97,32 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Watch, Remember, Reason: Human-View Video Understanding with MLLMs**|Jiahao Meng et.al.|[2606.07433](http://arxiv.org/abs/2606.07433)|null|
+|**2026-06-05**|**Assessing True Generalisability of Audio-Visual Speech Recognisers**|Zhaofeng Lin et.al.|[2606.07259](http://arxiv.org/abs/2606.07259)|null|
+|**2026-06-05**|**MMAE: A Massive Multitask Audio Editing Benchmark**|Ziyang Ma et.al.|[2606.07229](http://arxiv.org/abs/2606.07229)|null|
+|**2026-06-05**|**Audio Imitator: Controlling Timbre and Tempo in Video2Audio Synthesis with Audio Reference**|Jiahui Zhao et.al.|[2606.07182](http://arxiv.org/abs/2606.07182)|null|
+|**2026-06-05**|**Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization**|Zhe Yang et.al.|[2606.07033](http://arxiv.org/abs/2606.07033)|null|
+|**2026-06-05**|**M2S-AVSR: Modality-aware Multi-view Self-supervised Representation for Robust Audio-Visual Speech Recognition**|Fei Su et.al.|[2606.05763](http://arxiv.org/abs/2606.05763)|null|
+|**2026-06-04**|**To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection**|Erfan Loweimi et.al.|[2606.05931](http://arxiv.org/abs/2606.05931)|null|
+|**2026-06-04**|**Beyond Generative Decoding: Discriminative Hidden-State Readout from a Native Omni-Modal LLM for Multimodal Sentiment Analysis**|Bin Wen et.al.|[2606.05713](http://arxiv.org/abs/2606.05713)|null|
+|**2026-06-02**|**Stable Hybrid Cross-Attention Fusion for Audio-Visual Event Recognition**|Parinaz Binandeh Dehaghani et.al.|[2606.03747](http://arxiv.org/abs/2606.03747)|null|
+|**2026-06-02**|**OmniHalluc-L: Counterfactual Benchmarking and Modality-Perturbation Reliability Calibration for Long-Form Omni Hallucination**|Zixuan Dong et.al.|[2606.03614](http://arxiv.org/abs/2606.03614)|null|
+|**2026-06-02**|**Attend to Anything: Foundation Model for Unified Human Attention Modeling**|Wenzhuo Zhao et.al.|[2606.03540](http://arxiv.org/abs/2606.03540)|null|
+|**2026-06-02**|**Inference-Time Scaling for Joint Audio-Video Generation**|Jaemin Jung et.al.|[2606.03183](http://arxiv.org/abs/2606.03183)|null|
+|**2026-06-02**|**JAVEDIT: Joint Audio-Visual Instruction-Guided Video Editing with Agentic Data Curation**|Yinan Chen et.al.|[2606.03168](http://arxiv.org/abs/2606.03168)|null|
+|**2026-06-01**|**AVTrack: Audio-Visual Tracking in Human-centric Complex Scenes**|Yaoting Wang et.al.|[2606.02724](http://arxiv.org/abs/2606.02724)|null|
+|**2026-06-01**|**Before Fusion, Ask What to Keep: Contextual Calibration of Multimodal Signals**|Jiyuan Liu et.al.|[2606.02679](http://arxiv.org/abs/2606.02679)|null|
+|**2026-06-01**|**Kinship Verification Using Voice**|Jagabandhu Mishra et.al.|[2606.01704](http://arxiv.org/abs/2606.01704)|null|
+|**2026-05-31**|**SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models**|Chenshuang Zhang et.al.|[2606.02642](http://arxiv.org/abs/2606.02642)|null|
+|**2026-05-31**|**Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition**|Wanlong Fang et.al.|[2606.00959](http://arxiv.org/abs/2606.00959)|null|
+|**2026-05-30**|**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**|Dongping Chen et.al.|[2606.00579](http://arxiv.org/abs/2606.00579)|null|
+|**2026-05-30**|**V-LynX: Token Interface Alignment for Video+X LLMs**|Jungin Park et.al.|[2606.00508](http://arxiv.org/abs/2606.00508)|null|
 |**2026-05-14**|**XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference**|Thomas Witt et.al.|[2605.14844](http://arxiv.org/abs/2605.14844)|null|
 |**2026-05-14**|**IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments**|Dinanath Pathya et.al.|[2605.14736](http://arxiv.org/abs/2605.14736)|null|
 |**2026-05-13**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
@@ -1134,12 +1154,32 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Streaming Video Generation with Streaming Force Control**|Hanhui Wang et.al.|[2606.07508](http://arxiv.org/abs/2606.07508)|null|
+|**2026-06-05**|**CULTURESCORE: Evaluating Cultural Faithfulness in Video Generation Models**|Anku Rani et.al.|[2606.07311](http://arxiv.org/abs/2606.07311)|null|
+|**2026-06-05**|**LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing**|Jianzong Wu et.al.|[2606.06042](http://arxiv.org/abs/2606.06042)|null|
+|**2026-06-04**|**RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling**|Chensheng Dai et.al.|[2606.06309](http://arxiv.org/abs/2606.06309)|null|
+|**2026-06-04**|**Resonant Minds: Closed-Loop Social Avatars with Theory of Mind**|Jianxu Shangguan et.al.|[2606.05896](http://arxiv.org/abs/2606.05896)|null|
+|**2026-06-04**|**PiL-World: A Chunk-Wise World Model for VLA Policy-in-the-Loop Evaluation**|Chong Ma et.al.|[2606.05773](http://arxiv.org/abs/2606.05773)|null|
+|**2026-06-04**|**V2V-Bench: A Comprehensive Benchmark for Video-to-Video Generation Evaluation**|Tao Liu et.al.|[2606.05665](http://arxiv.org/abs/2606.05665)|null|
+|**2026-06-04**|**Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?**|Rui Zhao et.al.|[2606.04811](http://arxiv.org/abs/2606.04811)|null|
+|**2026-06-03**|**Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation**|Tobia Poppi et.al.|[2606.05290](http://arxiv.org/abs/2606.05290)|null|
+|**2026-06-03**|**Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text**|Jaeyeong Kim et.al.|[2606.05162](http://arxiv.org/abs/2606.05162)|null|
+|**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160](http://arxiv.org/abs/2606.05160)|null|
+|**2026-06-03**|**Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control**|Jihoon Hong et.al.|[2606.04775](http://arxiv.org/abs/2606.04775)|null|
+|**2026-06-03**|**Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment**|Cong Wang et.al.|[2606.04737](http://arxiv.org/abs/2606.04737)|null|
+|**2026-06-03**|**Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation**|Yuxuan Bian et.al.|[2606.04527](http://arxiv.org/abs/2606.04527)|null|
+|**2026-06-03**|**DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation**|Thanh-Tung Le et.al.|[2606.04432](http://arxiv.org/abs/2606.04432)|null|
+|**2026-06-03**|**AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation**|Haobo Li et.al.|[2606.03972](http://arxiv.org/abs/2606.03972)|null|
+|**2026-06-03**|**Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation**|Xuan Wei et.al.|[2606.03402](http://arxiv.org/abs/2606.03402)|null|
+|**2026-06-02**|**CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization**|Tewodros Ayalew et.al.|[2606.04130](http://arxiv.org/abs/2606.04130)|null|
+|**2026-06-02**|**Video-Mirai: Autoregressive Video Diffusion Models Need Foresight**|Yonghao Yu et.al.|[2606.03971](http://arxiv.org/abs/2606.03971)|null|
+|**2026-06-02**|**PointAction: 3D Points as Universal Action Representations for Robot Control**|Mutian Tong et.al.|[2606.03943](http://arxiv.org/abs/2606.03943)|null|
 |**2026-05-14**|**EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**|Ruozhen He et.al.|[2605.15199](http://arxiv.org/abs/2605.15199)|null|
 |**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
 |**2026-05-14**|**Quantitative Video World Model Evaluation for Geometric-Consistency**|Jiaxin Wu et.al.|[2605.15185](http://arxiv.org/abs/2605.15185)|null|
@@ -3501,5 +3541,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
