@@ -1,4 +1,4 @@
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,12 +97,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
+|**2026-06-07**|**OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning**|Jiahao Wang et.al.|[2606.08572](http://arxiv.org/abs/2606.08572)|null|
+|**2026-06-07**|**SMC-ITA: Sequential Monte Carlo Inference-Time Alignment for Video-to-Audio Generation**|Haoyu Zhang et.al.|[2606.08393](http://arxiv.org/abs/2606.08393)|null|
 |**2026-06-05**|**Watch, Remember, Reason: Human-View Video Understanding with MLLMs**|Jiahao Meng et.al.|[2606.07433](http://arxiv.org/abs/2606.07433)|null|
 |**2026-06-05**|**Assessing True Generalisability of Audio-Visual Speech Recognisers**|Zhaofeng Lin et.al.|[2606.07259](http://arxiv.org/abs/2606.07259)|null|
 |**2026-06-05**|**MMAE: A Massive Multitask Audio Editing Benchmark**|Ziyang Ma et.al.|[2606.07229](http://arxiv.org/abs/2606.07229)|null|
@@ -119,6 +122,7 @@
 |**2026-06-01**|**AVTrack: Audio-Visual Tracking in Human-centric Complex Scenes**|Yaoting Wang et.al.|[2606.02724](http://arxiv.org/abs/2606.02724)|null|
 |**2026-06-01**|**Before Fusion, Ask What to Keep: Contextual Calibration of Multimodal Signals**|Jiyuan Liu et.al.|[2606.02679](http://arxiv.org/abs/2606.02679)|null|
 |**2026-06-01**|**Kinship Verification Using Voice**|Jagabandhu Mishra et.al.|[2606.01704](http://arxiv.org/abs/2606.01704)|null|
+|**2026-06-01**|**AVI-Bench: Toward Human-like Audio-Visual Intelligence of Omni-MLLMs**|Yaoting Wang et.al.|[2606.07643](http://arxiv.org/abs/2606.07643)|null|
 |**2026-05-31**|**SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models**|Chenshuang Zhang et.al.|[2606.02642](http://arxiv.org/abs/2606.02642)|null|
 |**2026-05-31**|**Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition**|Wanlong Fang et.al.|[2606.00959](http://arxiv.org/abs/2606.00959)|null|
 |**2026-05-30**|**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**|Dongping Chen et.al.|[2606.00579](http://arxiv.org/abs/2606.00579)|null|
@@ -1154,12 +1158,23 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**Latent Spatial Memory for Video World Models**|Weijie Wang et.al.|[2606.09828](http://arxiv.org/abs/2606.09828)|null|
+|**2026-06-08**|**Do Video Foundation Models Understand Intuitive Physics? A Layerwise Probing Analysis**|Samuele Punzo et.al.|[2606.09646](http://arxiv.org/abs/2606.09646)|null|
+|**2026-06-08**|**CineDance: Towards Next-Generation Multi-Shot Long-Form Cinematic Audio-Video Generation**|Yuheng Chen et.al.|[2606.09639](http://arxiv.org/abs/2606.09639)|null|
+|**2026-06-08**|**LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution**|Yu Cao et.al.|[2606.09250](http://arxiv.org/abs/2606.09250)|null|
+|**2026-06-08**|**OmniGen-AR: AutoRegressive Any-to-Image Generation**|Junke Wang et.al.|[2606.09156](http://arxiv.org/abs/2606.09156)|null|
+|**2026-06-08**|**Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions**|Luxury et.al.|[2606.09150](http://arxiv.org/abs/2606.09150)|null|
+|**2026-06-08**|**MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation**|Ishaan Preetam Chandratreya et.al.|[2606.09056](http://arxiv.org/abs/2606.09056)|null|
+|**2026-06-07**|**BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension**|Tsung-Wei Pan et.al.|[2606.08674](http://arxiv.org/abs/2606.08674)|null|
+|**2026-06-06**|**TIDE: Task-Isolated Diffusion for Unified Video Editing and Generation**|Qi Liu et.al.|[2606.08260](http://arxiv.org/abs/2606.08260)|null|
+|**2026-06-06**|**VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation**|Jianhui Wei et.al.|[2606.08091](http://arxiv.org/abs/2606.08091)|null|
+|**2026-06-06**|**DisCo: World Models with Discrete Camera Motion Control**|Hongrui Huang et.al.|[2606.07967](http://arxiv.org/abs/2606.07967)|null|
 |**2026-06-05**|**Streaming Video Generation with Streaming Force Control**|Hanhui Wang et.al.|[2606.07508](http://arxiv.org/abs/2606.07508)|null|
 |**2026-06-05**|**CULTURESCORE: Evaluating Cultural Faithfulness in Video Generation Models**|Anku Rani et.al.|[2606.07311](http://arxiv.org/abs/2606.07311)|null|
 |**2026-06-05**|**LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing**|Jianzong Wu et.al.|[2606.06042](http://arxiv.org/abs/2606.06042)|null|
@@ -3541,5 +3556,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
