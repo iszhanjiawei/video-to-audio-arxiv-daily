@@ -1,4 +1,4 @@
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,13 +97,17 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
+|**2026-06-09**|**Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio**|Avi Gupta et.al.|[2606.10887](http://arxiv.org/abs/2606.10887)|null|
+|**2026-06-09**|**Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning**|Zihan Meng et.al.|[2606.10533](http://arxiv.org/abs/2606.10533)|null|
 |**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
+|**2026-06-08**|**From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs**|Wish Suharitdamrong et.al.|[2606.10147](http://arxiv.org/abs/2606.10147)|null|
 |**2026-06-07**|**OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning**|Jiahao Wang et.al.|[2606.08572](http://arxiv.org/abs/2606.08572)|null|
 |**2026-06-07**|**SMC-ITA: Sequential Monte Carlo Inference-Time Alignment for Video-to-Audio Generation**|Haoyu Zhang et.al.|[2606.08393](http://arxiv.org/abs/2606.08393)|null|
 |**2026-06-05**|**Watch, Remember, Reason: Human-View Video Understanding with MLLMs**|Jiahao Meng et.al.|[2606.07433](http://arxiv.org/abs/2606.07433)|null|
@@ -1158,12 +1162,18 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension**|Tsung-Wei Pan et.al.|[2606.08674](http://arxiv.org/abs/2606.08674)|null|
+|**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
+|**2026-06-09**|**Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models**|Bowen Ping et.al.|[2606.11025](http://arxiv.org/abs/2606.11025)|null|
+|**2026-06-09**|**AnimaSpark: A Feed-Forward Method for Animating Arbitrary 3D Objects**|Yiming Zhao et.al.|[2606.10988](http://arxiv.org/abs/2606.10988)|null|
+|**2026-06-09**|**HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation**|Cong Wang et.al.|[2606.10839](http://arxiv.org/abs/2606.10839)|null|
+|**2026-06-09**|**FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion**|Yu Lu et.al.|[2606.10671](http://arxiv.org/abs/2606.10671)|null|
 |**2026-06-08**|**Latent Spatial Memory for Video World Models**|Weijie Wang et.al.|[2606.09828](http://arxiv.org/abs/2606.09828)|null|
 |**2026-06-08**|**Do Video Foundation Models Understand Intuitive Physics? A Layerwise Probing Analysis**|Samuele Punzo et.al.|[2606.09646](http://arxiv.org/abs/2606.09646)|null|
 |**2026-06-08**|**CineDance: Towards Next-Generation Multi-Shot Long-Form Cinematic Audio-Video Generation**|Yuheng Chen et.al.|[2606.09639](http://arxiv.org/abs/2606.09639)|null|
@@ -1171,7 +1181,7 @@
 |**2026-06-08**|**OmniGen-AR: AutoRegressive Any-to-Image Generation**|Junke Wang et.al.|[2606.09156](http://arxiv.org/abs/2606.09156)|null|
 |**2026-06-08**|**Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions**|Luxury et.al.|[2606.09150](http://arxiv.org/abs/2606.09150)|null|
 |**2026-06-08**|**MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation**|Ishaan Preetam Chandratreya et.al.|[2606.09056](http://arxiv.org/abs/2606.09056)|null|
-|**2026-06-07**|**BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension**|Tsung-Wei Pan et.al.|[2606.08674](http://arxiv.org/abs/2606.08674)|null|
+|**2026-06-08**|**Making Time Editable in Video Diffusion Transformers**|Konstantin Kuklev et.al.|[2606.10183](http://arxiv.org/abs/2606.10183)|null|
 |**2026-06-06**|**TIDE: Task-Isolated Diffusion for Unified Video Editing and Generation**|Qi Liu et.al.|[2606.08260](http://arxiv.org/abs/2606.08260)|null|
 |**2026-06-06**|**VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation**|Jianhui Wei et.al.|[2606.08091](http://arxiv.org/abs/2606.08091)|null|
 |**2026-06-06**|**DisCo: World Models with Discrete Camera Motion Control**|Hongrui Huang et.al.|[2606.07967](http://arxiv.org/abs/2606.07967)|null|
@@ -3556,5 +3566,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
