@@ -1,4 +1,4 @@
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,13 +97,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation**|Pedro Correa et.al.|[2606.13630](http://arxiv.org/abs/2606.13630)|null|
 |**2026-06-10**|**On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning**|Zihan Zhang et.al.|[2606.11602](http://arxiv.org/abs/2606.11602)|null|
+|**2026-06-10**|**AudioX-Turbo: A Unified Framework for Efficient Anything-to-Audio Generation**|Zeyue Tian et.al.|[2606.12555](http://arxiv.org/abs/2606.12555)|null|
 |**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
 |**2026-06-09**|**Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio**|Avi Gupta et.al.|[2606.10887](http://arxiv.org/abs/2606.10887)|null|
 |**2026-06-09**|**Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning**|Zihan Meng et.al.|[2606.10533](http://arxiv.org/abs/2606.10533)|null|
@@ -1163,12 +1165,19 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
+|**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
+|**2026-06-11**|**GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving**|Xinwei Qiang et.al.|[2606.13501](http://arxiv.org/abs/2606.13501)|null|
+|**2026-06-11**|**OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data**|Jiwen Liu et.al.|[2606.13432](http://arxiv.org/abs/2606.13432)|null|
+|**2026-06-11**|**ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance**|Salaheldin Mohamed et.al.|[2606.13304](http://arxiv.org/abs/2606.13304)|null|
+|**2026-06-11**|**TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment**|Yu Meng et.al.|[2606.13035](http://arxiv.org/abs/2606.13035)|null|
+|**2026-06-11**|**GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training**|Zhihai Bi et.al.|[2606.12995](http://arxiv.org/abs/2606.12995)|null|
 |**2026-06-10**|**Making Foresight Actionable: Repurposing Representation Alignment in World Action Models**|Lu Qiu et.al.|[2606.12217](http://arxiv.org/abs/2606.12217)|null|
 |**2026-06-10**|**World Model Self-Distillation: Training World Models to Solve General Tasks**|Sebastian Stapf et.al.|[2606.12072](http://arxiv.org/abs/2606.12072)|null|
 |**2026-06-10**|**VICX: Generalizable Robot Manipulation via Video Generation and In-Context Operator Network**|Song Chen et.al.|[2606.12028](http://arxiv.org/abs/2606.12028)|null|
@@ -1176,6 +1185,7 @@
 |**2026-06-10**|**Plan-and-Verify Video Reward Reasoning with Spatio-Temporal Scene Graph Grounding**|Hyomin Kim et.al.|[2606.11838](http://arxiv.org/abs/2606.11838)|null|
 |**2026-06-10**|**A Comprehensive Ecosystem for Open-Domain Customized Video Generation**|Jingxu Zhang et.al.|[2606.11783](http://arxiv.org/abs/2606.11783)|null|
 |**2026-06-10**|**ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation**|Zijie Meng et.al.|[2606.11670](http://arxiv.org/abs/2606.11670)|null|
+|**2026-06-10**|**Helping Figures Tell their Story! Paper-Grounded Video Generation Explaining Complex Scientific Figures**|Ishani Mondal et.al.|[2606.12576](http://arxiv.org/abs/2606.12576)|null|
 |**2026-06-09**|**BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension**|Tsung-Wei Pan et.al.|[2606.08674](http://arxiv.org/abs/2606.08674)|null|
 |**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Gangwei Xu et.al.|[2606.11187](http://arxiv.org/abs/2606.11187)|null|
 |**2026-06-09**|**Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models**|Bowen Ping et.al.|[2606.11025](http://arxiv.org/abs/2606.11025)|null|
@@ -3574,5 +3584,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
