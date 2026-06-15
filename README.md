@@ -1,4 +1,4 @@
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,12 +97,14 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
+|**2026-06-12**|**FoleyGenEx: Unified Video-to-Audio Generation with Multi-Modal Control, Temporal Alignment, and Semantic Precision**|Shiyao Wang et.al.|[2606.14049](http://arxiv.org/abs/2606.14049)|null|
 |**2026-06-11**|**From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation**|Pedro Correa et.al.|[2606.13630](http://arxiv.org/abs/2606.13630)|null|
 |**2026-06-10**|**On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning**|Zihan Zhang et.al.|[2606.11602](http://arxiv.org/abs/2606.11602)|null|
 |**2026-06-10**|**AudioX-Turbo: A Unified Framework for Efficient Anything-to-Audio Generation**|Zeyue Tian et.al.|[2606.12555](http://arxiv.org/abs/2606.12555)|null|
@@ -1165,12 +1167,15 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**Memento: Reconstruct to Remember for Consistent Long Video Generation**|Xuan Wei et.al.|[2606.14667](http://arxiv.org/abs/2606.14667)|null|
+|**2026-06-12**|**CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation**|Sihan Zhuang et.al.|[2606.14317](http://arxiv.org/abs/2606.14317)|null|
+|**2026-06-12**|**VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling**|Xunzhi Xiang et.al.|[2606.14162](http://arxiv.org/abs/2606.14162)|null|
 |**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
 |**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
 |**2026-06-11**|**GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving**|Xinwei Qiang et.al.|[2606.13501](http://arxiv.org/abs/2606.13501)|null|
@@ -1178,6 +1183,10 @@
 |**2026-06-11**|**ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance**|Salaheldin Mohamed et.al.|[2606.13304](http://arxiv.org/abs/2606.13304)|null|
 |**2026-06-11**|**TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment**|Yu Meng et.al.|[2606.13035](http://arxiv.org/abs/2606.13035)|null|
 |**2026-06-11**|**GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training**|Zhihai Bi et.al.|[2606.12995](http://arxiv.org/abs/2606.12995)|null|
+|**2026-06-11**|**Prompt2Effect: Training-Free Image-to-Video Model Specialization via LoRA Generation**|Xiaomeng Yang et.al.|[2606.13971](http://arxiv.org/abs/2606.13971)|null|
+|**2026-06-11**|**Avatar V: Scaling Video-Reference Avatar Video Generation**|Benjamin Liang et.al.|[2606.13872](http://arxiv.org/abs/2606.13872)|null|
+|**2026-06-11**|**Temporal Backtracking Search for Test-time Generative Video Reasoning**|Sejoon Jun et.al.|[2606.13861](http://arxiv.org/abs/2606.13861)|null|
+|**2026-06-11**|**CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation**|Sharath Girish et.al.|[2606.13768](http://arxiv.org/abs/2606.13768)|null|
 |**2026-06-10**|**Making Foresight Actionable: Repurposing Representation Alignment in World Action Models**|Lu Qiu et.al.|[2606.12217](http://arxiv.org/abs/2606.12217)|null|
 |**2026-06-10**|**World Model Self-Distillation: Training World Models to Solve General Tasks**|Sebastian Stapf et.al.|[2606.12072](http://arxiv.org/abs/2606.12072)|null|
 |**2026-06-10**|**VICX: Generalizable Robot Manipulation via Video Generation and In-Context Operator Network**|Song Chen et.al.|[2606.12028](http://arxiv.org/abs/2606.12028)|null|
@@ -3584,5 +3593,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
