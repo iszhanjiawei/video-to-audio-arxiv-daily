@@ -1,4 +1,4 @@
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,19 +97,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
+|**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-16**|**MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model**|Lichen Bai et.al.|[2606.17800](http://arxiv.org/abs/2606.17800)|null|
 |**2026-06-16**|**Evaluating Large Language Models Abilities for Addressee, Turn-change, and Next Speaker Prediction in Meetings**|Ryo Fukuda et.al.|[2606.17542](http://arxiv.org/abs/2606.17542)|null|
 |**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-06-15**|**MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild**|Haotian Qi et.al.|[2606.16731](http://arxiv.org/abs/2606.16731)|null|
 |**2026-06-15**|**SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues**|Suttisak Wizadwongsa et.al.|[2606.17310](http://arxiv.org/abs/2606.17310)|null|
 |**2026-06-13**|**Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection**|Elham Abolhasani et.al.|[2606.15117](http://arxiv.org/abs/2606.15117)|null|
-|**2026-06-12**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
 |**2026-06-12**|**FoleyGenEx: Unified Video-to-Audio Generation with Multi-Modal Control, Temporal Alignment, and Semantic Precision**|Shiyao Wang et.al.|[2606.14049](http://arxiv.org/abs/2606.14049)|null|
 |**2026-06-11**|**From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation**|Pedro Correa et.al.|[2606.13630](http://arxiv.org/abs/2606.13630)|null|
 |**2026-06-10**|**On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning**|Zihan Zhang et.al.|[2606.11602](http://arxiv.org/abs/2606.11602)|null|
@@ -1172,19 +1173,26 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-16**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030](http://arxiv.org/abs/2606.17030)|null|
+|**2026-06-17**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030](http://arxiv.org/abs/2606.17030)|null|
+|**2026-06-17**|**TurboServe: Serving Streaming Video Generation Efficiently and Economically**|Youhe Jiang et.al.|[2606.19271](http://arxiv.org/abs/2606.19271)|null|
+|**2026-06-17**|**Pulse: Training Acceleration for Large Diffusion Models with Automatic Pipeline Parallelism**|Boran Sun et.al.|[2606.19163](http://arxiv.org/abs/2606.19163)|null|
+|**2026-06-17**|**Physics-IQ Verified**|Tim Rädsch et.al.|[2606.18943](http://arxiv.org/abs/2606.18943)|null|
+|**2026-06-17**|**UniTemp: Unlocking Video Generation in Any Temporal Order via Bidirectional Distillation**|Lin Zhang et.al.|[2606.18702](http://arxiv.org/abs/2606.18702)|null|
+|**2026-06-17**|**SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation**|Wei-Cheng Tseng et.al.|[2606.18610](http://arxiv.org/abs/2606.18610)|null|
+|**2026-06-17**|**Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops**|Denis Savytski et.al.|[2606.18591](http://arxiv.org/abs/2606.18591)|null|
 |**2026-06-16**|**PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory**|Shuai Yang et.al.|[2606.16449](http://arxiv.org/abs/2606.16449)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**EgoCS-400K: An Egocentric Gameplay Dataset for World Models**|Rongjin Guo et.al.|[2606.18180](http://arxiv.org/abs/2606.18180)|null|
 |**2026-06-16**|**MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model**|Lichen Bai et.al.|[2606.17800](http://arxiv.org/abs/2606.17800)|null|
 |**2026-06-16**|**TivTok: Broadcasting Time-Invariant Tokens for Scalable Video Tokenization**|Weiliang Chen et.al.|[2606.17590](http://arxiv.org/abs/2606.17590)|null|
 |**2026-06-16**|**OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation**|Zijie Meng et.al.|[2606.17536](http://arxiv.org/abs/2606.17536)|null|
+|**2026-06-16**|**Data-Forcing Distillation: Restoring Diversity and Fidelity in Few-Step Video Generation**|Siyi Chen et.al.|[2606.18478](http://arxiv.org/abs/2606.18478)|null|
 |**2026-06-15**|**DreamX-World 1.0: A General-Purpose Interactive World Model**|DreamX Team et.al.|[2606.16993](http://arxiv.org/abs/2606.16993)|null|
 |**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](http://arxiv.org/abs/2606.16742)|null|
 |**2026-06-15**|**RGFVR: Reference-Guided Face Video Restoration with Flow Matching**|Cem Eteke et.al.|[2606.16401](http://arxiv.org/abs/2606.16401)|null|
@@ -3620,5 +3628,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
 
