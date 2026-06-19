@@ -1,4 +1,4 @@
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,7 +97,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -1173,12 +1173,16 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](http://arxiv.org/abs/2606.20388)|null|
+|**2026-06-18**|**Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models**|Haoxuan Wu et.al.|[2606.20310](http://arxiv.org/abs/2606.20310)|null|
+|**2026-06-18**|**SketchKeyAnime: Reference-anchored Sparse Key-Sketch Animation Synthesis**|Meixi Li et.al.|[2606.19958](http://arxiv.org/abs/2606.19958)|null|
+|**2026-06-18**|**TeleMorpher: Toward Robust Simultaneous Motion-Location Editing**|Haengbok Chung et.al.|[2606.19676](http://arxiv.org/abs/2606.19676)|null|
 |**2026-06-17**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030](http://arxiv.org/abs/2606.17030)|null|
 |**2026-06-17**|**TurboServe: Serving Streaming Video Generation Efficiently and Economically**|Youhe Jiang et.al.|[2606.19271](http://arxiv.org/abs/2606.19271)|null|
 |**2026-06-17**|**Pulse: Training Acceleration for Large Diffusion Models with Automatic Pipeline Parallelism**|Boran Sun et.al.|[2606.19163](http://arxiv.org/abs/2606.19163)|null|
@@ -1186,6 +1190,9 @@
 |**2026-06-17**|**UniTemp: Unlocking Video Generation in Any Temporal Order via Bidirectional Distillation**|Lin Zhang et.al.|[2606.18702](http://arxiv.org/abs/2606.18702)|null|
 |**2026-06-17**|**SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation**|Wei-Cheng Tseng et.al.|[2606.18610](http://arxiv.org/abs/2606.18610)|null|
 |**2026-06-17**|**Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops**|Denis Savytski et.al.|[2606.18591](http://arxiv.org/abs/2606.18591)|null|
+|**2026-06-17**|**ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?**|Yuyang Zhang et.al.|[2606.19531](http://arxiv.org/abs/2606.19531)|null|
+|**2026-06-17**|**LooseControlVideo: Directorial Video Control using Spatial Blocking**|Shariq Farooq Bhat et.al.|[2606.19495](http://arxiv.org/abs/2606.19495)|null|
+|**2026-06-17**|**Cinematic Compositing Using Character-Environment-Harmonized Video Generation Models**|Tianyi Xiang et.al.|[2606.20233](http://arxiv.org/abs/2606.20233)|null|
 |**2026-06-16**|**PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory**|Shuai Yang et.al.|[2606.16449](http://arxiv.org/abs/2606.16449)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|null|
 |**2026-06-16**|**EgoCS-400K: An Egocentric Gameplay Dataset for World Models**|Rongjin Guo et.al.|[2606.18180](http://arxiv.org/abs/2606.18180)|null|
@@ -3628,5 +3635,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
