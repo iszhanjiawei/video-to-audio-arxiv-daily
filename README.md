@@ -103,12 +103,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**READ More than What You See: Reinforcement Learning for Accurate and Coherent Audio Description Generations**|Bo Fang et.al.|[2606.22766](http://arxiv.org/abs/2606.22766)|null|
+|**2026-06-21**|**Towards Accurate and Robust Surveillance Roadside IVD via Trackletized Audio-Visual Reasoning**|Xiwen Li et.al.|[2606.22299](http://arxiv.org/abs/2606.22299)|null|
+|**2026-06-18**|**MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild**|Haotian Qi et.al.|[2606.16731](http://arxiv.org/abs/2606.16731)|null|
+|**2026-06-18**|**CogniRoute: Learning to Route Social Evidence in Omni-Modal Models**|Yifan Shen et.al.|[2606.20970](http://arxiv.org/abs/2606.20970)|null|
 |**2026-06-17**|**OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains**|Xinyue Cai et.al.|[2606.14702](http://arxiv.org/abs/2606.14702)|null|
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-16**|**MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model**|Lichen Bai et.al.|[2606.17800](http://arxiv.org/abs/2606.17800)|null|
 |**2026-06-16**|**Evaluating Large Language Models Abilities for Addressee, Turn-change, and Next Speaker Prediction in Meetings**|Ryo Fukuda et.al.|[2606.17542](http://arxiv.org/abs/2606.17542)|null|
 |**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
-|**2026-06-15**|**MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild**|Haotian Qi et.al.|[2606.16731](http://arxiv.org/abs/2606.16731)|null|
 |**2026-06-15**|**SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues**|Suttisak Wizadwongsa et.al.|[2606.17310](http://arxiv.org/abs/2606.17310)|null|
 |**2026-06-13**|**Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection**|Elham Abolhasani et.al.|[2606.15117](http://arxiv.org/abs/2606.15117)|null|
 |**2026-06-12**|**FoleyGenEx: Unified Video-to-Audio Generation with Multi-Modal Control, Temporal Alignment, and Semantic Precision**|Shiyao Wang et.al.|[2606.14049](http://arxiv.org/abs/2606.14049)|null|
@@ -1179,10 +1182,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Vera: A Layered Diffusion Model for Content-Preserving Video Editing**|Hongkai Zheng et.al.|[2606.23610](http://arxiv.org/abs/2606.23610)|null|
+|**2026-06-22**|**IOI: Decoupling Kinematics and Physics for Interactive World Models**|Chengyu Bai et.al.|[2606.23296](http://arxiv.org/abs/2606.23296)|null|
+|**2026-06-22**|**ScalingAttention: Discovering Intrinsic Sparse Attention Topology for Video Diffusion Transformers**|Ruiliang Zhou et.al.|[2606.23019](http://arxiv.org/abs/2606.23019)|null|
+|**2026-06-22**|**Each Judge Its Own Yardstick: Discovering Per-VLM Taxonomies for Physical Video Evaluation**|Yu Cao et.al.|[2606.22918](http://arxiv.org/abs/2606.22918)|null|
+|**2026-06-22**|**InteractiveAvatar: Real-Time Streaming Video Generation for Consistent and Intent-Aware Avatars**|Quanyue Song et.al.|[2606.22905](http://arxiv.org/abs/2606.22905)|null|
+|**2026-06-22**|**OrthoMotion:Disentangling Camera and Subject Motion via Geometry Semantics Orthogonal Attention**|Zijie Meng et.al.|[2606.22835](http://arxiv.org/abs/2606.22835)|null|
+|**2026-06-22**|**One-Step Flow Matching for Generative Modeling of Path-Dependent Physical Fields**|Yijing Zhou et.al.|[2606.22752](http://arxiv.org/abs/2606.22752)|null|
+|**2026-06-21**|**Training-Free Semantic Correction for Autoregressive Visual Models**|Junhao Chen et.al.|[2606.22550](http://arxiv.org/abs/2606.22550)|null|
+|**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416](http://arxiv.org/abs/2606.22416)|null|
+|**2026-06-21**|**Towards Error-Free Long Video Generation**|Shuning Chang et.al.|[2606.22370](http://arxiv.org/abs/2606.22370)|null|
+|**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363](http://arxiv.org/abs/2606.22363)|null|
+|**2026-06-21**|**Customizing Video Portraits via Identity-ActionDecoupling**|Junxiong Lin et.al.|[2606.22347](http://arxiv.org/abs/2606.22347)|null|
+|**2026-06-20**|**CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation**|Wenhu Zhang et.al.|[2606.21982](http://arxiv.org/abs/2606.21982)|null|
+|**2026-06-19**|**UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating**|Jiehui Huang et.al.|[2606.21661](http://arxiv.org/abs/2606.21661)|null|
+|**2026-06-19**|**DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams**|Cong Wan et.al.|[2606.21337](http://arxiv.org/abs/2606.21337)|null|
+|**2026-06-19**|**ChronoLock: Protecting Videos from Unauthorized Text-to-Video Personalization**|Jiaming He et.al.|[2606.21146](http://arxiv.org/abs/2606.21146)|null|
 |**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](http://arxiv.org/abs/2606.20388)|null|
 |**2026-06-18**|**Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models**|Haoxuan Wu et.al.|[2606.20310](http://arxiv.org/abs/2606.20310)|null|
 |**2026-06-18**|**SketchKeyAnime: Reference-anchored Sparse Key-Sketch Animation Synthesis**|Meixi Li et.al.|[2606.19958](http://arxiv.org/abs/2606.19958)|null|
 |**2026-06-18**|**TeleMorpher: Toward Robust Simultaneous Motion-Location Editing**|Haengbok Chung et.al.|[2606.19676](http://arxiv.org/abs/2606.19676)|null|
+|**2026-06-18**|**Go-with-the-Track: Video Compositing and Motion Control with Point Tracking**|Koichi Namekata et.al.|[2606.20891](http://arxiv.org/abs/2606.20891)|null|
+|**2026-06-18**|**GroundShot: Visually Consistent Multi-Shot Long Video Generation via Entity-Grounded Shot Scheduling**|Yixuan Lai et.al.|[2606.20799](http://arxiv.org/abs/2606.20799)|null|
+|**2026-06-18**|**World Action Models: A Survey**|Qiuhong Shen et.al.|[2606.20781](http://arxiv.org/abs/2606.20781)|null|
+|**2026-06-18**|**TriMotion: Modality-Agnostic Camera Control for Video Generation**|Seunghyun Shin et.al.|[2606.20774](http://arxiv.org/abs/2606.20774)|null|
 |**2026-06-17**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030](http://arxiv.org/abs/2606.17030)|null|
 |**2026-06-17**|**TurboServe: Serving Streaming Video Generation Efficiently and Economically**|Youhe Jiang et.al.|[2606.19271](http://arxiv.org/abs/2606.19271)|null|
 |**2026-06-17**|**Pulse: Training Acceleration for Large Diffusion Models with Automatic Pipeline Parallelism**|Boran Sun et.al.|[2606.19163](http://arxiv.org/abs/2606.19163)|null|
