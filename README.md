@@ -1,4 +1,4 @@
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,7 +97,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -111,6 +111,7 @@
 |**2026-06-17**|**Native Active Perception as Reasoning for Omni-Modal Understanding**|Zhenghao Xing et.al.|[2606.19341](http://arxiv.org/abs/2606.19341)|null|
 |**2026-06-16**|**MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model**|Lichen Bai et.al.|[2606.17800](http://arxiv.org/abs/2606.17800)|null|
 |**2026-06-16**|**Evaluating Large Language Models Abilities for Addressee, Turn-change, and Next Speaker Prediction in Meetings**|Ryo Fukuda et.al.|[2606.17542](http://arxiv.org/abs/2606.17542)|null|
+|**2026-06-16**|**Audio-visual Contrastive Alignment for Diffusion-based Visual-conditioned Speech Enhancement**|Colombe Mboungou et.al.|[2606.23712](http://arxiv.org/abs/2606.23712)|null|
 |**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-06-15**|**SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues**|Suttisak Wizadwongsa et.al.|[2606.17310](http://arxiv.org/abs/2606.17310)|null|
 |**2026-06-13**|**Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection**|Elham Abolhasani et.al.|[2606.15117](http://arxiv.org/abs/2606.15117)|null|
@@ -1176,12 +1177,22 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](http://arxiv.org/abs/2606.24829)|null|
+|**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](http://arxiv.org/abs/2606.24799)|null|
+|**2026-06-23**|**CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning**|Xinyu Mao et.al.|[2606.24636](http://arxiv.org/abs/2606.24636)|null|
+|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448](http://arxiv.org/abs/2606.24448)|null|
+|**2026-06-23**|**TIGER: Taming Identity, Geometry, and Generative Priors for High-Quality Face Video Restoration**|Yang Zhou et.al.|[2606.24336](http://arxiv.org/abs/2606.24336)|null|
+|**2026-06-23**|**Trimming the Long-Tail of Visual World Modeling Evaluation**|Bingxuan Li et.al.|[2606.24256](http://arxiv.org/abs/2606.24256)|null|
+|**2026-06-23**|**Navigating User Behavior toward Personalized Multimodal Generation**|Hengji Zhou et.al.|[2606.24196](http://arxiv.org/abs/2606.24196)|null|
+|**2026-06-23**|**Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models**|Xin Wang et.al.|[2606.24152](http://arxiv.org/abs/2606.24152)|null|
+|**2026-06-23**|**DramaDirector: Geometry-Guided Short Drama Generation**|Hengji Zhou et.al.|[2606.24107](http://arxiv.org/abs/2606.24107)|null|
+|**2026-06-23**|**Information-Theoretic Classifier-Free Guidance with Adaptive Schedule Optimization**|Haobo Chen et.al.|[2606.24025](http://arxiv.org/abs/2606.24025)|null|
 |**2026-06-22**|**Vera: A Layered Diffusion Model for Content-Preserving Video Editing**|Hongkai Zheng et.al.|[2606.23610](http://arxiv.org/abs/2606.23610)|null|
 |**2026-06-22**|**IOI: Decoupling Kinematics and Physics for Interactive World Models**|Chengyu Bai et.al.|[2606.23296](http://arxiv.org/abs/2606.23296)|null|
 |**2026-06-22**|**ScalingAttention: Discovering Intrinsic Sparse Attention Topology for Video Diffusion Transformers**|Ruiliang Zhou et.al.|[2606.23019](http://arxiv.org/abs/2606.23019)|null|
@@ -1194,6 +1205,7 @@
 |**2026-06-21**|**Towards Error-Free Long Video Generation**|Shuning Chang et.al.|[2606.22370](http://arxiv.org/abs/2606.22370)|null|
 |**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Yun Oh et.al.|[2606.22363](http://arxiv.org/abs/2606.22363)|null|
 |**2026-06-21**|**Customizing Video Portraits via Identity-ActionDecoupling**|Junxiong Lin et.al.|[2606.22347](http://arxiv.org/abs/2606.22347)|null|
+|**2026-06-21**|**Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation**|Yitong Li et.al.|[2606.23743](http://arxiv.org/abs/2606.23743)|null|
 |**2026-06-20**|**CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation**|Wenhu Zhang et.al.|[2606.21982](http://arxiv.org/abs/2606.21982)|null|
 |**2026-06-19**|**UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating**|Jiehui Huang et.al.|[2606.21661](http://arxiv.org/abs/2606.21661)|null|
 |**2026-06-19**|**DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams**|Cong Wan et.al.|[2606.21337](http://arxiv.org/abs/2606.21337)|null|
@@ -3658,5 +3670,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
