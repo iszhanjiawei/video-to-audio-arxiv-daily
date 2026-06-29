@@ -1,4 +1,4 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,7 +97,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -1179,21 +1179,27 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing**|Shengbin Guo et.al.|[2606.26551](http://arxiv.org/abs/2606.26551)|null|
+|**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Peiwen Zhang et.al.|[2606.28128](http://arxiv.org/abs/2606.28128)|null|
+|**2026-06-26**|**EMOSH: Expressive Motion and Shape Disentanglement for Human Animation**|Dongbin Zhang et.al.|[2606.28026](http://arxiv.org/abs/2606.28026)|null|
+|**2026-06-26**|**TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL**|Jing Wang et.al.|[2606.28016](http://arxiv.org/abs/2606.28016)|null|
+|**2026-06-26**|**Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control**|Haoyuan Wang et.al.|[2606.27964](http://arxiv.org/abs/2606.27964)|null|
 |**2026-06-25**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
-|**2026-06-25**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
 |**2026-06-25**|**PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation**|Kexu Cheng et.al.|[2606.26916](http://arxiv.org/abs/2606.26916)|null|
 |**2026-06-25**|**NaviCache: Test-Time Self-Calibration Caching for Video Generation**|Zheqi Lv et.al.|[2606.26795](http://arxiv.org/abs/2606.26795)|null|
 |**2026-06-25**|**LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration**|Xuyue Huang et.al.|[2606.26778](http://arxiv.org/abs/2606.26778)|null|
 |**2026-06-25**|**LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing**|Xinyu Wang et.al.|[2606.26740](http://arxiv.org/abs/2606.26740)|null|
 |**2026-06-25**|**Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization**|Xuancheng Xu et.al.|[2606.26668](http://arxiv.org/abs/2606.26668)|null|
 |**2026-06-25**|**SharQ: Bridging Activation Sparsity and FP4 Quantization for LLM Inference**|Haoqian Meng et.al.|[2606.26587](http://arxiv.org/abs/2606.26587)|null|
-|**2026-06-25**|**PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing**|Shengbin Guo et.al.|[2606.26551](http://arxiv.org/abs/2606.26551)|null|
+|**2026-06-25**|**MemoBench: Benchmarking World Modeling in Dynamically Changing Environments**|Haoyu Chen et.al.|[2606.27537](http://arxiv.org/abs/2606.27537)|null|
+|**2026-06-25**|**ReWorld: Learning Better Representations for World Action Models**|Tianze Xia et.al.|[2606.27504](http://arxiv.org/abs/2606.27504)|null|
 |**2026-06-24**|**Navigating User Behavior toward Personalized Multimodal Generation**|Hengji Zhou et.al.|[2606.24196](http://arxiv.org/abs/2606.24196)|null|
 |**2026-06-24**|**MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation**|JoungBin Lee et.al.|[2606.26087](http://arxiv.org/abs/2606.26087)|null|
 |**2026-06-24**|**DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation**|Nan Chen et.al.|[2606.26058](http://arxiv.org/abs/2606.26058)|null|
@@ -3688,5 +3694,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
