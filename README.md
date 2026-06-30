@@ -103,7 +103,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-25**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
+|**2026-06-29**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
+|**2026-06-29**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
+|**2026-06-28**|**VIB-AVSR: Variational Information Bottleneck for Noise-Robust LLM-Based Audio-Visual Speech Recognition**|Piyush Arora et.al.|[2606.29632](http://arxiv.org/abs/2606.29632)|null|
+|**2026-06-28**|**MAVIN: Multi-Shot Audio-Visual Generation with Narrative Control**|Kaiqi Liu et.al.|[2606.29473](http://arxiv.org/abs/2606.29473)|null|
 |**2026-06-23**|**MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning**|Revant Teotia et.al.|[2606.25225](http://arxiv.org/abs/2606.25225)|null|
 |**2026-06-22**|**READ More than What You See: Reinforcement Learning for Accurate and Coherent Audio Description Generations**|Bo Fang et.al.|[2606.22766](http://arxiv.org/abs/2606.22766)|null|
 |**2026-06-21**|**Towards Accurate and Robust Surveillance Roadside IVD via Trackletized Audio-Visual Reasoning**|Xiwen Li et.al.|[2606.22299](http://arxiv.org/abs/2606.22299)|null|
