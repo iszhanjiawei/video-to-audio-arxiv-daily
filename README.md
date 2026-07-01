@@ -1,4 +1,4 @@
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction**|Matus Krajcovic et.al.|[2508.02376](http://arxiv.org/abs/2508.02376)|null|
 |**2026-04-26**|**Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation**|Chunyu Li et.al.|[2604.23632](http://arxiv.org/abs/2604.23632)|null|
 |**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|null|
 |**2026-04-09**|**PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation**|Soumya Mazumdar et.al.|[2604.08037](http://arxiv.org/abs/2604.08037)|null|
@@ -31,7 +32,6 @@
 |**2025-10-24**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|null|
 |**2025-10-03**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
 |**2025-08-21**|**Understanding Co-speech Gestures in-the-wild**|Sindhu B Hegde et.al.|[2503.22668](http://arxiv.org/abs/2503.22668)|null|
-|**2025-08-04**|**Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction**|Matus Krajcovic et.al.|[2508.02376](http://arxiv.org/abs/2508.02376)|null|
 |**2025-07-27**|**Versatile Multimodal Controls for Expressive Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|
 |**2025-05-30**|**V2SFlow: Video-to-Speech Generation with Speech Decomposition and Rectified Flow**|Jeongsoo Choi et.al.|[2411.19486](http://arxiv.org/abs/2411.19486)|null|
 |**2025-05-29**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
@@ -97,7 +97,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -105,6 +105,7 @@
 |---|---|---|---|---|
 |**2026-06-29**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
 |**2026-06-29**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
+|**2026-06-29**|**AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation**|Kien T. Pham et.al.|[2606.30811](http://arxiv.org/abs/2606.30811)|null|
 |**2026-06-28**|**VIB-AVSR: Variational Information Bottleneck for Noise-Robust LLM-Based Audio-Visual Speech Recognition**|Piyush Arora et.al.|[2606.29632](http://arxiv.org/abs/2606.29632)|null|
 |**2026-06-28**|**MAVIN: Multi-Shot Audio-Visual Generation with Narrative Control**|Kaiqi Liu et.al.|[2606.29473](http://arxiv.org/abs/2606.29473)|null|
 |**2026-06-23**|**MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning**|Revant Teotia et.al.|[2606.25225](http://arxiv.org/abs/2606.25225)|null|
@@ -1182,13 +1183,18 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-29**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el amine boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|null|
+|**2026-06-30**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el Amine Boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|null|
+|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
+|**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
+|**2026-06-30**|**No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs**|Haojian Huang et.al.|[2606.31933](http://arxiv.org/abs/2606.31933)|null|
+|**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
+|**2026-06-30**|**Bridging Video Understanding and Generation in a Unified Framework**|Yuqi Wang et.al.|[2606.31326](http://arxiv.org/abs/2606.31326)|null|
 |**2026-06-29**|**EcoVideo: Entropy-Orchestrated Video Generation Paradigm in Cloud-Edge Dynamics**|Jiayu Chen et.al.|[2606.30557](http://arxiv.org/abs/2606.30557)|null|
 |**2026-06-29**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
@@ -1196,6 +1202,7 @@
 |**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
 |**2026-06-29**|**Walking in the Implicit: Interactive World Exploration via Neural Scene Representation**|Zhiqi Li et.al.|[2606.30045](http://arxiv.org/abs/2606.30045)|null|
 |**2026-06-29**|**OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data**|Kaixing Yang et.al.|[2606.30019](http://arxiv.org/abs/2606.30019)|null|
+|**2026-06-29**|**AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation**|Kien T. Pham et.al.|[2606.30811](http://arxiv.org/abs/2606.30811)|null|
 |**2026-06-28**|**Learning Transferable Dynamics Priors from Action to World Modeling**|Ze Huang et.al.|[2606.29501](http://arxiv.org/abs/2606.29501)|null|
 |**2026-06-27**|**Semantic-Aware, Physics-Informed, Geometry-Grounded Weather Video Synthesis**|Chenghao Qian et.al.|[2606.29020](http://arxiv.org/abs/2606.29020)|null|
 |**2026-06-27**|**ViPSim: Collaborating Visual and Parameter Spaces for Consistent Long-Horizon Embodied World Models**|Longyu Chen et.al.|[2606.28804](http://arxiv.org/abs/2606.28804)|null|
@@ -3709,5 +3716,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
