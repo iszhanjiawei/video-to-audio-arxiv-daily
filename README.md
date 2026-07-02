@@ -103,6 +103,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-01**|**MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization**|Jingchen Ni et.al.|[2607.00902](http://arxiv.org/abs/2607.00902)|null|
+|**2026-07-01**|**AV-SyncBench: Decoupled Benchmarking of Temporal and Semantic Audio-Visual Synchronization**|Tianhong Zhou et.al.|[2607.00726](http://arxiv.org/abs/2607.00726)|null|
 |**2026-06-29**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
 |**2026-06-29**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
 |**2026-06-29**|**AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation**|Kien T. Pham et.al.|[2606.30811](http://arxiv.org/abs/2606.30811)|null|
@@ -1189,6 +1191,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
+|**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|null|
+|**2026-07-01**|**Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection**|Joren Michels et.al.|[2607.00948](http://arxiv.org/abs/2607.00948)|null|
+|**2026-07-01**|**Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences**|Zhenjia Li et.al.|[2607.00832](http://arxiv.org/abs/2607.00832)|null|
+|**2026-07-01**|**Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption**|Xiaomeng Fu et.al.|[2607.00712](http://arxiv.org/abs/2607.00712)|null|
 |**2026-06-30**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el Amine Boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|null|
 |**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
 |**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
@@ -1196,7 +1203,6 @@
 |**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
 |**2026-06-30**|**Bridging Video Understanding and Generation in a Unified Framework**|Yuqi Wang et.al.|[2606.31326](http://arxiv.org/abs/2606.31326)|null|
 |**2026-06-29**|**EcoVideo: Entropy-Orchestrated Video Generation Paradigm in Cloud-Edge Dynamics**|Jiayu Chen et.al.|[2606.30557](http://arxiv.org/abs/2606.30557)|null|
-|**2026-06-29**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
 |**2026-06-29**|**DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model**|Daniyel Ayupov et.al.|[2606.30292](http://arxiv.org/abs/2606.30292)|null|
 |**2026-06-29**|**Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation**|Shihao Zhang et.al.|[2606.30248](http://arxiv.org/abs/2606.30248)|null|
