@@ -1,4 +1,4 @@
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,7 +97,7 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## video-to-audio Papers
 
@@ -1185,19 +1185,29 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
+|**2026-07-02**|**WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory**|Hanlin Wang et.al.|[2607.02517](http://arxiv.org/abs/2607.02517)|null|
+|**2026-07-02**|**OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**|Donghyun Lee et.al.|[2607.02461](http://arxiv.org/abs/2607.02461)|null|
+|**2026-07-02**|**NEvo: Neural-Guided Evolutionary Video Synthesis for Dynamic Visual Selectivity**|Yingtian Tang et.al.|[2607.02317](http://arxiv.org/abs/2607.02317)|null|
+|**2026-07-02**|**HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control**|Yushuo Chen et.al.|[2607.02075](http://arxiv.org/abs/2607.02075)|null|
+|**2026-07-02**|**NeoMap: Training-free Novel-View Synthesis from Single Images and Videos**|Jinxi Li et.al.|[2607.01962](http://arxiv.org/abs/2607.01962)|null|
+|**2026-07-02**|**HCMS: Head-Chunked Multi-Stream Pipeline for Communication-Computation Overlap in Long-Sequence Parallel Attention**|Chao Yuan et.al.|[2607.01817](http://arxiv.org/abs/2607.01817)|null|
+|**2026-07-02**|**SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation**|Chunjiang Liu et.al.|[2607.01766](http://arxiv.org/abs/2607.01766)|null|
+|**2026-07-02**|**Arachne: Orchestrating Cascades for Efficient Text-to-Video Model Training**|Peng Yu et.al.|[2607.01701](http://arxiv.org/abs/2607.01701)|null|
+|**2026-07-02**|**Unified Panoramic-Gaussian Representation for Monocular 4D Scene Synthesis**|Yuankun Yang et.al.|[2607.01663](http://arxiv.org/abs/2607.01663)|null|
 |**2026-07-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|null|
 |**2026-07-01**|**Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection**|Joren Michels et.al.|[2607.00948](http://arxiv.org/abs/2607.00948)|null|
 |**2026-07-01**|**Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences**|Zhenjia Li et.al.|[2607.00832](http://arxiv.org/abs/2607.00832)|null|
 |**2026-07-01**|**Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption**|Xiaomeng Fu et.al.|[2607.00712](http://arxiv.org/abs/2607.00712)|null|
+|**2026-07-01**|**Anti-Prompt: Image Protection against Text-Guided Image-to-Video Generation**|Yeonghwan Song et.al.|[2607.01499](http://arxiv.org/abs/2607.01499)|null|
 |**2026-06-30**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el Amine Boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|null|
-|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
 |**2026-06-30**|**World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration**|Ye Chen et.al.|[2606.31946](http://arxiv.org/abs/2606.31946)|null|
 |**2026-06-30**|**No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs**|Haojian Huang et.al.|[2606.31933](http://arxiv.org/abs/2606.31933)|null|
 |**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
@@ -3722,5 +3732,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
