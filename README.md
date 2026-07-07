@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,12 +97,21 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-05**|**UniSkip-Mamba: A Frequency-Aware State Space Model for Audio-Visual Temporal Forgery Localization**|Cangjin Qiu et.al.|[2607.04498](http://arxiv.org/abs/2607.04498)|null|
+|**2026-07-05**|**EVAS: Efficient Multimodal Temporal Forgery Localization via Audio-Visual Synergy and Steered Boundary Calibration**|Shen Shen et.al.|[2607.04472](http://arxiv.org/abs/2607.04472)|null|
+|**2026-07-05**|**Wan-Streamer v0.2: Higher Resolution, Same Latency**|Lianghua Huang et.al.|[2607.04443](http://arxiv.org/abs/2607.04443)|null|
+|**2026-07-04**|**LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation**|Rufeng Chen et.al.|[2607.03920](http://arxiv.org/abs/2607.03920)|null|
+|**2026-07-04**|**Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering**|SungHun Kim et.al.|[2607.03825](http://arxiv.org/abs/2607.03825)|null|
+|**2026-07-03**|**OmniFocus: Query-Guided Modality-Balanced Token Compression for Omni-Modal Large Language Models**|Shijie Cao et.al.|[2607.03050](http://arxiv.org/abs/2607.03050)|null|
+|**2026-07-03**|**$C^3$ ASD: Multi-Level Consistency-Driven Representation Learning**|Jin Hong et.al.|[2607.03018](http://arxiv.org/abs/2607.03018)|null|
+|**2026-07-03**|**Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning**|Wenzheng Zeng et.al.|[2607.02963](http://arxiv.org/abs/2607.02963)|null|
+|**2026-07-02**|**Conversational Human Audio-visual Talking Dialogue Generation**|Junhao Song et.al.|[2607.02799](http://arxiv.org/abs/2607.02799)|null|
 |**2026-07-01**|**MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization**|Jingchen Ni et.al.|[2607.00902](http://arxiv.org/abs/2607.00902)|null|
 |**2026-07-01**|**AV-SyncBench: Decoupled Benchmarking of Temporal and Semantic Audio-Visual Synchronization**|Tianhong Zhou et.al.|[2607.00726](http://arxiv.org/abs/2607.00726)|null|
 |**2026-06-29**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
@@ -1185,12 +1194,30 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
+|**2026-07-06**|**Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation**|Jingyi Lu et.al.|[2607.05354](http://arxiv.org/abs/2607.05354)|null|
+|**2026-07-06**|**InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization**|Haoxiang Ma et.al.|[2607.04988](http://arxiv.org/abs/2607.04988)|null|
+|**2026-07-06**|**DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation**|Jian Zhu et.al.|[2607.04927](http://arxiv.org/abs/2607.04927)|null|
+|**2026-07-06**|**Video Generation Models Are Inherent Lighting Estimators**|Ziqi Cai et.al.|[2607.04674](http://arxiv.org/abs/2607.04674)|null|
+|**2026-07-06**|**Enhancing Video Physical Consistency via Role-aware Joint Training and Modality-decoupled Denoising**|Guangting Zheng et.al.|[2607.04653](http://arxiv.org/abs/2607.04653)|null|
+|**2026-07-05**|**Lights, Camera, Carbon: Architectural Scaling Laws for Video Generation Energy Consumption**|Nidhal Jegham et.al.|[2607.04553](http://arxiv.org/abs/2607.04553)|null|
+|**2026-07-05**|**Aura: Consistent Multi-Subject Video Generation via VLM-Grounded Semantic Alignment**|Zixiang Zhou et.al.|[2607.04311](http://arxiv.org/abs/2607.04311)|null|
+|**2026-07-04**|**Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control**|Jianjie Fang et.al.|[2607.03964](http://arxiv.org/abs/2607.03964)|null|
+|**2026-07-04**|**Reward Lightning: Fast Video Generation via Homologous Preference Distillation**|Jiaxiang Cheng et.al.|[2607.03960](http://arxiv.org/abs/2607.03960)|null|
+|**2026-07-04**|**CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation**|Xuyao Huang et.al.|[2607.03803](http://arxiv.org/abs/2607.03803)|null|
+|**2026-07-04**|**ProxyUp: Training-Free Proxy-Conditioned Video Generation for Controllable Dynamics**|Zanwei Zhou et.al.|[2607.03732](http://arxiv.org/abs/2607.03732)|null|
+|**2026-07-03**|**Perceptual Flow Matching for Few-Step Generative Modeling**|Chuyang Zhao et.al.|[2607.03524](http://arxiv.org/abs/2607.03524)|null|
+|**2026-07-03**|**Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model**|Xinyin Ma et.al.|[2607.03509](http://arxiv.org/abs/2607.03509)|null|
+|**2026-07-03**|**Vidu S1: A Real-Time Interactive Video Generation Model**|Jintao Zhang et.al.|[2607.03118](http://arxiv.org/abs/2607.03118)|null|
+|**2026-07-03**|**SafeGuard: A Multi-Agent Perception-Reasoning Framework for Social-Risk AI-Generated Video Detection**|Wenlin Wu et.al.|[2607.03069](http://arxiv.org/abs/2607.03069)|null|
+|**2026-07-03**|**Natural Language Camera Movement Understanding**|Yuwen Tan et.al.|[2607.03043](http://arxiv.org/abs/2607.03043)|null|
+|**2026-07-03**|**HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion**|Dongyeun Lee et.al.|[2607.03012](http://arxiv.org/abs/2607.03012)|null|
 |**2026-07-02**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
 |**2026-07-02**|**WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory**|Hanlin Wang et.al.|[2607.02517](http://arxiv.org/abs/2607.02517)|null|
 |**2026-07-02**|**OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**|Donghyun Lee et.al.|[2607.02461](http://arxiv.org/abs/2607.02461)|null|
@@ -1201,6 +1228,7 @@
 |**2026-07-02**|**SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation**|Chunjiang Liu et.al.|[2607.01766](http://arxiv.org/abs/2607.01766)|null|
 |**2026-07-02**|**Arachne: Orchestrating Cascades for Efficient Text-to-Video Model Training**|Peng Yu et.al.|[2607.01701](http://arxiv.org/abs/2607.01701)|null|
 |**2026-07-02**|**Unified Panoramic-Gaussian Representation for Monocular 4D Scene Synthesis**|Yuankun Yang et.al.|[2607.01663](http://arxiv.org/abs/2607.01663)|null|
+|**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|null|
 |**2026-07-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|null|
 |**2026-07-01**|**Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection**|Joren Michels et.al.|[2607.00948](http://arxiv.org/abs/2607.00948)|null|
@@ -3732,5 +3760,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
