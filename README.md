@@ -1,4 +1,4 @@
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,15 +97,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness**|Iulia-Maria Udrea et.al.|[2607.08112](http://arxiv.org/abs/2607.08112)|null|
+|**2026-07-09**|**HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing**|Dinithi Dissanayake et.al.|[2607.08083](http://arxiv.org/abs/2607.08083)|null|
 |**2026-07-08**|**Wan-Streamer v0.2: Higher Resolution, Same Latency**|Lianghua Huang et.al.|[2607.04443](http://arxiv.org/abs/2607.04443)|null|
 |**2026-07-08**|**Multimodal Voice Activity Projection for Turn-Taking in Social Robots with Voice-Activity-Related Pretrained Encoders**|Antonio Cano et.al.|[2607.07294](http://arxiv.org/abs/2607.07294)|null|
 |**2026-07-08**|**UBG-Net: An Uncertainty-aware Bayesian Gating Network for Robust Audio-Visual Speech Recognition**|Jinjie Fu et.al.|[2607.06892](http://arxiv.org/abs/2607.06892)|null|
+|**2026-07-08**|**Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks**|Nobin Sarwar et.al.|[2607.07907](http://arxiv.org/abs/2607.07907)|null|
 |**2026-07-07**|**$C^3$ ASD: Multi-Level Consistency-Driven Representation Learning**|Jin Hong et.al.|[2607.03018](http://arxiv.org/abs/2607.03018)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-07-07**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
@@ -1201,16 +1204,23 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
+|**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
+|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
+|**2026-07-09**|**Native Video-Action Pretraining for Generalizable Robot Control**|Qihang Zhang et.al.|[2607.08639](http://arxiv.org/abs/2607.08639)|null|
+|**2026-07-09**|**SAGA: Stable Acceleration Guidance for Autoregressive Video Generation**|Thanh-Nhan Vo et.al.|[2607.08020](http://arxiv.org/abs/2607.08020)|null|
+|**2026-07-09**|**LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting**|Zixin Guo et.al.|[2607.08016](http://arxiv.org/abs/2607.08016)|null|
 |**2026-07-08**|**Enhancing Video Physical Consistency via Role-aware Joint Training and Modality-decoupled Denoising**|Guangting Zheng et.al.|[2607.04653](http://arxiv.org/abs/2607.04653)|null|
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](http://arxiv.org/abs/2607.07675)|null|
-|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
 |**2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Christian Oefinger et.al.|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
+|**2026-07-08**|**Unlocking Temporal Generalization in Hamiltonian Video Dynamics Models**|Eli Laird et.al.|[2607.07763](http://arxiv.org/abs/2607.07763)|null|
 |**2026-07-07**|**Aura: Consistent Multi-Subject Video Generation via VLM-Grounded Semantic Alignment**|Zixiang Zhou et.al.|[2607.04311](http://arxiv.org/abs/2607.04311)|null|
 |**2026-07-07**|**Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation**|Songbur Wong et.al.|[2607.06516](http://arxiv.org/abs/2607.06516)|null|
 |**2026-07-07**|**A Definition and Roadmap for World Models**|Xinyuan Chen et.al.|[2607.06401](http://arxiv.org/abs/2607.06401)|null|
@@ -3777,5 +3787,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
