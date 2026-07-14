@@ -1,4 +1,4 @@
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,12 +97,13 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-11**|**Empowering Long-form Omni-modal Understanding with Robust Audio Perception**|Kaiying Yan et.al.|[2607.10299](http://arxiv.org/abs/2607.10299)|null|
 |**2026-07-10**|**Beyond Time Shifts: Adapting Omni-LLM as a Reference-Free Evaluator for Generative Audio-Visual Models**|Yijie Qian et.al.|[2607.09091](http://arxiv.org/abs/2607.09091)|null|
 |**2026-07-10**|**Optimal Transport-based Semantic Alignment for LLM-based Audio-Visual Speech Recognition**|Xugang Lu et.al.|[2607.09001](http://arxiv.org/abs/2607.09001)|null|
 |**2026-07-09**|**VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness**|Iulia-Maria Udrea et.al.|[2607.08112](http://arxiv.org/abs/2607.08112)|null|
@@ -1206,13 +1207,19 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-10**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
+|**2026-07-13**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
+|**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
+|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
+|**2026-07-13**|**Xema: Efficient Diffusion Serving through Fine-Grained Memory Management and Auto-Configuration**|Xueze Kang et.al.|[2607.11136](http://arxiv.org/abs/2607.11136)|null|
+|**2026-07-13**|**Controlling Motion Transfer in Diffusion Transformers via Attention Heads**|Sunyoung Jung et.al.|[2607.11081](http://arxiv.org/abs/2607.11081)|null|
+|**2026-07-12**|**AU-Guided Synthetic Video Generation for Micro-Expression Recognition**|Pei-Sze Tan et.al.|[2607.10860](http://arxiv.org/abs/2607.10860)|null|
 |**2026-07-10**|**GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency**|Haohui Huang et.al.|[2607.09191](http://arxiv.org/abs/2607.09191)|null|
 |**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 |**2026-07-09**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
@@ -1222,6 +1229,7 @@
 |**2026-07-09**|**Native Video-Action Pretraining for Generalizable Robot Control**|Qihang Zhang et.al.|[2607.08639](http://arxiv.org/abs/2607.08639)|null|
 |**2026-07-09**|**SAGA: Stable Acceleration Guidance for Autoregressive Video Generation**|Thanh-Nhan Vo et.al.|[2607.08020](http://arxiv.org/abs/2607.08020)|null|
 |**2026-07-09**|**LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting**|Zixin Guo et.al.|[2607.08016](http://arxiv.org/abs/2607.08016)|null|
+|**2026-07-09**|**Spectral Origins of the Self-Correction Blind Spot in Autoregressive Generation**|Ingrid Petrova et.al.|[2607.09803](http://arxiv.org/abs/2607.09803)|null|
 |**2026-07-08**|**Enhancing Video Physical Consistency via Role-aware Joint Training and Modality-decoupled Denoising**|Guangting Zheng et.al.|[2607.04653](http://arxiv.org/abs/2607.04653)|null|
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](http://arxiv.org/abs/2607.07675)|null|
 |**2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Christian Oefinger et.al.|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
@@ -3792,5 +3800,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
