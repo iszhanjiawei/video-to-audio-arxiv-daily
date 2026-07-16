@@ -1,4 +1,4 @@
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,13 +97,16 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
+|**2026-07-15**|**Learning Speaker Identity Beyond Language and Modality Constraints: Insights from the POLY-SIM 2026 Challenge**|Marta Moscati et.al.|[2607.13669](http://arxiv.org/abs/2607.13669)|null|
 |**2026-07-14**|**AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning**|Yanghai Wang et.al.|[2607.12820](http://arxiv.org/abs/2607.12820)|null|
+|**2026-07-14**|**A Hybrid Mamba for Audio-Visual Navigation**|Yi Wang et.al.|[2607.13110](http://arxiv.org/abs/2607.13110)|null|
 |**2026-07-13**|**FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving**|Yaqi Qiao et.al.|[2607.12121](http://arxiv.org/abs/2607.12121)|null|
 |**2026-07-11**|**Empowering Long-form Omni-modal Understanding with Robust Audio Perception**|Kaiying Yan et.al.|[2607.10299](http://arxiv.org/abs/2607.10299)|null|
 |**2026-07-10**|**Beyond Time Shifts: Adapting Omni-LLM as a Reference-Free Evaluator for Generative Audio-Visual Models**|Yijie Qian et.al.|[2607.09091](http://arxiv.org/abs/2607.09091)|null|
@@ -116,7 +119,6 @@
 |**2026-07-08**|**Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks**|Nobin Sarwar et.al.|[2607.07907](http://arxiv.org/abs/2607.07907)|null|
 |**2026-07-07**|**$C^3$ ASD: Multi-Level Consistency-Driven Representation Learning**|Jin Hong et.al.|[2607.03018](http://arxiv.org/abs/2607.03018)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
-|**2026-07-07**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
 |**2026-07-07**|**Propose and Attend: Training-free MLLM Grounding Confidence via Multi-Token Localized Attention**|Daniel Shalam et.al.|[2607.05978](http://arxiv.org/abs/2607.05978)|null|
 |**2026-07-07**|**Multimodal Video-to-Music Recommendation via Semantic Retrieval and Temporal Reranking**|Seungheon Doh et.al.|[2607.05971](http://arxiv.org/abs/2607.05971)|null|
 |**2026-07-07**|**Uncovering Latent Depression Severity for Binary Depression Detection via Advantage-weighting Ranking**|Manning Gao et.al.|[2607.05901](http://arxiv.org/abs/2607.05901)|null|
@@ -1209,15 +1211,21 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
+|**2026-07-15**|**From Pixels to States: Rethinking Interactive World Models as Game Engines**|Zhen Li et.al.|[2607.14076](http://arxiv.org/abs/2607.14076)|null|
+|**2026-07-15**|**VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation**|Songyu Xu et.al.|[2607.13527](http://arxiv.org/abs/2607.13527)|null|
+|**2026-07-15**|**Bring Music The Horizon: Music-Driven 360 $^\circ$ Video Generation**|Kai Hsu Tsai et.al.|[2607.13471](http://arxiv.org/abs/2607.13471)|null|
 |**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-14**|**FlowWAM: Optical Flow as a Unified Action Representation for World Action Models**|Yixiang Chen et.al.|[2607.13017](http://arxiv.org/abs/2607.13017)|null|
 |**2026-07-14**|**ACID: Adaptive Caching for vIDeo generation**|Om Agrawal et.al.|[2607.12358](http://arxiv.org/abs/2607.12358)|null|
+|**2026-07-14**|**Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization**|Yuxin Huang et.al.|[2607.13336](http://arxiv.org/abs/2607.13336)|null|
+|**2026-07-14**|**Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation**|Ruize Xia et.al.|[2607.13164](http://arxiv.org/abs/2607.13164)|null|
 |**2026-07-13**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
 |**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
@@ -3805,5 +3813,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
