@@ -1,4 +1,4 @@
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,14 +97,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Video = World + Event Stream**|Lianghua Huang et.al.|[2607.15038](http://arxiv.org/abs/2607.15038)|null|
+|**2026-07-17**|**Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos**|Sreyan Ghosh et.al.|[2607.16107](http://arxiv.org/abs/2607.16107)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
-|**2026-07-16**|**Video = World + Event Stream**|Lianghua Huang et.al.|[2607.15038](http://arxiv.org/abs/2607.15038)|null|
 |**2026-07-15**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
 |**2026-07-15**|**FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving**|Yaqi Qiao et.al.|[2607.12121](http://arxiv.org/abs/2607.12121)|null|
 |**2026-07-15**|**Learning Speaker Identity Beyond Language and Modality Constraints: Insights from the POLY-SIM 2026 Challenge**|Marta Moscati et.al.|[2607.13669](http://arxiv.org/abs/2607.13669)|null|
@@ -1214,12 +1215,17 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation**|Hao Liu et.al.|[2607.16190](http://arxiv.org/abs/2607.16190)|null|
+|**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|null|
+|**2026-07-17**|**DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction**|Chi Zhang et.al.|[2607.15846](http://arxiv.org/abs/2607.15846)|null|
+|**2026-07-17**|**SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation**|Yilai Liu et.al.|[2607.15772](http://arxiv.org/abs/2607.15772)|null|
+|**2026-07-17**|**PE-Field 4D: Video Generation Models as Canvas**|Yunpeng Bai et.al.|[2607.15667](http://arxiv.org/abs/2607.15667)|null|
 |**2026-07-16**|**ACID: Adaptive Caching for vIDeo generation**|Om Agrawal et.al.|[2607.12358](http://arxiv.org/abs/2607.12358)|null|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators**|Yushi Huang et.al.|[2607.15273](http://arxiv.org/abs/2607.15273)|null|
@@ -3825,5 +3831,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
