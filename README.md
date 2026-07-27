@@ -1229,12 +1229,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Self Gradient Forcing: Native Long Video Extrapolation**|Junhao Zhuang et.al.|[2607.20368](http://arxiv.org/abs/2607.20368)|null|
+|**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
 |**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
 |**2026-07-23**|**SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation**|Junsong Chen et.al.|[2607.21553](http://arxiv.org/abs/2607.21553)|null|
 |**2026-07-23**|**GroupVideo: Multi-Identity Customized Text-to-Video Generation**|Xinyang Song et.al.|[2607.21027](http://arxiv.org/abs/2607.21027)|null|
 |**2026-07-23**|**Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention**|Zekun Li et.al.|[2607.20940](http://arxiv.org/abs/2607.20940)|null|
-|**2026-07-22**|**Self Gradient Forcing: Native Long Video Extrapolation**|Junhao Zhuang et.al.|[2607.20368](http://arxiv.org/abs/2607.20368)|null|
+|**2026-07-23**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
 |**2026-07-22**|**Vera: Identity-Faithful Human Subject-to-Video Generation**|Yulong Xu et.al.|[2607.20247](http://arxiv.org/abs/2607.20247)|null|
 |**2026-07-22**|**StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation**|Zejing Rao et.al.|[2607.20174](http://arxiv.org/abs/2607.20174)|null|
 |**2026-07-22**|**HeadCast: Casting Attention Heads for Efficient Autoregressive Video Generation**|Jinliang Shen et.al.|[2607.20125](http://arxiv.org/abs/2607.20125)|null|
