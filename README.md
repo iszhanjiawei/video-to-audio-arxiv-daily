@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|null|
 |**2026-06-30**|**Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction**|Matus Krajcovic et.al.|[2508.02376](http://arxiv.org/abs/2508.02376)|null|
 |**2026-04-26**|**Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation**|Chunyu Li et.al.|[2604.23632](http://arxiv.org/abs/2604.23632)|null|
 |**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|null|
@@ -103,6 +104,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](http://arxiv.org/abs/2607.24359)|null|
+|**2026-07-26**|**The JEPA Paradox in Language: The Geometry of Linguistic Alternatives**|Anh Trac Duc Dinh et.al.|[2607.23531](http://arxiv.org/abs/2607.23531)|null|
+|**2026-07-26**|**Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models**|Yiming Zhong et.al.|[2607.23445](http://arxiv.org/abs/2607.23445)|null|
+|**2026-07-25**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
 |**2026-07-23**|**Out of Sight, Still in Mind: Token Compression for Omni-LLMs**|Suho Yoo et.al.|[2607.21179](http://arxiv.org/abs/2607.21179)|null|
 |**2026-07-22**|**Finding Fast Filters**|Karima Ma et.al.|[2607.20634](http://arxiv.org/abs/2607.20634)|null|
 |**2026-07-22**|**Deepfake News Detection: A Multimodal Framework Integrating LipNet, DeepSpeech and ResNET for Enhanced Audio-Visual Analysis**|Ameena Khan et.al.|[2607.20579](http://arxiv.org/abs/2607.20579)|null|
@@ -1229,14 +1234,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
+|**2026-07-27**|**MXAttention: Data-Free Optimal Scaling and Pre-Normalization Quantization for MXFP4 Attention**|Jianlin Yu et.al.|[2607.24377](http://arxiv.org/abs/2607.24377)|null|
+|**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](http://arxiv.org/abs/2607.24359)|null|
+|**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
+|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159](http://arxiv.org/abs/2607.24159)|null|
+|**2026-07-27**|**Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification**|Haopeng Li et.al.|[2607.24027](http://arxiv.org/abs/2607.24027)|null|
+|**2026-07-27**|**AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars**|Hengyuan Zhang et.al.|[2607.24013](http://arxiv.org/abs/2607.24013)|null|
+|**2026-07-27**|**LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments**|Pei Liu et.al.|[2607.23969](http://arxiv.org/abs/2607.23969)|null|
+|**2026-07-26**|**OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation**|Jun Zhan et.al.|[2607.23855](http://arxiv.org/abs/2607.23855)|null|
+|**2026-07-26**|**OmniCache: Multidimensional Hierarchical Feature Caching For Diffusion Models**|Zhaoyuan He et.al.|[2607.23844](http://arxiv.org/abs/2607.23844)|null|
+|**2026-07-26**|**VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation**|Tianxiao Chen et.al.|[2607.23472](http://arxiv.org/abs/2607.23472)|null|
+|**2026-07-25**|**CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion**|Shreshth Saini et.al.|[2607.23159](http://arxiv.org/abs/2607.23159)|null|
+|**2026-07-25**|**HALLELUAI: A Hallucination-Aware AI System for Ultra-Realistic Image-to-Video Generation at Scale**|Aniket Sakpal et.al.|[2607.22959](http://arxiv.org/abs/2607.22959)|null|
 |**2026-07-24**|**Self Gradient Forcing: Native Long Video Extrapolation**|Junhao Zhuang et.al.|[2607.20368](http://arxiv.org/abs/2607.20368)|null|
 |**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
+|**2026-07-24**|**ID-V2V: Identity-Preserving Video Restylization**|Yuancheng Xu et.al.|[2607.22830](http://arxiv.org/abs/2607.22830)|null|
 |**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
 |**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
 |**2026-07-23**|**SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation**|Junsong Chen et.al.|[2607.21553](http://arxiv.org/abs/2607.21553)|null|
 |**2026-07-23**|**GroupVideo: Multi-Identity Customized Text-to-Video Generation**|Xinyang Song et.al.|[2607.21027](http://arxiv.org/abs/2607.21027)|null|
 |**2026-07-23**|**Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention**|Zekun Li et.al.|[2607.20940](http://arxiv.org/abs/2607.20940)|null|
-|**2026-07-23**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
 |**2026-07-22**|**Vera: Identity-Faithful Human Subject-to-Video Generation**|Yulong Xu et.al.|[2607.20247](http://arxiv.org/abs/2607.20247)|null|
 |**2026-07-22**|**StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation**|Zejing Rao et.al.|[2607.20174](http://arxiv.org/abs/2607.20174)|null|
 |**2026-07-22**|**HeadCast: Casting Attention Heads for Efficient Autoregressive Video Generation**|Jinliang Shen et.al.|[2607.20125](http://arxiv.org/abs/2607.20125)|null|
