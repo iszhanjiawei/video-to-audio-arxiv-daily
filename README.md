@@ -1,4 +1,4 @@
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -98,16 +98,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
+|**2026-07-28**|**S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information**|Kaneyoshi Hiratsuka et.al.|[2607.26047](http://arxiv.org/abs/2607.26047)|null|
+|**2026-07-28**|**Less is More: Modality-Decoupling for General AIGC Audio-Video Detection**|Jielun Peng et.al.|[2607.25543](http://arxiv.org/abs/2607.25543)|null|
 |**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](http://arxiv.org/abs/2607.24359)|null|
 |**2026-07-26**|**The JEPA Paradox in Language: The Geometry of Linguistic Alternatives**|Anh Trac Duc Dinh et.al.|[2607.23531](http://arxiv.org/abs/2607.23531)|null|
 |**2026-07-26**|**Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models**|Yiming Zhong et.al.|[2607.23445](http://arxiv.org/abs/2607.23445)|null|
-|**2026-07-25**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
 |**2026-07-23**|**Out of Sight, Still in Mind: Token Compression for Omni-LLMs**|Suho Yoo et.al.|[2607.21179](http://arxiv.org/abs/2607.21179)|null|
 |**2026-07-22**|**Finding Fast Filters**|Karima Ma et.al.|[2607.20634](http://arxiv.org/abs/2607.20634)|null|
 |**2026-07-22**|**Deepfake News Detection: A Multimodal Framework Integrating LipNet, DeepSpeech and ResNET for Enhanced Audio-Visual Analysis**|Ameena Khan et.al.|[2607.20579](http://arxiv.org/abs/2607.20579)|null|
@@ -118,6 +120,7 @@
 |**2026-07-18**|**Efficient Audio-Visual Event Recognition via Knowledge Distillation and Dynamic INT8 Quantization of a Hybrid Cross-Attention Network**|Parinaz Binandeh Dehaghani et.al.|[2607.16980](http://arxiv.org/abs/2607.16980)|null|
 |**2026-07-17**|**Video = World + Event Stream**|Lianghua Huang et.al.|[2607.15038](http://arxiv.org/abs/2607.15038)|null|
 |**2026-07-17**|**Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos**|Sreyan Ghosh et.al.|[2607.16107](http://arxiv.org/abs/2607.16107)|null|
+|**2026-07-17**|**AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities**|Yuqing Wen et.al.|[2607.24821](http://arxiv.org/abs/2607.24821)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
 |**2026-07-15**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
 |**2026-07-15**|**FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving**|Yaqi Qiao et.al.|[2607.12121](http://arxiv.org/abs/2607.12121)|null|
@@ -1228,12 +1231,17 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Wonder: Video World Model Done Better**|Jiacong Xu et.al.|[2607.26037](http://arxiv.org/abs/2607.26037)|null|
+|**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
+|**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|null|
+|**2026-07-28**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
+|**2026-07-28**|**Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision**|Ruijie Su et.al.|[2607.25321](http://arxiv.org/abs/2607.25321)|null|
 |**2026-07-27**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
 |**2026-07-27**|**MXAttention: Data-Free Optimal Scaling and Pre-Normalization Quantization for MXFP4 Attention**|Jianlin Yu et.al.|[2607.24377](http://arxiv.org/abs/2607.24377)|null|
 |**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](http://arxiv.org/abs/2607.24359)|null|
@@ -3889,5 +3897,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
