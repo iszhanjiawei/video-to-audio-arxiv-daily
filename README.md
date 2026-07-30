@@ -104,6 +104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
 |**2026-07-28**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
 |**2026-07-28**|**S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information**|Kaneyoshi Hiratsuka et.al.|[2607.26047](http://arxiv.org/abs/2607.26047)|null|
 |**2026-07-28**|**Less is More: Modality-Decoupling for General AIGC Audio-Video Detection**|Jielun Peng et.al.|[2607.25543](http://arxiv.org/abs/2607.25543)|null|
@@ -1237,15 +1238,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
+|**2026-07-29**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
+|**2026-07-29**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
+|**2026-07-29**|**Mitigating Compounding Error via Video Representation Regularization**|Taiye Chen et.al.|[2607.27036](http://arxiv.org/abs/2607.27036)|null|
+|**2026-07-29**|**From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence**|Jia Luo et.al.|[2607.26903](http://arxiv.org/abs/2607.26903)|null|
+|**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
+|**2026-07-29**|**Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation**|Xiangbo Gao et.al.|[2607.26694](http://arxiv.org/abs/2607.26694)|null|
+|**2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Yongxin Su et.al.|[2607.26646](http://arxiv.org/abs/2607.26646)|null|
+|**2026-07-29**|**ContactFlow: A video action conditioning that transfers across embodiments**|Sami Azirar et.al.|[2607.26579](http://arxiv.org/abs/2607.26579)|null|
+|**2026-07-29**|**CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling**|Yuyang Huang et.al.|[2607.26529](http://arxiv.org/abs/2607.26529)|null|
+|**2026-07-29**|**CG-World: A Large-Scale World-State Dataset and Protocol for World Models**|Yiming Cai et.al.|[2607.26452](http://arxiv.org/abs/2607.26452)|null|
 |**2026-07-28**|**Wonder: Video World Model Done Better**|Jiacong Xu et.al.|[2607.26037](http://arxiv.org/abs/2607.26037)|null|
 |**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
 |**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|null|
-|**2026-07-28**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
 |**2026-07-28**|**Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision**|Ruijie Su et.al.|[2607.25321](http://arxiv.org/abs/2607.25321)|null|
+|**2026-07-28**|**LumaGuide: Distribution Shaping for Training-Free HDR Generation in Diffusion Models**|Bowen Chen et.al.|[2607.26237](http://arxiv.org/abs/2607.26237)|null|
 |**2026-07-27**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
 |**2026-07-27**|**MXAttention: Data-Free Optimal Scaling and Pre-Normalization Quantization for MXFP4 Attention**|Jianlin Yu et.al.|[2607.24377](http://arxiv.org/abs/2607.24377)|null|
 |**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](http://arxiv.org/abs/2607.24359)|null|
-|**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
 |**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159](http://arxiv.org/abs/2607.24159)|null|
 |**2026-07-27**|**Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification**|Haopeng Li et.al.|[2607.24027](http://arxiv.org/abs/2607.24027)|null|
 |**2026-07-27**|**AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars**|Hengyuan Zhang et.al.|[2607.24013](http://arxiv.org/abs/2607.24013)|null|
