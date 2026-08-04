@@ -104,6 +104,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
+|**2026-08-03**|**EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation**|Jiayu Chen et.al.|[2608.02474](http://arxiv.org/abs/2608.02474)|null|
+|**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
+|**2026-08-02**|**FATE: Frame-Level Audio-Visual Temporal Embedding**|Kaisi Guan et.al.|[2608.01310](http://arxiv.org/abs/2608.01310)|null|
+|**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
+|**2026-08-01**|**Blind Source Separation Can Distort Behavior and Connectivity Analyses of Calcium Transients**|Adedayo S. A et.al.|[2608.00655](http://arxiv.org/abs/2608.00655)|null|
 |**2026-07-31**|**DoubleHelix: Structured Cross-Modal Fusion for Audio-Visual Speech Recognition with LLMs**|Ziwei Cheng et.al.|[2607.29112](http://arxiv.org/abs/2607.29112)|null|
 |**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
 |**2026-07-28**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
@@ -1239,10 +1245,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|null|
+|**2026-08-03**|**Token Radius Attention for Efficient Video Generation**|Jiayu Chen et.al.|[2608.02504](http://arxiv.org/abs/2608.02504)|null|
+|**2026-08-03**|**EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation**|Jiayu Chen et.al.|[2608.02474](http://arxiv.org/abs/2608.02474)|null|
+|**2026-08-03**|**AcoustiTrace: When Plausible Sound Violates Physics**|Shiyang Li et.al.|[2608.02035](http://arxiv.org/abs/2608.02035)|null|
+|**2026-08-03**|**UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation**|Liming Tan et.al.|[2608.01944](http://arxiv.org/abs/2608.01944)|null|
+|**2026-08-03**|**CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation**|Xianjing Han et.al.|[2608.01942](http://arxiv.org/abs/2608.01942)|null|
+|**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
+|**2026-08-02**|**Zellige: Moldable Sequence Placement for Mixed Image-Video DiT Training**|Guangyu Xiang et.al.|[2608.01150](http://arxiv.org/abs/2608.01150)|null|
+|**2026-08-02**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
+|**2026-08-01**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
+|**2026-08-01**|**Diagnosing Under-Development of Irreversible Processes in Video Generation**|Jian Xu et.al.|[2608.00617](http://arxiv.org/abs/2608.00617)|null|
 |**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Chong Gao et.al.|[2607.29545](http://arxiv.org/abs/2607.29545)|null|
 |**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
 |**2026-07-30**|**RefCaptioner: Multi-Reference Image-Grounded Video Captioning**|Tengfei Liu et.al.|[2607.28509](http://arxiv.org/abs/2607.28509)|null|
-|**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Zexuan Yan et.al.|[2607.28243](http://arxiv.org/abs/2607.28243)|null|
 |**2026-07-30**|**Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education**|Esse Ciego et.al.|[2607.28203](http://arxiv.org/abs/2607.28203)|null|
 |**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
