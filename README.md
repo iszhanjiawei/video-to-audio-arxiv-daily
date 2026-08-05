@@ -104,6 +104,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Identity-Faithful Audio-Visual Target Speaker Extraction with QIANGDA and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
+|**2026-08-04**|**OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models**|Wanshun Su et.al.|[2608.03812](http://arxiv.org/abs/2608.03812)|null|
+|**2026-08-04**|**Hear to See: Discerning Stateful Listening for Audio-Visual Instance Segmentation**|Leiye Liu et.al.|[2608.03264](http://arxiv.org/abs/2608.03264)|null|
+|**2026-08-04**|**Geometric Cross-Modal Token Selection for Latency-Constrained Multimodal Token Communication**|Joohyuk Park et.al.|[2608.03141](http://arxiv.org/abs/2608.03141)|null|
 |**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation**|Jiayu Chen et.al.|[2608.02474](http://arxiv.org/abs/2608.02474)|null|
 |**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
@@ -1245,15 +1249,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
+|**2026-08-04**|**GVCCTurbo: Rate-Compute Quality Scheduling for Codebook Driven Generative Compression**|Ziyue Zeng et.al.|[2608.03517](http://arxiv.org/abs/2608.03517)|null|
+|**2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|**2026-08-04**|**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference**|Shanghao Liu et.al.|[2608.03335](http://arxiv.org/abs/2608.03335)|null|
+|**2026-08-04**|**CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction**|Wanhao Liu et.al.|[2608.03211](http://arxiv.org/abs/2608.03211)|null|
+|**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|null|
+|**2026-08-04**|**SUV: Future Scene Understanding as Video Generation for End-to-End Driving**|Yibo Yuan et.al.|[2608.03084](http://arxiv.org/abs/2608.03084)|null|
+|**2026-08-04**|**CAPE-T2V: Captioner-Anchored Prompt Enhancement toward Two-Sided Conditioning Alignment in Text-to-Video Generation**|Yizhuo Jia et.al.|[2608.03046](http://arxiv.org/abs/2608.03046)|null|
 |**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|null|
 |**2026-08-03**|**Token Radius Attention for Efficient Video Generation**|Jiayu Chen et.al.|[2608.02504](http://arxiv.org/abs/2608.02504)|null|
 |**2026-08-03**|**EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation**|Jiayu Chen et.al.|[2608.02474](http://arxiv.org/abs/2608.02474)|null|
 |**2026-08-03**|**AcoustiTrace: When Plausible Sound Violates Physics**|Shiyang Li et.al.|[2608.02035](http://arxiv.org/abs/2608.02035)|null|
 |**2026-08-03**|**UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation**|Liming Tan et.al.|[2608.01944](http://arxiv.org/abs/2608.01944)|null|
 |**2026-08-03**|**CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation**|Xianjing Han et.al.|[2608.01942](http://arxiv.org/abs/2608.01942)|null|
+|**2026-08-03**|**RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models**|Yuwei Ning et.al.|[2608.02953](http://arxiv.org/abs/2608.02953)|null|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
 |**2026-08-02**|**Zellige: Moldable Sequence Placement for Mixed Image-Video DiT Training**|Guangyu Xiang et.al.|[2608.01150](http://arxiv.org/abs/2608.01150)|null|
-|**2026-08-02**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-01**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
 |**2026-08-01**|**Diagnosing Under-Development of Irreversible Processes in Video Generation**|Jian Xu et.al.|[2608.00617](http://arxiv.org/abs/2608.00617)|null|
 |**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Chong Gao et.al.|[2607.29545](http://arxiv.org/abs/2607.29545)|null|
