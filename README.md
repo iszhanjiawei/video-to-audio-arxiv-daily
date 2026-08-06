@@ -1,4 +1,4 @@
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -98,16 +98,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-05**|**Visual Representation Matters: Exploiting Temporal Differences in Video-to-Audio Generation**|Zehua Chen et.al.|[2608.04902](http://arxiv.org/abs/2608.04902)|null|
+|**2026-08-05**|**EmpaAva: An Open-source Agentic 3D-Avatar Empathetic Live Chatbot**|Jie Yang et.al.|[2608.04709](http://arxiv.org/abs/2608.04709)|null|
 |**2026-08-04**|**Identity-Faithful Audio-Visual Target Speaker Extraction with QIANGDA and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-04**|**OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models**|Wanshun Su et.al.|[2608.03812](http://arxiv.org/abs/2608.03812)|null|
 |**2026-08-04**|**Hear to See: Discerning Stateful Listening for Audio-Visual Instance Segmentation**|Leiye Liu et.al.|[2608.03264](http://arxiv.org/abs/2608.03264)|null|
 |**2026-08-04**|**Geometric Cross-Modal Token Selection for Latency-Constrained Multimodal Token Communication**|Joohyuk Park et.al.|[2608.03141](http://arxiv.org/abs/2608.03141)|null|
+|**2026-08-04**|**OmniVR: Joint Video-Audio Conditional Generation for Restoring Degraded Historical Films**|Xin Lu et.al.|[2608.04224](http://arxiv.org/abs/2608.04224)|null|
 |**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation**|Jiayu Chen et.al.|[2608.02474](http://arxiv.org/abs/2608.02474)|null|
 |**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
@@ -1243,20 +1247,25 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|null|
+|**2026-08-05**|**MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight**|Zehua Fan et.al.|[2608.04657](http://arxiv.org/abs/2608.04657)|null|
+|**2026-08-05**|**Predict, Then Retrieve: Cross-Instance Future-State Retrieval from Video Prefixes**|Quynh Vo et.al.|[2608.04426](http://arxiv.org/abs/2608.04426)|null|
+|**2026-08-05**|**muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards**|Yang Chen et.al.|[2608.04412](http://arxiv.org/abs/2608.04412)|null|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-04**|**GVCCTurbo: Rate-Compute Quality Scheduling for Codebook Driven Generative Compression**|Ziyue Zeng et.al.|[2608.03517](http://arxiv.org/abs/2608.03517)|null|
-|**2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-04**|**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference**|Shanghao Liu et.al.|[2608.03335](http://arxiv.org/abs/2608.03335)|null|
 |**2026-08-04**|**CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction**|Wanhao Liu et.al.|[2608.03211](http://arxiv.org/abs/2608.03211)|null|
 |**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|null|
 |**2026-08-04**|**SUV: Future Scene Understanding as Video Generation for End-to-End Driving**|Yibo Yuan et.al.|[2608.03084](http://arxiv.org/abs/2608.03084)|null|
 |**2026-08-04**|**CAPE-T2V: Captioner-Anchored Prompt Enhancement toward Two-Sided Conditioning Alignment in Text-to-Video Generation**|Yizhuo Jia et.al.|[2608.03046](http://arxiv.org/abs/2608.03046)|null|
+|**2026-08-04**|**OmniVR: Joint Video-Audio Conditional Generation for Restoring Degraded Historical Films**|Xin Lu et.al.|[2608.04224](http://arxiv.org/abs/2608.04224)|null|
 |**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|null|
 |**2026-08-03**|**Token Radius Attention for Efficient Video Generation**|Jiayu Chen et.al.|[2608.02504](http://arxiv.org/abs/2608.02504)|null|
 |**2026-08-03**|**EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation**|Jiayu Chen et.al.|[2608.02474](http://arxiv.org/abs/2608.02474)|null|
@@ -3947,5 +3956,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
