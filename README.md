@@ -104,10 +104,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-05**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
+|**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-06**|**Whence the Voice? Self-supervised Dual-source Audio-Visual Localisation via Selective Convergence**|Han Hu et.al.|[2608.05816](http://arxiv.org/abs/2608.05816)|null|
+|**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
+|**2026-08-06**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
+|**2026-08-06**|**StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding**|Xichen Zhang et.al.|[2608.05703](http://arxiv.org/abs/2608.05703)|null|
+|**2026-08-06**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
+|**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-05**|**Visual Representation Matters: Exploiting Temporal Differences in Video-to-Audio Generation**|Zehua Chen et.al.|[2608.04902](http://arxiv.org/abs/2608.04902)|null|
 |**2026-08-05**|**EmpaAva: An Open-source Agentic 3D-Avatar Empathetic Live Chatbot**|Jie Yang et.al.|[2608.04709](http://arxiv.org/abs/2608.04709)|null|
-|**2026-08-04**|**Identity-Faithful Audio-Visual Target Speaker Extraction with QIANGDA and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-04**|**OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models**|Wanshun Su et.al.|[2608.03812](http://arxiv.org/abs/2608.03812)|null|
 |**2026-08-04**|**Hear to See: Discerning Stateful Listening for Audio-Visual Instance Segmentation**|Leiye Liu et.al.|[2608.03264](http://arxiv.org/abs/2608.03264)|null|
 |**2026-08-04**|**Geometric Cross-Modal Token Selection for Latency-Constrained Multimodal Token Communication**|Joohyuk Park et.al.|[2608.03141](http://arxiv.org/abs/2608.03141)|null|
@@ -1253,9 +1259,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight**|Zehua Fan et.al.|[2608.04657](http://arxiv.org/abs/2608.04657)|null|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
+|**2026-08-06**|**EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation**|Bingyuan Wang et.al.|[2608.06231](http://arxiv.org/abs/2608.06231)|null|
+|**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Sining Ang et.al.|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
+|**2026-08-06**|**Diff-VF: Training-free High-quality Long Video Generation via Diffusion Model**|Haoning Yang et.al.|[2608.05976](http://arxiv.org/abs/2608.05976)|null|
+|**2026-08-06**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|null|
+|**2026-08-06**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
+|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745](http://arxiv.org/abs/2608.05745)|null|
+|**2026-08-06**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
+|**2026-08-06**|**Vorch-IR: Long-Form Unified Multimodal Identity Replacement Video Generation**|Yaole Wang et.al.|[2608.05648](http://arxiv.org/abs/2608.05648)|null|
+|**2026-08-06**|**VideoArgus: Agentic Rubric-Grounded Unified Evaluation for Video Generation and Editing**|Ziyun Zeng et.al.|[2608.05485](http://arxiv.org/abs/2608.05485)|null|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|null|
-|**2026-08-05**|**MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight**|Zehua Fan et.al.|[2608.04657](http://arxiv.org/abs/2608.04657)|null|
 |**2026-08-05**|**Predict, Then Retrieve: Cross-Instance Future-State Retrieval from Video Prefixes**|Quynh Vo et.al.|[2608.04426](http://arxiv.org/abs/2608.04426)|null|
 |**2026-08-05**|**muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards**|Yang Chen et.al.|[2608.04412](http://arxiv.org/abs/2608.04412)|null|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
