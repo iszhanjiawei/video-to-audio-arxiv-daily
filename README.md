@@ -104,6 +104,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Towards Expert-level Medical AI for Real-time Video Consultations**|Mahvish Nagda et.al.|[2608.09861](http://arxiv.org/abs/2608.09861)|null|
+|**2026-08-10**|**Towards Expressive and Faithful Audio-to-Image Generation: A Unified Multimodal Dataset and Synthesis Framework**|Dongxu Ge et.al.|[2608.09529](http://arxiv.org/abs/2608.09529)|null|
+|**2026-08-10**|**Agreement-Based Audio-Visual Segmentation:Champion Report for the MeViS-Audio Track in the 8th LSVOS Challenge**|Yiwen Ren et.al.|[2608.09475](http://arxiv.org/abs/2608.09475)|null|
+|**2026-08-10**|**Listen, See and Track: Spatio-Temporal Audio-Visual Sound Event Reasoning for Omni-Modal Language Models**|Zhi Zeng et.al.|[2608.09435](http://arxiv.org/abs/2608.09435)|null|
+|**2026-08-10**|**DAVE: A Decoupled Audio-Visual Enhancement Framework for Real-World Speech Separation**|Wei Zhou et.al.|[2608.09288](http://arxiv.org/abs/2608.09288)|null|
+|**2026-08-10**|**Omni2LoRA: Coherence-Preserving Parametric Memory for Efficient Omni Language Models**|Puneet Mathur et.al.|[2608.09227](http://arxiv.org/abs/2608.09227)|null|
+|**2026-08-09**|**Deferred Audio Pruning with Local Audio-Visual Dynamics for Omni-LLMs**|Kyeongyoon Lee et.al.|[2608.08794](http://arxiv.org/abs/2608.08794)|null|
+|**2026-08-09**|**From Speech to Interaction: Analyzing Multimodal Systems in Cocktail-Party Scenarios**|Thai-Binh Nguyen et.al.|[2608.08510](http://arxiv.org/abs/2608.08510)|null|
+|**2026-08-08**|**SAMOT: State-Aware Step Modulation and Optimal Transport Matching for Audio-Visual Instance Segmentation**|Kai Peng et.al.|[2608.08147](http://arxiv.org/abs/2608.08147)|null|
+|**2026-08-08**|**SCoPE: Training-Free Audio-Visual Event Perception via Sparse Cross-Modal Prior Exchange**|Jaemo Jeong et.al.|[2608.07923](http://arxiv.org/abs/2608.07923)|null|
 |**2026-08-07**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-08-07**|**AVCap: Reinforcing Audio-Video Joint Caption with Detail-Aware Reward**|Mingyang Wu et.al.|[2608.06930](http://arxiv.org/abs/2608.06930)|null|
 |**2026-08-07**|**MMAG: A Multi-Control Mixed Audio Generation Benchmark**|Zihao Zheng et.al.|[2608.06900](http://arxiv.org/abs/2608.06900)|null|
@@ -1261,6 +1271,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains**|Diandian Zhang et.al.|[2608.09873](http://arxiv.org/abs/2608.09873)|null|
+|**2026-08-10**|**Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models**|Shulin Tian et.al.|[2608.09666](http://arxiv.org/abs/2608.09666)|null|
+|**2026-08-10**|**DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation**|Zian Li et.al.|[2608.09637](http://arxiv.org/abs/2608.09637)|null|
+|**2026-08-10**|**Illusion or Integrity? Geometrical Consistency Metric for AIGC Video Quality Evaluation**|Yifei Xue et.al.|[2608.09594](http://arxiv.org/abs/2608.09594)|null|
+|**2026-08-10**|**Sekai2: From World Exploration to Interactive World Modeling**|Kang He et.al.|[2608.09449](http://arxiv.org/abs/2608.09449)|null|
+|**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Yihan Lin et.al.|[2608.09381](http://arxiv.org/abs/2608.09381)|null|
+|**2026-08-10**|**Alpha as an Efficiency Signal: Visibility-Routed RGBA Image-to-Video Generation**|Zhe Li et.al.|[2608.09355](http://arxiv.org/abs/2608.09355)|null|
+|**2026-08-10**|**CodecArena: Codec Quality Assessment via Visual Reinforcement Learning**|Jiaye Fu et.al.|[2608.09139](http://arxiv.org/abs/2608.09139)|null|
+|**2026-08-10**|**RAVEN-Eval: Rubric-Guided Automatic Evaluation for AI Video Generation Models Based on LMM Preference Judgement**|Ziheng Jia et.al.|[2608.09111](http://arxiv.org/abs/2608.09111)|null|
+|**2026-08-09**|**Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents**|Yi-Cheng Lin et.al.|[2608.08852](http://arxiv.org/abs/2608.08852)|null|
+|**2026-08-09**|**SG-WAM: Text-Grounded and Spatial-aware Semantic Guidance for World-Action Models**|Junjie He et.al.|[2608.08839](http://arxiv.org/abs/2608.08839)|null|
+|**2026-08-09**|**LogiShot: Logically Coherent Cross-Shot Video Generation**|Shuai Guo et.al.|[2608.08820](http://arxiv.org/abs/2608.08820)|null|
+|**2026-08-09**|**Population-Scalable Multi-Agent World Modeling**|Renjie Zhao et.al.|[2608.08600](http://arxiv.org/abs/2608.08600)|null|
 |**2026-08-07**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|null|
 |**2026-08-07**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
