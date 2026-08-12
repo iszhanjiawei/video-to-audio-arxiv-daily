@@ -1271,11 +1271,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Sekai2: From World Exploration to Interactive World Modeling**|Kang He et.al.|[2608.09449](http://arxiv.org/abs/2608.09449)|null|
+|**2026-08-11**|**VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics**|Bowei Liu et.al.|[2608.11201](http://arxiv.org/abs/2608.11201)|null|
+|**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013](http://arxiv.org/abs/2608.11013)|null|
+|**2026-08-11**|**SafeCA: Safe Cross-Attention Localization and Regulation for Text-to-Video Jailbreak Defense**|Siyuan Liang et.al.|[2608.10933](http://arxiv.org/abs/2608.10933)|null|
+|**2026-08-11**|**Temporally Grounded Compositional Camera Motion Understanding via Geometric Knowledge Distillation**|Dazhao Du et.al.|[2608.10932](http://arxiv.org/abs/2608.10932)|null|
+|**2026-08-11**|**Flex- $π$ : A Multi-Stream World-Action Model with Compute Flexibility**|Ge Yan et.al.|[2608.10860](http://arxiv.org/abs/2608.10860)|null|
+|**2026-08-11**|**Beyond Pixels: From Video Priors to 4D Worlds**|Zihao Liu et.al.|[2608.10744](http://arxiv.org/abs/2608.10744)|null|
+|**2026-08-11**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
+|**2026-08-11**|**SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis**|Jongbeom Lee et.al.|[2608.10519](http://arxiv.org/abs/2608.10519)|null|
+|**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
 |**2026-08-10**|**Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains**|Diandian Zhang et.al.|[2608.09873](http://arxiv.org/abs/2608.09873)|null|
 |**2026-08-10**|**Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models**|Shulin Tian et.al.|[2608.09666](http://arxiv.org/abs/2608.09666)|null|
 |**2026-08-10**|**DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation**|Zian Li et.al.|[2608.09637](http://arxiv.org/abs/2608.09637)|null|
 |**2026-08-10**|**Illusion or Integrity? Geometrical Consistency Metric for AIGC Video Quality Evaluation**|Yifei Xue et.al.|[2608.09594](http://arxiv.org/abs/2608.09594)|null|
-|**2026-08-10**|**Sekai2: From World Exploration to Interactive World Modeling**|Kang He et.al.|[2608.09449](http://arxiv.org/abs/2608.09449)|null|
 |**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Yihan Lin et.al.|[2608.09381](http://arxiv.org/abs/2608.09381)|null|
 |**2026-08-10**|**Alpha as an Efficiency Signal: Visibility-Routed RGBA Image-to-Video Generation**|Zhe Li et.al.|[2608.09355](http://arxiv.org/abs/2608.09355)|null|
 |**2026-08-10**|**CodecArena: Codec Quality Assessment via Visual Reinforcement Learning**|Jiaye Fu et.al.|[2608.09139](http://arxiv.org/abs/2608.09139)|null|
