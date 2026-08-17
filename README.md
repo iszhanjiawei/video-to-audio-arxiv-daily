@@ -104,6 +104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation**|Aleksandra Teng Ma et.al.|[2608.13957](http://arxiv.org/abs/2608.13957)|null|
 |**2026-08-13**|**UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos**|Yuxuan Zhang et.al.|[2608.11752](http://arxiv.org/abs/2608.11752)|null|
 |**2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Koen P. de Vries et.al.|[2608.13239](http://arxiv.org/abs/2608.13239)|null|
 |**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
@@ -124,6 +125,7 @@
 |**2026-08-07**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-08-07**|**AVCap: Reinforcing Audio-Video Joint Caption with Detail-Aware Reward**|Mingyang Wu et.al.|[2608.06930](http://arxiv.org/abs/2608.06930)|null|
 |**2026-08-07**|**MMAG: A Multi-Control Mixed Audio Generation Benchmark**|Zihao Zheng et.al.|[2608.06900](http://arxiv.org/abs/2608.06900)|null|
+|**2026-08-07**|**Omni-LiveAvatar: Minute-Level Real-Time Streaming Joint Audio-Visual Avatar Generation**|Lunjie Zhu et.al.|[2608.13602](http://arxiv.org/abs/2608.13602)|null|
 |**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
 |**2026-08-06**|**Whence the Voice? Self-supervised Dual-source Audio-Visual Localisation via Selective Convergence**|Han Hu et.al.|[2608.05816](http://arxiv.org/abs/2608.05816)|null|
@@ -1278,6 +1280,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization**|Guillaume Jeanneret et.al.|[2608.13037](http://arxiv.org/abs/2608.13037)|null|
+|**2026-08-14**|**Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**|Shuo Liang et.al.|[2608.14391](http://arxiv.org/abs/2608.14391)|null|
+|**2026-08-14**|**Beyond Text Conditioning: A Systematic Study of MLLM-DiT Fusion for Video Generation**|Yanbo Ding et.al.|[2608.14043](http://arxiv.org/abs/2608.14043)|null|
+|**2026-08-14**|**ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models**|Xinye Li et.al.|[2608.14022](http://arxiv.org/abs/2608.14022)|null|
 |**2026-08-13**|**Flex- $π$ : A Multi-Stream World-Action Model with Compute Flexibility**|Ge Yan et.al.|[2608.10860](http://arxiv.org/abs/2608.10860)|null|
 |**2026-08-13**|**Keep the Future, Drop the Rollout: RIFT for World Action Models**|Chushan Zhang et.al.|[2608.11521](http://arxiv.org/abs/2608.11521)|null|
 |**2026-08-13**|**V-RAE: Rethinking Video Latent Spaces for Generation**|Minghui Guo et.al.|[2608.13556](http://arxiv.org/abs/2608.13556)|null|
@@ -1285,7 +1291,6 @@
 |**2026-08-13**|**Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs**|Dingzhan Nong et.al.|[2608.13368](http://arxiv.org/abs/2608.13368)|null|
 |**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|null|
 |**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Dingyi Rong et.al.|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
-|**2026-08-13**|**Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization**|Guillaume Jeanneret et.al.|[2608.13037](http://arxiv.org/abs/2608.13037)|null|
 |**2026-08-13**|**RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction**|Tianyu Sun et.al.|[2608.13028](http://arxiv.org/abs/2608.13028)|null|
 |**2026-08-12**|**StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization**|Yuyang Yin et.al.|[2608.12314](http://arxiv.org/abs/2608.12314)|null|
 |**2026-08-12**|**Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence**|Aman Tyagi et.al.|[2608.12290](http://arxiv.org/abs/2608.12290)|null|
