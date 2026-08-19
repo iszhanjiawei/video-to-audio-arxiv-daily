@@ -105,6 +105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**On computational approaches to Pop music culture**|Arthur Flexer et.al.|[2608.17812](http://arxiv.org/abs/2608.17812)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**Audio-Visual Segmentation via Depth-Guided Collaborative Modeling**|Zhaojin Fu et.al.|[2608.16285](http://arxiv.org/abs/2608.16285)|null|
 |**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
@@ -1285,6 +1286,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
+|**2026-08-18**|**LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**|Jinshan Liu et.al.|[2608.17973](http://arxiv.org/abs/2608.17973)|null|
+|**2026-08-18**|**Magnitude-Direction Decoupling for Fast Video Generation with Flow Matching Models**|Haonan Xu et.al.|[2608.17695](http://arxiv.org/abs/2608.17695)|null|
+|**2026-08-18**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
+|**2026-08-18**|**SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation**|Keyu Tu et.al.|[2608.17426](http://arxiv.org/abs/2608.17426)|null|
 |**2026-08-17**|**Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs**|Dingzhan Nong et.al.|[2608.13368](http://arxiv.org/abs/2608.13368)|null|
 |**2026-08-17**|**Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**|Shuo Liang et.al.|[2608.14391](http://arxiv.org/abs/2608.14391)|null|
 |**2026-08-17**|**PersonaShot: Benchmarking Person-Centric Narrative Continuity in Multi-Shot Video Generation**|Yuji Wang et.al.|[2608.16717](http://arxiv.org/abs/2608.16717)|null|
