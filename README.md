@@ -105,12 +105,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
+|**2026-08-18**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
 |**2026-08-18**|**On computational approaches to Pop music culture**|Arthur Flexer et.al.|[2608.17812](http://arxiv.org/abs/2608.17812)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**Audio-Visual Segmentation via Depth-Guided Collaborative Modeling**|Zhaojin Fu et.al.|[2608.16285](http://arxiv.org/abs/2608.16285)|null|
 |**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
 |**2026-08-16**|**Efficient Audio-Visual Generation via Synchrony-Aware Cross-Modal Sparse Attention**|Shengchuan Gao et.al.|[2608.15522](http://arxiv.org/abs/2608.15522)|null|
-|**2026-08-15**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
 |**2026-08-14**|**H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation**|Aleksandra Teng Ma et.al.|[2608.13957](http://arxiv.org/abs/2608.13957)|null|
 |**2026-08-14**|**Separate First, Then Associate: A Two-Stage Approach for Real-World Audio-Visual Speech Enhancement**|Tongtao Ling et.al.|[2608.14812](http://arxiv.org/abs/2608.14812)|null|
 |**2026-08-13**|**UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos**|Yuxuan Zhang et.al.|[2608.11752](http://arxiv.org/abs/2608.11752)|null|
@@ -1286,6 +1287,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**CamWorldQA: Perceptual Quality Assessment of Camera-Controlled World Video Generation**|Yunhe Li et.al.|[2608.18710](http://arxiv.org/abs/2608.18710)|null|
+|**2026-08-19**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
+|**2026-08-19**|**Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models**|Pardis Taghavi et.al.|[2608.18484](http://arxiv.org/abs/2608.18484)|null|
 |**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
 |**2026-08-18**|**LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**|Jinshan Liu et.al.|[2608.17973](http://arxiv.org/abs/2608.17973)|null|
 |**2026-08-18**|**Magnitude-Direction Decoupling for Fast Video Generation with Flow Matching Models**|Haonan Xu et.al.|[2608.17695](http://arxiv.org/abs/2608.17695)|null|
