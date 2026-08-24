@@ -105,6 +105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis**|Yantao Li et.al.|[2608.20743](http://arxiv.org/abs/2608.20743)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-20**|**DAVSS: Distilled Audio-Visual State Space Models**|Saurabhchand Bhati et.al.|[2608.19523](http://arxiv.org/abs/2608.19523)|null|
 |**2026-08-18**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
@@ -1288,9 +1289,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter**|Yunze Tong et.al.|[2608.20910](http://arxiv.org/abs/2608.20910)|null|
+|**2026-08-21**|**MotionPhys: Detecting AI-Generated Videos via Physical Consistency of Optical-Flow Trajectories**|Haojin He et.al.|[2608.20770](http://arxiv.org/abs/2608.20770)|null|
+|**2026-08-21**|**Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair**|Jiayi Gao et.al.|[2608.20749](http://arxiv.org/abs/2608.20749)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-20**|**VGI-BENCH: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
 |**2026-08-20**|**Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**|Yuanhao Ban et.al.|[2608.19556](http://arxiv.org/abs/2608.19556)|null|
+|**2026-08-20**|**Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation**|Shengze Wang et.al.|[2608.20534](http://arxiv.org/abs/2608.20534)|null|
 |**2026-08-19**|**CamWorldQA: Perceptual Quality Assessment of Camera-Controlled World Video Generation**|Yunhe Li et.al.|[2608.18710](http://arxiv.org/abs/2608.18710)|null|
 |**2026-08-19**|**Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models**|Pardis Taghavi et.al.|[2608.18484](http://arxiv.org/abs/2608.18484)|null|
 |**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
