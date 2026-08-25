@@ -105,6 +105,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
+|**2026-08-24**|**DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts**|Vlad Hondru et.al.|[2608.23363](http://arxiv.org/abs/2608.23363)|null|
+|**2026-08-24**|**EchoWM: Open and Enterable Omnimodal World Models**|Songchun Zhang et.al.|[2608.23189](http://arxiv.org/abs/2608.23189)|null|
+|**2026-08-24**|**Change Detection in Probability Flow ODE: Online Testing in Diffusion Latent Spaces**|Artem Kraevskiy et.al.|[2608.22807](http://arxiv.org/abs/2608.22807)|null|
 |**2026-08-21**|**Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis**|Yantao Li et.al.|[2608.20743](http://arxiv.org/abs/2608.20743)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-20**|**DAVSS: Distilled Audio-Visual State Space Models**|Saurabhchand Bhati et.al.|[2608.19523](http://arxiv.org/abs/2608.19523)|null|
@@ -112,6 +116,7 @@
 |**2026-08-18**|**On computational approaches to Pop music culture**|Arthur Flexer et.al.|[2608.17812](http://arxiv.org/abs/2608.17812)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**Audio-Visual Segmentation via Depth-Guided Collaborative Modeling**|Zhaojin Fu et.al.|[2608.16285](http://arxiv.org/abs/2608.16285)|null|
+|**2026-08-17**|**Evaluating Multimodal Narrative Understanding of Popular Hollywood Films**|David Bamman et.al.|[2608.21430](http://arxiv.org/abs/2608.21430)|null|
 |**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
 |**2026-08-16**|**Efficient Audio-Visual Generation via Synchrony-Aware Cross-Modal Sparse Attention**|Shengchuan Gao et.al.|[2608.15522](http://arxiv.org/abs/2608.15522)|null|
 |**2026-08-14**|**H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation**|Aleksandra Teng Ma et.al.|[2608.13957](http://arxiv.org/abs/2608.13957)|null|
@@ -1289,11 +1294,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**VGI-Bench: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
+|**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
+|**2026-08-24**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Yiren Lu et.al.|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
+|**2026-08-24**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
+|**2026-08-24**|**Loopy: Seamless Video Loop Generation via Anchored Looping Shift of Positional Embedding**|Haotian Dong et.al.|[2608.23090](http://arxiv.org/abs/2608.23090)|null|
+|**2026-08-24**|**From Generation to Simulation: How Far Are World Models from Being True Simulators?**|Tong Wang et.al.|[2608.23070](http://arxiv.org/abs/2608.23070)|null|
+|**2026-08-24**|**Direct, Parallel, or Sequential? A Comparative Study of Training-Free Multi-Subject Image-to-Video Generation**|Yanliang Qi et.al.|[2608.22819](http://arxiv.org/abs/2608.22819)|null|
+|**2026-08-23**|**LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models**|Zhenhao Shen et.al.|[2608.22403](http://arxiv.org/abs/2608.22403)|null|
+|**2026-08-22**|**Inferring Action from Future Latent State for Robotic Manipulation**|Fenghao Lei et.al.|[2608.22067](http://arxiv.org/abs/2608.22067)|null|
+|**2026-08-22**|**GaussVid: Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Priors**|Xinhui Liu et.al.|[2608.21849](http://arxiv.org/abs/2608.21849)|null|
+|**2026-08-22**|**FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling**|Peiyuan Zhang et.al.|[2608.21839](http://arxiv.org/abs/2608.21839)|null|
 |**2026-08-21**|**InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter**|Yunze Tong et.al.|[2608.20910](http://arxiv.org/abs/2608.20910)|null|
 |**2026-08-21**|**MotionPhys: Detecting AI-Generated Videos via Physical Consistency of Optical-Flow Trajectories**|Haojin He et.al.|[2608.20770](http://arxiv.org/abs/2608.20770)|null|
 |**2026-08-21**|**Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair**|Jiayi Gao et.al.|[2608.20749](http://arxiv.org/abs/2608.20749)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
-|**2026-08-20**|**VGI-BENCH: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
 |**2026-08-20**|**Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**|Yuanhao Ban et.al.|[2608.19556](http://arxiv.org/abs/2608.19556)|null|
 |**2026-08-20**|**Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation**|Shengze Wang et.al.|[2608.20534](http://arxiv.org/abs/2608.20534)|null|
 |**2026-08-19**|**CamWorldQA: Perceptual Quality Assessment of Camera-Controlled World Video Generation**|Yunhe Li et.al.|[2608.18710](http://arxiv.org/abs/2608.18710)|null|
