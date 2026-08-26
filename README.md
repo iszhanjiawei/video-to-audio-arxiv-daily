@@ -105,10 +105,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-24**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
+|**2026-08-25**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
+|**2026-08-25**|**Change Detection in Probability Flow ODE: Online Testing in Diffusion Latent Spaces**|Artem Kraevskiy et.al.|[2608.22807](http://arxiv.org/abs/2608.22807)|null|
+|**2026-08-25**|**LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training**|Andreas Hochlehnert et.al.|[2608.24845](http://arxiv.org/abs/2608.24845)|null|
+|**2026-08-25**|**Visually-Guided Spatial Audio Generation for $360^\circ$ In-the-Wild Speech Scenes**|Qingyu Luo et.al.|[2608.24579](http://arxiv.org/abs/2608.24579)|null|
+|**2026-08-25**|**Task-disentangled Low-Rank Adaptation for Versatile Audio-visual Multi-modal Learning Tasks within a Unified Framework**|Hanyu Xuan et.al.|[2608.24209](http://arxiv.org/abs/2608.24209)|null|
 |**2026-08-24**|**DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts**|Vlad Hondru et.al.|[2608.23363](http://arxiv.org/abs/2608.23363)|null|
 |**2026-08-24**|**EchoWM: Open and Enterable Omnimodal World Models**|Songchun Zhang et.al.|[2608.23189](http://arxiv.org/abs/2608.23189)|null|
-|**2026-08-24**|**Change Detection in Probability Flow ODE: Online Testing in Diffusion Latent Spaces**|Artem Kraevskiy et.al.|[2608.22807](http://arxiv.org/abs/2608.22807)|null|
+|**2026-08-24**|**The ISCSLP 2026 Real-World Audio-Visual Speech Enhancement Challenge**|Challenge Organizers et.al.|[2608.23759](http://arxiv.org/abs/2608.23759)|null|
 |**2026-08-21**|**Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis**|Yantao Li et.al.|[2608.20743](http://arxiv.org/abs/2608.20743)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-20**|**DAVSS: Distilled Audio-Visual State Space Models**|Saurabhchand Bhati et.al.|[2608.19523](http://arxiv.org/abs/2608.19523)|null|
@@ -1294,15 +1298,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Yiren Lu et.al.|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
+|**2026-08-25**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
+|**2026-08-25**|**Inferring Action from Future Latent State for Robotic Manipulation**|Fenghao Lei et.al.|[2608.22067](http://arxiv.org/abs/2608.22067)|null|
+|**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](http://arxiv.org/abs/2608.24329)|null|
+|**2026-08-25**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
+|**2026-08-25**|**NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics**|Javier Gamazo Tejero et.al.|[2608.24199](http://arxiv.org/abs/2608.24199)|null|
+|**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
+|**2026-08-25**|**Generalization, memorization, and overfitting for diffusion models trained in the lazy high-dimensional regime**|Hugo Latourelle-Vigeant et.al.|[2608.23938](http://arxiv.org/abs/2608.23938)|null|
+|**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927](http://arxiv.org/abs/2608.23927)|null|
 |**2026-08-24**|**VGI-Bench: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
-|**2026-08-24**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Yiren Lu et.al.|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
-|**2026-08-24**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
 |**2026-08-24**|**Loopy: Seamless Video Loop Generation via Anchored Looping Shift of Positional Embedding**|Haotian Dong et.al.|[2608.23090](http://arxiv.org/abs/2608.23090)|null|
 |**2026-08-24**|**From Generation to Simulation: How Far Are World Models from Being True Simulators?**|Tong Wang et.al.|[2608.23070](http://arxiv.org/abs/2608.23070)|null|
 |**2026-08-24**|**Direct, Parallel, or Sequential? A Comparative Study of Training-Free Multi-Subject Image-to-Video Generation**|Yanliang Qi et.al.|[2608.22819](http://arxiv.org/abs/2608.22819)|null|
+|**2026-08-24**|**Scaling Reinforcement Learning for Diffusion Models via Velocity Matching**|Jaemoo Choi et.al.|[2608.23664](http://arxiv.org/abs/2608.23664)|null|
 |**2026-08-23**|**LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models**|Zhenhao Shen et.al.|[2608.22403](http://arxiv.org/abs/2608.22403)|null|
-|**2026-08-22**|**Inferring Action from Future Latent State for Robotic Manipulation**|Fenghao Lei et.al.|[2608.22067](http://arxiv.org/abs/2608.22067)|null|
 |**2026-08-22**|**GaussVid: Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Priors**|Xinhui Liu et.al.|[2608.21849](http://arxiv.org/abs/2608.21849)|null|
 |**2026-08-22**|**FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling**|Peiyuan Zhang et.al.|[2608.21839](http://arxiv.org/abs/2608.21839)|null|
 |**2026-08-21**|**InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter**|Yunze Tong et.al.|[2608.20910](http://arxiv.org/abs/2608.20910)|null|
