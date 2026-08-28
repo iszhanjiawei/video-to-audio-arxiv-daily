@@ -1,4 +1,4 @@
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -99,14 +99,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[2608.24947](http://arxiv.org/abs/2608.24947)|null|
+|**2026-08-27**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
+|**2026-08-27**|**Mitigating Strong-Modality Collapse in Multimodal Learning via Inverted Asymmetric Fusion**|Mary Ogbuka Kenneth et.al.|[2608.26879](http://arxiv.org/abs/2608.26879)|null|
 |**2026-08-26**|**Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark**|Bohan Deng et.al.|[2608.25520](http://arxiv.org/abs/2608.25520)|null|
 |**2026-08-26**|**AdaptiveEmbed: Sample-Adaptive Multi-Vector Representation for Multimodal Retrieval**|Xinze Liu et.al.|[2608.25412](http://arxiv.org/abs/2608.25412)|null|
+|**2026-08-26**|**Attention-Guided Reliability Scaling for Contrastive Decoding in Robust Audio-Visual Speech Recognition**|YoungChae Kim et.al.|[2608.26213](http://arxiv.org/abs/2608.26213)|null|
 |**2026-08-25**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
 |**2026-08-25**|**Change Detection in Probability Flow ODE: Online Testing in Diffusion Latent Spaces**|Artem Kraevskiy et.al.|[2608.22807](http://arxiv.org/abs/2608.22807)|null|
 |**2026-08-25**|**LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training**|Andreas Hochlehnert et.al.|[2608.24845](http://arxiv.org/abs/2608.24845)|null|
@@ -116,7 +120,6 @@
 |**2026-08-24**|**DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts**|Vlad Hondru et.al.|[2608.23363](http://arxiv.org/abs/2608.23363)|null|
 |**2026-08-24**|**EchoWM: Open and Enterable Omnimodal World Models**|Songchun Zhang et.al.|[2608.23189](http://arxiv.org/abs/2608.23189)|null|
 |**2026-08-24**|**The ISCSLP 2026 Real-World Audio-Visual Speech Enhancement Challenge**|Challenge Organizers et.al.|[2608.23759](http://arxiv.org/abs/2608.23759)|null|
-|**2026-08-24**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[2608.24947](http://arxiv.org/abs/2608.24947)|null|
 |**2026-08-21**|**Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis**|Yantao Li et.al.|[2608.20743](http://arxiv.org/abs/2608.20743)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-08-20**|**DAVSS: Distilled Audio-Visual State Space Models**|Saurabhchand Bhati et.al.|[2608.19523](http://arxiv.org/abs/2608.19523)|null|
@@ -1296,23 +1299,35 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
+|**2026-08-27**|**NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics**|Javier Gamazo Tejero et.al.|[2608.24199](http://arxiv.org/abs/2608.24199)|null|
+|**2026-08-27**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479](http://arxiv.org/abs/2608.25479)|null|
+|**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Kechen Liu et.al.|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
+|**2026-08-27**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](http://arxiv.org/abs/2608.27345)|null|
+|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
+|**2026-08-27**|**ClusterAttention: A training-free speedup of bidirectional attention**|Kasper Nordenram et.al.|[2608.26965](http://arxiv.org/abs/2608.26965)|null|
+|**2026-08-27**|**Tether the Subject, Release the Scene: Query-Aware Memory Routing for Long-Horizon Autoregressive Video Generation**|Chen Li et.al.|[2608.26902](http://arxiv.org/abs/2608.26902)|null|
+|**2026-08-27**|**Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion**|Bowen Xue et.al.|[2608.26794](http://arxiv.org/abs/2608.26794)|null|
+|**2026-08-27**|**RECAP-Forcing: Retaining Content Appearances for Long Video Generation**|Haiyang Xu et.al.|[2608.26671](http://arxiv.org/abs/2608.26671)|null|
+|**2026-08-27**|**Activation Outliers Matter: Robust Recovery for Quantized Multimodal LLMs**|Tanzila Rahman et.al.|[2608.26581](http://arxiv.org/abs/2608.26581)|null|
+|**2026-08-27**|**Multi2AV-Safety: Benchmarking Safety in Multimodal-to-Audio-Video Generation**|Kaichao Jiang et.al.|[2608.26535](http://arxiv.org/abs/2608.26535)|null|
+|**2026-08-27**|**HUG-VIS: A Multimodal Benchmark for Human-centered Understanding and Generation in Visual Intelligence**|Fei Ma et.al.|[2608.26517](http://arxiv.org/abs/2608.26517)|null|
 |**2026-08-26**|**DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation**|Fenghao Lei et.al.|[2608.22067](http://arxiv.org/abs/2608.22067)|null|
 |**2026-08-26**|**VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**|Junxiang Xu et.al.|[2608.26105](http://arxiv.org/abs/2608.26105)|null|
 |**2026-08-26**|**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**|Xiaomi Embodied Intelligence Team et.al.|[2608.26058](http://arxiv.org/abs/2608.26058)|null|
-|**2026-08-26**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479](http://arxiv.org/abs/2608.25479)|null|
 |**2026-08-26**|**VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality**|Longteng Jiang et.al.|[2608.25452](http://arxiv.org/abs/2608.25452)|null|
 |**2026-08-26**|**APT: Accelerating Diffusion Transformers via Attention Probability-Guided Pruning and Quantization**|Sungyeob Yoo et.al.|[2608.25380](http://arxiv.org/abs/2608.25380)|null|
+|**2026-08-26**|**StreamAV-Bench: A Comprehensive Benchmark for Streaming Audio-Video Generation**|Kaiqi Liu et.al.|[2608.26336](http://arxiv.org/abs/2608.26336)|null|
+|**2026-08-26**|**Surgical Video Generation From Diffusion to World Models: A Survey**|Fuxiang Huang et.al.|[2608.26214](http://arxiv.org/abs/2608.26214)|null|
 |**2026-08-25**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Yiren Lu et.al.|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
 |**2026-08-25**|**Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds**|Nan Duan et.al.|[2608.23383](http://arxiv.org/abs/2608.23383)|null|
 |**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](http://arxiv.org/abs/2608.24329)|null|
-|**2026-08-25**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
-|**2026-08-25**|**NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics**|Javier Gamazo Tejero et.al.|[2608.24199](http://arxiv.org/abs/2608.24199)|null|
 |**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
 |**2026-08-25**|**Generalization, memorization, and overfitting for diffusion models trained in the lazy high-dimensional regime**|Hugo Latourelle-Vigeant et.al.|[2608.23938](http://arxiv.org/abs/2608.23938)|null|
 |**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927](http://arxiv.org/abs/2608.23927)|null|
@@ -4104,5 +4119,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
