@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,12 +100,16 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis**|Xiaode Chen et.al.|[2608.30726](http://arxiv.org/abs/2608.30726)|null|
+|**2026-08-31**|**Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning**|Fengji Ma et.al.|[2608.30713](http://arxiv.org/abs/2608.30713)|null|
+|**2026-08-31**|**VIBE: Video Instruction-aligned Background music gEneration**|Aryan Vijay Bhosale et.al.|[2608.30125](http://arxiv.org/abs/2608.30125)|null|
+|**2026-08-29**|**Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation**|Tianrui Hui et.al.|[2608.29121](http://arxiv.org/abs/2608.29121)|null|
 |**2026-08-27**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[2608.24947](http://arxiv.org/abs/2608.24947)|null|
 |**2026-08-27**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
 |**2026-08-27**|**Mitigating Strong-Modality Collapse in Multimodal Learning via Inverted Asymmetric Fusion**|Mary Ogbuka Kenneth et.al.|[2608.26879](http://arxiv.org/abs/2608.26879)|null|
@@ -1301,12 +1305,23 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution**|Jiashu Zhu et.al.|[2608.31106](http://arxiv.org/abs/2608.31106)|null|
+|**2026-08-31**|**CAER: Causal Action Effect Reweighting for World Model Training**|Jianjie Fang et.al.|[2608.30897](http://arxiv.org/abs/2608.30897)|null|
+|**2026-08-31**|**NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation**|Yujiang Pu et.al.|[2608.30194](http://arxiv.org/abs/2608.30194)|null|
+|**2026-08-30**|**Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory**|Runjia Qian et.al.|[2608.29910](http://arxiv.org/abs/2608.29910)|null|
+|**2026-08-30**|**Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model**|Hai Nguyen-Truong et.al.|[2608.29904](http://arxiv.org/abs/2608.29904)|null|
+|**2026-08-30**|**FRAMEWORKERS: A Dynamic Multi-Agent Framework for AI-Generated Video Production**|Zhendong Li et.al.|[2608.29814](http://arxiv.org/abs/2608.29814)|null|
+|**2026-08-30**|**CineForge: Self-Improving Agents for Long-Horizon Video Generation**|Junxiang Liu et.al.|[2608.29621](http://arxiv.org/abs/2608.29621)|null|
+|**2026-08-30**|**On the Resilience of Text-to-Video Diffusion Models to Hardware Faults**|Zachary Coalson et.al.|[2608.29598](http://arxiv.org/abs/2608.29598)|null|
+|**2026-08-29**|**Artificial Intelligence in a Photonic Temporal Processor**|Youlve Chen et.al.|[2608.29469](http://arxiv.org/abs/2608.29469)|null|
+|**2026-08-29**|**EpaCache: Error-Propagation-Aware Caching for Accelerating Diffusion-Based Visual Generation**|Yuhan Liu et.al.|[2608.29264](http://arxiv.org/abs/2608.29264)|null|
+|**2026-08-29**|**Dancing Stick Figures: An Introductory Dataset for Training Video Generation Models**|Jin Hyuk Cho et.al.|[2608.29123](http://arxiv.org/abs/2608.29123)|null|
 |**2026-08-28**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](http://arxiv.org/abs/2608.27345)|null|
 |**2026-08-28**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
 |**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549](http://arxiv.org/abs/2608.28549)|null|
@@ -4125,5 +4140,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
