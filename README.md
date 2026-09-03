@@ -1,4 +1,4 @@
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,18 +100,21 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation**|Yichen Liu et.al.|[2609.02367](http://arxiv.org/abs/2609.02367)|null|
 |**2026-09-01**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
 |**2026-09-01**|**TimeSteer: Inference-Time Speech Scheduling in Joint Audio-Visual Diffusion Models**|Chao Zhou et.al.|[2609.01277](http://arxiv.org/abs/2609.01277)|null|
+|**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|null|
 |**2026-08-31**|**Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis**|Xiaode Chen et.al.|[2608.30726](http://arxiv.org/abs/2608.30726)|null|
 |**2026-08-31**|**Closing the Verification Loop: Self-Check Captioning for Long-Paragraph Detailed Audio Captioning**|Fengji Ma et.al.|[2608.30713](http://arxiv.org/abs/2608.30713)|null|
 |**2026-08-31**|**VIBE: Video Instruction-aligned Background music gEneration**|Aryan Vijay Bhosale et.al.|[2608.30125](http://arxiv.org/abs/2608.30125)|null|
 |**2026-08-31**|**Distributed Implicit Harm: A Compositional Safety Blind Spot in MLLM-Based Video Moderation**|Ruotong Wang et.al.|[2609.00206](http://arxiv.org/abs/2609.00206)|null|
+|**2026-08-30**|**A Data-Driven Multimodal Method for Early Detection of Coordinated Abnormal Behaviors in Live-Streaming Platforms**|Jingwen Luo et.al.|[2609.01649](http://arxiv.org/abs/2609.01649)|null|
 |**2026-08-29**|**Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation**|Tianrui Hui et.al.|[2608.29121](http://arxiv.org/abs/2608.29121)|null|
 |**2026-08-27**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[2608.24947](http://arxiv.org/abs/2608.24947)|null|
 |**2026-08-27**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
@@ -1308,18 +1311,22 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models**|Junchao Huang et.al.|[2609.02886](http://arxiv.org/abs/2609.02886)|null|
+|**2026-09-02**|**Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation**|Yutong Liu et.al.|[2609.02864](http://arxiv.org/abs/2609.02864)|null|
+|**2026-09-02**|**The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation**|Yichen Liu et.al.|[2609.02367](http://arxiv.org/abs/2609.02367)|null|
 |**2026-09-01**|**H3-World: Turning Language Understanding into World Control**|Danze Chen et.al.|[2609.01560](http://arxiv.org/abs/2609.01560)|null|
 |**2026-09-01**|**MeRoPE: Metric Rotary Position Embedding for Camera-Controlled Video Generation**|Zhijian Qiao et.al.|[2609.01252](http://arxiv.org/abs/2609.01252)|null|
 |**2026-09-01**|**Mind the Rift: Cross-Scale Coupling Mismatch for AI-Generated Video Detection**|Siyu Li et.al.|[2609.00742](http://arxiv.org/abs/2609.00742)|null|
 |**2026-09-01**|**Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning**|Zixuan Wang et.al.|[2609.00656](http://arxiv.org/abs/2609.00656)|null|
 |**2026-09-01**|**DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation**|Haoyuan Shi et.al.|[2609.00646](http://arxiv.org/abs/2609.00646)|null|
 |**2026-09-01**|**Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction**|Xiaoyan Liu et.al.|[2609.00610](http://arxiv.org/abs/2609.00610)|null|
+|**2026-09-01**|**VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR from Fine-Grained Squeezing Controls**|Qian Zhang et.al.|[2609.01698](http://arxiv.org/abs/2609.01698)|null|
 |**2026-08-31**|**DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution**|Jiashu Zhu et.al.|[2608.31106](http://arxiv.org/abs/2608.31106)|null|
 |**2026-08-31**|**CAER: Causal Action Effect Reweighting for World Model Training**|Jianjie Fang et.al.|[2608.30897](http://arxiv.org/abs/2608.30897)|null|
 |**2026-08-31**|**NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation**|Yujiang Pu et.al.|[2608.30194](http://arxiv.org/abs/2608.30194)|null|
@@ -4149,5 +4156,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
