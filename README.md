@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,20 +100,22 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
+|**2026-09-09**|**PRISM-Bench: An Audio-Centric Diagnostic Benchmark for Text-to-Audio-Video Generation**|Yuchen Sun et.al.|[2609.04867](http://arxiv.org/abs/2609.04867)|null|
+|**2026-09-09**|**Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition**|Rishabh Jain et.al.|[2609.10394](http://arxiv.org/abs/2609.10394)|null|
 |**2026-09-08**|**PAPR-Aware Multimodal Token Transmission in MLLM-Based Multiuser Networks**|Molka Trabelsi et.al.|[2609.08464](http://arxiv.org/abs/2609.08464)|null|
 |**2026-09-08**|**Noise Adaptive Streaming Audio-Visual Speech Token Enhancement for Robust Full-Duplex Spoken Dialogue Models**|Bella Godiva et.al.|[2609.08390](http://arxiv.org/abs/2609.08390)|null|
+|**2026-09-08**|**OmniEye: Efficient Multimodal Forensic Video Intelligence for Law-Enforcement Body-Worn Cameras**|Mamadou K. Keita et.al.|[2609.09460](http://arxiv.org/abs/2609.09460)|null|
 |**2026-09-07**|**AdoDAS: A Privacy-Preserving Multimodal Challenge for Adolescent Depression, Anxiety, and Stress Assessment**|Zhaojie Luo et.al.|[2609.07038](http://arxiv.org/abs/2609.07038)|null|
 |**2026-09-07**|**AV-SafetyBench: A Safety Benchmark for Text-to-Audio-Video Generation**|Suah Choi et.al.|[2609.06991](http://arxiv.org/abs/2609.06991)|null|
 |**2026-09-06**|**When Speech Meets Lips: Interpretable Audio-Visual Synchronization for L2 Pronunciation Assessment**|Bowen Yu et.al.|[2609.06788](http://arxiv.org/abs/2609.06788)|null|
-|**2026-09-04**|**PRISM-Bench: An Audio-Centric Diagnostic Benchmark for Text-to-Audio-Video Generation**|Yuchen Sun et.al.|[2609.04867](http://arxiv.org/abs/2609.04867)|null|
 |**2026-09-02**|**The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation**|Yichen Liu et.al.|[2609.02367](http://arxiv.org/abs/2609.02367)|null|
-|**2026-09-01**|**A Composable Evaluation System for Reproducible Omni-Modal Foundation Model Evaluation**|Hodong Lee et.al.|[2609.01315](http://arxiv.org/abs/2609.01315)|null|
 |**2026-09-01**|**TimeSteer: Inference-Time Speech Scheduling in Joint Audio-Visual Diffusion Models**|Chao Zhou et.al.|[2609.01277](http://arxiv.org/abs/2609.01277)|null|
 |**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|null|
 |**2026-08-31**|**Multimodal Adaptive Expert Selection with Text Routing and Ordinal Prototype Optimization for Sentiment Analysis**|Xiaode Chen et.al.|[2608.30726](http://arxiv.org/abs/2608.30726)|null|
@@ -1319,12 +1321,13 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**RoLA: Rotary-Positioned Low-Rank Linear Attention for Efficient Diffusion Transformers**|Zekun Zhang et.al.|[2609.06712](http://arxiv.org/abs/2609.06712)|null|
 |**2026-09-08**|**Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout**|Zhuoran Zhao et.al.|[2609.09123](http://arxiv.org/abs/2609.09123)|null|
 |**2026-09-08**|**Kairos: A Dataset for Fine-Grained Video-Language Modeling over Space, Time, and Dynamics**|Ruibo Ming et.al.|[2609.08755](http://arxiv.org/abs/2609.08755)|null|
 |**2026-09-08**|**Temporal State Transport in Video Generation: Diagnosing and Correcting Spectral Imbalance**|Luyao Tang et.al.|[2609.08505](http://arxiv.org/abs/2609.08505)|null|
@@ -1339,9 +1342,9 @@
 |**2026-09-07**|**The Price of Consistency: Exploiting Visual Anchors for Multimodal Jailbreaking in Video Generation**|Peng Li et.al.|[2609.07216](http://arxiv.org/abs/2609.07216)|null|
 |**2026-09-07**|**AV-SafetyBench: A Safety Benchmark for Text-to-Audio-Video Generation**|Suah Choi et.al.|[2609.06991](http://arxiv.org/abs/2609.06991)|null|
 |**2026-09-07**|**PRG-Fusion: Orchestrating Generative Priors with Reconstruction Evidence for Driving View Synthesis**|Sipeng He et.al.|[2609.06948](http://arxiv.org/abs/2609.06948)|null|
-|**2026-09-06**|**RoLA: Rotary-Positioned Low-Rank Linear Attention for Efficient Diffusion Transformers**|Zekun Zhang et.al.|[2609.06712](http://arxiv.org/abs/2609.06712)|null|
 |**2026-09-06**|**MVWeaver: A Hierarchical Music Video Generation Agent with a Learned Song-to-Visual Bridge**|Sifei Li et.al.|[2609.06478](http://arxiv.org/abs/2609.06478)|null|
 |**2026-09-06**|**Multi-Grid Post-Training for Long-Form Multi-Shot Video Generation**|Jiawei Mao et.al.|[2609.06373](http://arxiv.org/abs/2609.06373)|null|
+|**2026-09-06**|**Identifying Habit, Physics, and Nuisance in Robot World Models**|Jinting Hang et.al.|[2609.09210](http://arxiv.org/abs/2609.09210)|null|
 |**2026-09-05**|**Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction**|Kevin Zhang et.al.|[2609.06261](http://arxiv.org/abs/2609.06261)|null|
 |**2026-09-05**|**PhysWeep: Does a Video Generator Realize the Physics You Ask For?**|Rasul Khanbayov et.al.|[2609.06207](http://arxiv.org/abs/2609.06207)|null|
 |**2026-09-05**|**PAI-Actor: Cinematic Multi-Character Replacement in Dynamic Scenes**|Bangxun Tang et.al.|[2609.05918](http://arxiv.org/abs/2609.05918)|null|
@@ -4198,5 +4201,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
