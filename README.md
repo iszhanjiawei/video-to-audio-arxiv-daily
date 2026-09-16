@@ -1,4 +1,4 @@
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-12**|**A Low-Latency Interactive System for Real-Time Video Understanding Based on VLMs**|Punan Dai et.al.|[2609.13986](http://arxiv.org/abs/2609.13986)|null|
 |**2026-08-27**|**SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching**|Jonnalagadda Maruthi Tejas et.al.|[2608.27524](http://arxiv.org/abs/2608.27524)|null|
 |**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
 |**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|null|
@@ -100,12 +101,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Video-HolmesV2: Can MLLMs Reason with Spatio-Temporal Audio-Visual Evidence in Long Videos?**|Zhaoyang Wei et.al.|[2609.17248](http://arxiv.org/abs/2609.17248)|null|
+|**2026-09-15**|**Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios**|Long-Vu Hoang et.al.|[2609.17056](http://arxiv.org/abs/2609.17056)|null|
+|**2026-09-15**|**Multimodal Emergency Vehicle Classification via Audio-Visual Transformers and Knowledge Distillation**|Vijay John et.al.|[2609.16535](http://arxiv.org/abs/2609.16535)|null|
+|**2026-09-14**|**PIVOT: Physics-Grounded Verification for AI-Generated Audio-Video Detection**|Bo Zheng et.al.|[2609.15562](http://arxiv.org/abs/2609.15562)|null|
+|**2026-09-14**|**Omni-Streaming Thinking**|Enjun Du et.al.|[2609.15128](http://arxiv.org/abs/2609.15128)|null|
+|**2026-09-12**|**Talking to Me or Someone Else? Rethinking Talk-to-Me Detection in Egocentric Videos**|Feiyu Du et.al.|[2609.14118](http://arxiv.org/abs/2609.14118)|null|
+|**2026-09-12**|**Realtime-Venus: A full-duplex interaction system with asynchronous delegation**|Ruixiang Zhao et.al.|[2609.13814](http://arxiv.org/abs/2609.13814)|null|
+|**2026-09-11**|**Audiovisual diarization of overlapping click trains in sperm whale (Physeter macrocephalus) vocal sparring using a three-hydrophone array**|Lara Berkenbaum et.al.|[2609.12593](http://arxiv.org/abs/2609.12593)|null|
 |**2026-09-10**|**OmniKVQuant: KV Cache Quantization for Omni-LLMs**|Suho Yoo et.al.|[2609.11582](http://arxiv.org/abs/2609.11582)|null|
 |**2026-09-10**|**RAMamba-Net: A Reliability-Aware and Mamba-Based Multimodal Fusion Network for Auditory Attention Detection**|Xingyi He et.al.|[2609.11372](http://arxiv.org/abs/2609.11372)|null|
 |**2026-09-10**|**OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models**|Jianjiang Yang et.al.|[2609.11244](http://arxiv.org/abs/2609.11244)|null|
@@ -1325,12 +1334,24 @@
 |**2010-07-08**|**Intrusions into Privacy in Video Chat Environments: Attacks and Countermeasures**|Xinyu Xing et.al.|[1007.1473](http://arxiv.org/abs/1007.1473)|null|
 |**2010-03-18**|**Towards Automated Lecture Capture, Navigation and Delivery System for Web-Lecture on Demand**|Rajkumar Kannan et.al.|[1003.3533](http://arxiv.org/abs/1003.3533)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control**|Chuhao Chen et.al.|[2609.17521](http://arxiv.org/abs/2609.17521)|null|
+|**2026-09-15**|**SlotDiT: Object-Centric Representations for Diffusion Transformers**|Gjergj Plepi et.al.|[2609.17414](http://arxiv.org/abs/2609.17414)|null|
+|**2026-09-15**|**GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos**|Yifan Xie et.al.|[2609.17099](http://arxiv.org/abs/2609.17099)|null|
+|**2026-09-15**|**VOR-Bench: A Human Perception-Driven Benchmark for Video Object Removal**|Haonan Huang et.al.|[2609.16878](http://arxiv.org/abs/2609.16878)|null|
+|**2026-09-15**|**DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models**|Jing Lyu et.al.|[2609.15570](http://arxiv.org/abs/2609.15570)|null|
+|**2026-09-14**|**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**|Xiaofeng Mao et.al.|[2609.15863](http://arxiv.org/abs/2609.15863)|null|
+|**2026-09-14**|**VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention**|Xingyang Li et.al.|[2609.15810](http://arxiv.org/abs/2609.15810)|null|
+|**2026-09-14**|**PIVOT: Physics-Grounded Verification for AI-Generated Audio-Video Detection**|Bo Zheng et.al.|[2609.15562](http://arxiv.org/abs/2609.15562)|null|
+|**2026-09-14**|**Hypergraph-Regularized Gramian Volumes for Multimodal Retrieval**|Anindya Nag et.al.|[2609.15320](http://arxiv.org/abs/2609.15320)|null|
+|**2026-09-14**|**Converting Sequenced Fuzzy Cognitive Maps to Causal Virtual Worlds with Large Video Generators**|Akash Kumar Panda et.al.|[2609.14985](http://arxiv.org/abs/2609.14985)|null|
+|**2026-09-13**|**World-Action Models for Robot Learning and Control: A Survey**|Zuxing Lu et.al.|[2609.16074](http://arxiv.org/abs/2609.16074)|null|
+|**2026-09-13**|**Dynamic Learning Solutions: A System for Personalized Educational Video Generation**|Siddhanth Sridhar et.al.|[2609.14408](http://arxiv.org/abs/2609.14408)|null|
 |**2026-09-10**|**MindTopo: Can Foundation Models Reason in Topological Space?**|Yunfei Ge et.al.|[2609.11900](http://arxiv.org/abs/2609.11900)|null|
 |**2026-09-10**|**Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation**|Jintao Zhang et.al.|[2609.11638](http://arxiv.org/abs/2609.11638)|null|
 |**2026-09-10**|**Harnessing Intrinsic Subject-Aware Attention for Controllable Multi-Subject Video Generation**|Niange Yu et.al.|[2609.11507](http://arxiv.org/abs/2609.11507)|null|
@@ -4212,5 +4233,5 @@
 |**2024-08-10**|**High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**|Weizhi Zhong et.al.|[2408.05416](http://arxiv.org/abs/2408.05416)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
