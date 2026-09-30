@@ -1,4 +1,4 @@
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -99,12 +99,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information**|Kaneyoshi Hiratsuka et.al.|[2607.26047](http://arxiv.org/abs/2607.26047)|null|
+|**2026-09-29**|**ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling**|Jianxuan Yang et.al.|[2604.15086](http://arxiv.org/abs/2604.15086)|null|
+|**2026-09-29**|**HelixWorld: A Real-time Interactive Audio-Visual World Model**|Lei Ke et.al.|[2609.38123](http://arxiv.org/abs/2609.38123)|null|
+|**2026-09-29**|**Devils in Question Relay: Source-Conditioned Relay Steering to Mitigate Hallucinations in Audio-visual Large Language Models**|Yu Zhang et.al.|[2609.37568](http://arxiv.org/abs/2609.37568)|null|
+|**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084](http://arxiv.org/abs/2609.37084)|null|
+|**2026-09-29**|**OmniRoute: Mapping Temporal Semantic Evidence to Audio-Visual Token Budgets for Efficient Omnimodal Large Language Models**|Yuchen Deng et.al.|[2609.37052](http://arxiv.org/abs/2609.37052)|null|
 |**2026-09-28**|**Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge**|Yitong Li et.al.|[2609.35110](http://arxiv.org/abs/2609.35110)|null|
 |**2026-09-28**|**Joint and Cross-Modal Video-Audio Generation and Editing: A Unified Formulation and Design Taxonomy**|Abhinav Sharma et.al.|[2609.34381](http://arxiv.org/abs/2609.34381)|null|
 |**2026-09-28**|**SyncRA: Learning Temporal Correspondence in Omni-Modal Models**|Zelong Xu et.al.|[2609.34363](http://arxiv.org/abs/2609.34363)|null|
@@ -112,8 +118,10 @@
 |**2026-09-28**|**OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue**|Haolin He et.al.|[2609.21465](http://arxiv.org/abs/2609.21465)|null|
 |**2026-09-28**|**OmniVR: Audio-Video Conditional Generation for Archival Footage Restoration**|Xin Lu et.al.|[2608.04224](http://arxiv.org/abs/2608.04224)|null|
 |**2026-09-28**|**FacePlex: Toward Natural Full-Duplex Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
+|**2026-09-28**|**Unlocking Spatial Grounding in Large Audio-Visual Retrieval models**|Hugo Malard et.al.|[2607.24786](http://arxiv.org/abs/2607.24786)|null|
 |**2026-09-28**|**SyncEdit: Rethinking Lip Synchronization as Editing with Audio-Driven Diffusion Models**|Lixiang Lin et.al.|[2603.09084](http://arxiv.org/abs/2603.09084)|null|
 |**2026-09-28**|**TACO: Training-free Sound Prompted Segmentation via Semantically Constrained Audio-visual CO-factorization**|Hugo Malard et.al.|[2412.01488](http://arxiv.org/abs/2412.01488)|null|
+|**2026-09-28**|**Enabling Immersive Audio-Visual Experience from Any Video**|Zitong Lan et.al.|[2609.36295](http://arxiv.org/abs/2609.36295)|null|
 |**2026-09-27**|**DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation**|Yayue Deng et.al.|[2609.33742](http://arxiv.org/abs/2609.33742)|null|
 |**2026-09-27**|**DataMagic: Authoring Data Videos through Declarative Multi-Agent Orchestration**|Yupeng Xie et.al.|[2609.33403](http://arxiv.org/abs/2609.33403)|null|
 |**2026-09-27**|**Cross-modal Translation via Conditional Latent Denoising for Video Deepfake Detection**|Xinzhe Li et.al.|[2609.33394](http://arxiv.org/abs/2609.33394)|null|
@@ -230,7 +238,6 @@
 |**2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Koen P. de Vries et.al.|[2608.13239](http://arxiv.org/abs/2608.13239)|null|
 |**2026-08-13**|**UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos**|Yuxuan Zhang et.al.|[2608.11752](http://arxiv.org/abs/2608.11752)|null|
 |**2026-08-13**|**Optimal Transport-based Semantic Alignment for LLM-based Audio-Visual Speech Recognition**|Xugang Lu et.al.|[2607.09001](http://arxiv.org/abs/2607.09001)|null|
-|**2026-08-13**|**ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling**|Jianxuan Yang et.al.|[2604.15086](http://arxiv.org/abs/2604.15086)|null|
 |**2026-08-13**|**CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks**|Wish Suharitdamrong et.al.|[2604.03314](http://arxiv.org/abs/2604.03314)|null|
 |**2026-08-13**|**SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos**|Amir Dellali et.al.|[2510.02916](http://arxiv.org/abs/2510.02916)|null|
 |**2026-08-12**|**HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion**|Wenshuo Peng et.al.|[2608.11913](http://arxiv.org/abs/2608.11913)|null|
@@ -279,7 +286,6 @@
 |**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
 |**2026-07-29**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
 |**2026-07-29**|**TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**|Girish A. Koushik et.al.|[2601.11178](http://arxiv.org/abs/2601.11178)|null|
-|**2026-07-28**|**S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information**|Kaneyoshi Hiratsuka et.al.|[2607.26047](http://arxiv.org/abs/2607.26047)|null|
 |**2026-07-28**|**Less is More: Modality-Decoupling for General AIGC Audio-Video Detection**|Jielun Peng et.al.|[2607.25543](http://arxiv.org/abs/2607.25543)|null|
 |**2026-07-28**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
 |**2026-07-28**|**VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents**|Amrita Mazumdar et.al.|[2605.30256](http://arxiv.org/abs/2605.30256)|null|
@@ -359,7 +365,6 @@
 |**2026-06-24**|**MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation**|Yujie Wei et.al.|[2605.20183](http://arxiv.org/abs/2605.20183)|null|
 |**2026-06-24**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-06-23**|**MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning**|Revant Teotia et.al.|[2606.25225](http://arxiv.org/abs/2606.25225)|null|
-|**2026-06-22**|**Unlocking Spatial Grounding in Large Audio-Visual Retrieval models**|Hugo Malard et.al.|[2607.24786](http://arxiv.org/abs/2607.24786)|null|
 |**2026-06-22**|**READ More than What You See: Reinforcement Learning for Accurate and Coherent Audio Description Generations**|Bo Fang et.al.|[2606.22766](http://arxiv.org/abs/2606.22766)|null|
 |**2026-06-22**|**EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs**|Chao Gong et.al.|[2512.10324](http://arxiv.org/abs/2512.10324)|null|
 |**2026-06-22**|**Do Modern Video-LLMs Need to Listen? A Benchmark Audit and Scalable Remedy**|Geewook Kim et.al.|[2509.17901](http://arxiv.org/abs/2509.17901)|null|
@@ -2106,5 +2111,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
