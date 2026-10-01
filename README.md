@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -99,18 +99,23 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception**|Juyi Lin et.al.|[2609.39938](http://arxiv.org/abs/2609.39938)|null|
+|**2026-09-30**|**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**|Junming Lin et.al.|[2609.39490](http://arxiv.org/abs/2609.39490)|null|
+|**2026-09-30**|**OP-CAD: On-Policy Clean-Audio Distillation for Robust Audio-Visual Reasoning**|Xingming Shui et.al.|[2609.39150](http://arxiv.org/abs/2609.39150)|null|
+|**2026-09-29**|**TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching**|Zhihao Shu et.al.|[2609.21172](http://arxiv.org/abs/2609.21172)|null|
 |**2026-09-29**|**S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information**|Kaneyoshi Hiratsuka et.al.|[2607.26047](http://arxiv.org/abs/2607.26047)|null|
 |**2026-09-29**|**ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling**|Jianxuan Yang et.al.|[2604.15086](http://arxiv.org/abs/2604.15086)|null|
 |**2026-09-29**|**HelixWorld: A Real-time Interactive Audio-Visual World Model**|Lei Ke et.al.|[2609.38123](http://arxiv.org/abs/2609.38123)|null|
 |**2026-09-29**|**Devils in Question Relay: Source-Conditioned Relay Steering to Mitigate Hallucinations in Audio-visual Large Language Models**|Yu Zhang et.al.|[2609.37568](http://arxiv.org/abs/2609.37568)|null|
 |**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084](http://arxiv.org/abs/2609.37084)|null|
 |**2026-09-29**|**OmniRoute: Mapping Temporal Semantic Evidence to Audio-Visual Token Budgets for Efficient Omnimodal Large Language Models**|Yuchen Deng et.al.|[2609.37052](http://arxiv.org/abs/2609.37052)|null|
+|**2026-09-29**|**Audible World Models: Spatially Aware Sound Generation for 3D Worlds**|Duowen Chen et.al.|[2609.38444](http://arxiv.org/abs/2609.38444)|null|
 |**2026-09-28**|**Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge**|Yitong Li et.al.|[2609.35110](http://arxiv.org/abs/2609.35110)|null|
 |**2026-09-28**|**Joint and Cross-Modal Video-Audio Generation and Editing: A Unified Formulation and Design Taxonomy**|Abhinav Sharma et.al.|[2609.34381](http://arxiv.org/abs/2609.34381)|null|
 |**2026-09-28**|**SyncRA: Learning Temporal Correspondence in Omni-Modal Models**|Zelong Xu et.al.|[2609.34363](http://arxiv.org/abs/2609.34363)|null|
@@ -157,7 +162,6 @@
 |**2026-09-20**|**If You Hear It, Help Find It: Orthogonal Knowledge Distillation for Open-Vocabulary Audio-Visual Event Localization**|Yi Xu et.al.|[2609.23376](http://arxiv.org/abs/2609.23376)|null|
 |**2026-09-20**|**SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models**|Tianyu Xie et.al.|[2603.16859](http://arxiv.org/abs/2603.16859)|null|
 |**2026-09-18**|**Omni Demand Understanding: A Benchmark for Contextual User-Intent Inference in Multimodal Interaction**|Qi Chen et.al.|[2609.21392](http://arxiv.org/abs/2609.21392)|null|
-|**2026-09-18**|**TierKV: Long-Context On-Device LLMs via Predictive Multi-Tier KV Caching**|Zhihao Shu et.al.|[2609.21172](http://arxiv.org/abs/2609.21172)|null|
 |**2026-09-18**|**SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[2609.18009](http://arxiv.org/abs/2609.18009)|null|
 |**2026-09-18**|**The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation**|Yichen Liu et.al.|[2609.02367](http://arxiv.org/abs/2609.02367)|null|
 |**2026-09-17**|**AVTrace: Diagnosing Audio-Visual Temporal Reasoning in Omni Models**|Longyin Zhang et.al.|[2609.19991](http://arxiv.org/abs/2609.19991)|null|
@@ -2111,5 +2115,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
