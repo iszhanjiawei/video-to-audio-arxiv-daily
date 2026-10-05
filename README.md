@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,12 +100,16 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Relevant Evidence Decoding for Audio-Visual Hallucination Mitigation**|Hyunjae Ra et.al.|[2610.02976](http://arxiv.org/abs/2610.02976)|null|
+|**2026-10-02**|**Text-Centric Post-Training for Omni-Modal Reasoning**|Ziyang Cheng et.al.|[2610.02819](http://arxiv.org/abs/2610.02819)|null|
+|**2026-10-02**|**GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation**|Zhiyuan Zhang et.al.|[2610.02752](http://arxiv.org/abs/2610.02752)|null|
+|**2026-10-01**|**Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios**|Long-Vu Hoang et.al.|[2609.17056](http://arxiv.org/abs/2609.17056)|null|
 |**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
 |**2026-10-01**|**AVSD-Scenes: A Dataset for Audio-Visual Description of Urban Scenes**|Dhanunjaya Varma Devalraju et.al.|[2610.01861](http://arxiv.org/abs/2610.01861)|null|
 |**2026-10-01**|**Supervising Sound Localization by In-the-wild Egomotion**|Anna Min et.al.|[2610.01388](http://arxiv.org/abs/2610.01388)|null|
@@ -177,7 +181,6 @@
 |**2026-09-16**|**Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model**|Haoyu Zhao et.al.|[2609.18323](http://arxiv.org/abs/2609.18323)|null|
 |**2026-09-15**|**Audio for Sports Highlight Detection: A Comparative Empirical Study**|Hao Xu et.al.|[2609.17923](http://arxiv.org/abs/2609.17923)|null|
 |**2026-09-15**|**Video-HolmesV2: Can MLLMs Reason with Spatio-Temporal Audio-Visual Evidence in Long Videos?**|Zhaoyang Wei et.al.|[2609.17248](http://arxiv.org/abs/2609.17248)|null|
-|**2026-09-15**|**Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios**|Long-Vu Hoang et.al.|[2609.17056](http://arxiv.org/abs/2609.17056)|null|
 |**2026-09-15**|**Multimodal Emergency Vehicle Classification via Audio-Visual Transformers and Knowledge Distillation**|Vijay John et.al.|[2609.16535](http://arxiv.org/abs/2609.16535)|null|
 |**2026-09-15**|**EviDep: Uncertainty-Aware Multimodal Depression Estimation via Disentangled Evidential Learning**|Fangyuan Liu et.al.|[2604.16579](http://arxiv.org/abs/2604.16579)|null|
 |**2026-09-15**|**AVID: A Benchmark for Omni-Modal Audio-Visual Inconsistency Understanding via Agent-Driven Construction**|Zixuan Chen et.al.|[2604.13593](http://arxiv.org/abs/2604.13593)|null|
@@ -2123,5 +2126,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
