@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,12 +100,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**BabelFake: A Multilingual Audio-Visual DeepFake Benchmark**|Carlotta Segna et.al.|[2610.06339](http://arxiv.org/abs/2610.06339)|null|
+|**2026-10-05**|**LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning**|Benjamin Robson et.al.|[2610.06226](http://arxiv.org/abs/2610.06226)|null|
+|**2026-10-05**|**UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance**|Gaoxiang Cong et.al.|[2610.05932](http://arxiv.org/abs/2610.05932)|null|
+|**2026-10-04**|**FATE: Frame-Level Audio-Visual Temporal Embedding**|Kaisi Guan et.al.|[2608.01310](http://arxiv.org/abs/2608.01310)|null|
+|**2026-10-04**|**FoleyGenEx: Unified Video-to-Audio Generation with Multi-Modal Control, Temporal Alignment, and Semantic Precision**|Shiyao Wang et.al.|[2606.14049](http://arxiv.org/abs/2606.14049)|null|
+|**2026-10-04**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
+|**2026-10-04**|**Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training**|Shuyuan Tu et.al.|[2610.05416](http://arxiv.org/abs/2610.05416)|null|
+|**2026-10-03**|**Strong Helps Weak: Directional Cross-Modal Alignment Transfer in Multi-modal LLMs**|Hoigi Seo et.al.|[2610.04580](http://arxiv.org/abs/2610.04580)|null|
 |**2026-10-02**|**Relevant Evidence Decoding for Audio-Visual Hallucination Mitigation**|Hyunjae Ra et.al.|[2610.02976](http://arxiv.org/abs/2610.02976)|null|
 |**2026-10-02**|**Text-Centric Post-Training for Omni-Modal Reasoning**|Ziyang Cheng et.al.|[2610.02819](http://arxiv.org/abs/2610.02819)|null|
 |**2026-10-02**|**GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation**|Zhiyuan Zhang et.al.|[2610.02752](http://arxiv.org/abs/2610.02752)|null|
@@ -295,7 +303,6 @@
 |**2026-08-04**|**Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics**|Jiahua Wang et.al.|[2512.00883](http://arxiv.org/abs/2512.00883)|null|
 |**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
-|**2026-08-02**|**FATE: Frame-Level Audio-Visual Temporal Embedding**|Kaisi Guan et.al.|[2608.01310](http://arxiv.org/abs/2608.01310)|null|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
 |**2026-08-01**|**Blind Source Separation Can Distort Behavior and Connectivity Analyses of Calcium Transients**|Adedayo S. A et.al.|[2608.00655](http://arxiv.org/abs/2608.00655)|null|
 |**2026-07-31**|**DoubleHelix: Structured Cross-Modal Fusion for Audio-Visual Speech Recognition with LLMs**|Ziwei Cheng et.al.|[2607.29112](http://arxiv.org/abs/2607.29112)|null|
@@ -402,7 +409,6 @@
 |**2026-06-15**|**BRITE: A Benchmark for Reliable and Interpretable T2V Evaluation on Implausible Scenarios**|Advait Tilak et.al.|[2605.00873](http://arxiv.org/abs/2605.00873)|null|
 |**2026-06-15**|**SSNAPS: Audio-Visual Separation of Speech and Background Noise with Diffusion Inverse Sampling**|Yochai Yemini et.al.|[2602.01394](http://arxiv.org/abs/2602.01394)|null|
 |**2026-06-13**|**Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection**|Elham Abolhasani et.al.|[2606.15117](http://arxiv.org/abs/2606.15117)|null|
-|**2026-06-12**|**FoleyGenEx: Unified Video-to-Audio Generation with Multi-Modal Control, Temporal Alignment, and Semantic Precision**|Shiyao Wang et.al.|[2606.14049](http://arxiv.org/abs/2606.14049)|null|
 |**2026-06-11**|**From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation**|Pedro Correa et.al.|[2606.13630](http://arxiv.org/abs/2606.13630)|null|
 |**2026-06-11**|**Appearance-Invariant Detection of Suggestive Motion via Laban Movement Descriptors**|Jaehoon Ahn et.al.|[2605.24488](http://arxiv.org/abs/2605.24488)|null|
 |**2026-06-10**|**On Aligning Hierarchical Standardized Embedding for Audio-visual Generalized Zero-shot Learning**|Zihan Zhang et.al.|[2606.11602](http://arxiv.org/abs/2606.11602)|null|
@@ -2126,5 +2132,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
