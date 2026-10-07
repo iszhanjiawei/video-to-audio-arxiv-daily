@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
 |**2026-09-22**|**OmniFysics-Nano-V2 Technical Report: Understanding the Physical World Across Modalities**|Yizhou Liu et.al.|[2609.25738](http://arxiv.org/abs/2609.25738)|null|
 |**2026-09-12**|**A Low-Latency Interactive System for Real-Time Video Understanding Based on VLMs**|Punan Dai et.al.|[2609.13986](http://arxiv.org/abs/2609.13986)|null|
@@ -29,7 +30,6 @@
 |**2026-03-27**|**Cinematic Audio Source Separation Using Visual Cues**|Kang Zhang et.al.|[2603.26113](http://arxiv.org/abs/2603.26113)|null|
 |**2026-02-23**|**An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction**|Guanting Shen et.al.|[2602.20219](http://arxiv.org/abs/2602.20219)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
-|**2026-01-25**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-01-19**|**Biometric-enabled Personalized Augmentative and Alternative Communications**|S. Yanushkevich et.al.|[2603.05512](http://arxiv.org/abs/2603.05512)|null|
 |**2025-11-11**|**UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation**|Jinting Wang et.al.|[2506.04134](http://arxiv.org/abs/2506.04134)|null|
 |**2025-10-31**|**UTI-LLM: A Personalized Articulatory-Speech Therapy Assistance System Based on Multimodal Large Language Model**|Yudong Yang et.al.|[2509.13145](http://arxiv.org/abs/2509.13145)|null|
@@ -100,12 +100,17 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**WorldSonus: Bringing Sound to Worlds**|Pengjun Fang et.al.|[2610.08760](http://arxiv.org/abs/2610.08760)|null|
+|**2026-10-06**|**Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses**|Tianyi She et.al.|[2610.08417](http://arxiv.org/abs/2610.08417)|null|
+|**2026-10-06**|**MacJEPA: Missingness-Robust Audio-Visual Recognition from Untrimmed Egocentric Videos**|Souptik Sen et.al.|[2610.08192](http://arxiv.org/abs/2610.08192)|null|
+|**2026-10-06**|**CueRator: Agentic Search for Symbolic Rules to Adapt Frozen Multimodal Encoders**|Sunchan Park et.al.|[2610.07868](http://arxiv.org/abs/2610.07868)|null|
+|**2026-10-05**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-10-05**|**BabelFake: A Multilingual Audio-Visual DeepFake Benchmark**|Carlotta Segna et.al.|[2610.06339](http://arxiv.org/abs/2610.06339)|null|
 |**2026-10-05**|**LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning**|Benjamin Robson et.al.|[2610.06226](http://arxiv.org/abs/2610.06226)|null|
 |**2026-10-05**|**UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance**|Gaoxiang Cong et.al.|[2610.05932](http://arxiv.org/abs/2610.05932)|null|
@@ -726,7 +731,6 @@
 |**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](http://arxiv.org/abs/2601.18393)|null|
 |**2026-01-26**|**Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models**|Umberto Cappellazzo et.al.|[2511.07253](http://arxiv.org/abs/2511.07253)|null|
 |**2026-01-26**|**From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance**|Ardalan Aryashad et.al.|[2510.03906](http://arxiv.org/abs/2510.03906)|null|
-|**2026-01-25**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-01-24**|**ToS: A Team of Specialists ensemble framework for Stereo Sound Event Localization and Detection with distance estimation in Video**|Davide Berghi et.al.|[2601.17611](http://arxiv.org/abs/2601.17611)|null|
 |**2026-01-24**|**Revealing the Truth with ConLLM for Detecting Multi-Modal Deepfakes**|Gautam Siddharth Kashyap et.al.|[2601.17530](http://arxiv.org/abs/2601.17530)|null|
 |**2026-01-23**|**One Attempt at Building an Inclusive & Accessible Hybrid Astronomy Conference: FRB 2025**|Alice P. Curtin et.al.|[2601.14357](http://arxiv.org/abs/2601.14357)|null|
@@ -2132,5 +2136,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
