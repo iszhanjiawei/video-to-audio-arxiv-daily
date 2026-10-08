@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,16 +100,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
+|**2026-10-07**|**TiTok: Audio-Visual LLM for Multi-Segment Temporal Grounding**|Eunji Shin et.al.|[2610.09408](http://arxiv.org/abs/2610.09408)|null|
+|**2026-10-06**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
 |**2026-10-06**|**WorldSonus: Bringing Sound to Worlds**|Pengjun Fang et.al.|[2610.08760](http://arxiv.org/abs/2610.08760)|null|
 |**2026-10-06**|**Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses**|Tianyi She et.al.|[2610.08417](http://arxiv.org/abs/2610.08417)|null|
 |**2026-10-06**|**MacJEPA: Missingness-Robust Audio-Visual Recognition from Untrimmed Egocentric Videos**|Souptik Sen et.al.|[2610.08192](http://arxiv.org/abs/2610.08192)|null|
 |**2026-10-06**|**CueRator: Agentic Search for Symbolic Rules to Adapt Frozen Multimodal Encoders**|Sunchan Park et.al.|[2610.07868](http://arxiv.org/abs/2610.07868)|null|
+|**2026-10-06**|**PVSync: A Unified Lip-Sync Expert for Timing and Articulation**|Kevin Stephen et.al.|[2610.09223](http://arxiv.org/abs/2610.09223)|null|
 |**2026-10-05**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-10-05**|**BabelFake: A Multilingual Audio-Visual DeepFake Benchmark**|Carlotta Segna et.al.|[2610.06339](http://arxiv.org/abs/2610.06339)|null|
 |**2026-10-05**|**LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning**|Benjamin Robson et.al.|[2610.06226](http://arxiv.org/abs/2610.06226)|null|
@@ -688,7 +692,6 @@
 |**2026-02-22**|**Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition**|Alexandros Haliassos et.al.|[2602.19316](http://arxiv.org/abs/2602.19316)|null|
 |**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
 |**2026-02-20**|**Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**|Aashish Chandra et.al.|[2602.18618](http://arxiv.org/abs/2602.18618)|null|
-|**2026-02-17**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
 |**2026-02-15**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
 |**2026-02-14**|**Hierarchical Audio-Visual-Proprioceptive Fusion for Precise Robotic Manipulation**|Siyuan Li et.al.|[2602.13640](http://arxiv.org/abs/2602.13640)|null|
 |**2026-02-13**|**Adding internal audio sensing to internal vision enables human-like in-hand fabric recognition with soft robotic fingertips**|Iris Andrussow et.al.|[2602.12918](http://arxiv.org/abs/2602.12918)|null|
@@ -2136,5 +2139,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
