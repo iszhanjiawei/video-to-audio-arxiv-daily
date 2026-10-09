@@ -1,4 +1,4 @@
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -100,14 +100,25 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios**|Long-Vu Hoang et.al.|[2609.17056](http://arxiv.org/abs/2609.17056)|null|
+|**2026-10-08**|**mAVE: A Watermark for Joint Audio-Visual Generation Models**|Luyang Si et.al.|[2603.07090](http://arxiv.org/abs/2603.07090)|null|
+|**2026-10-08**|**BabelFake: A Multilingual Audio-Visual DeepFake Benchmark**|Carlotta Segna et.al.|[2610.06339](http://arxiv.org/abs/2610.06339)|null|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams**|Heeseung Kim et.al.|[2610.12248](http://arxiv.org/abs/2610.12248)|null|
+|**2026-10-08**|**Perception Test 2026: Challenge Summary and Extension to City-scale Audio-Visual Reasoning**|Fedor Kitashov et.al.|[2610.12081](http://arxiv.org/abs/2610.12081)|null|
+|**2026-10-08**|**Open-Vocabulary Audio-Visual Event Localization via Complex-Valued Fusion**|Anirudh Praveen et.al.|[2610.11846](http://arxiv.org/abs/2610.11846)|null|
+|**2026-10-08**|**SepGen: Multi-Stem Audio-Video Separation and Generation in a Single Model**|Aviad Dahan et.al.|[2610.11361](http://arxiv.org/abs/2610.11361)|null|
+|**2026-10-08**|**FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs**|Kyeong-Rae Kim et.al.|[2610.11310](http://arxiv.org/abs/2610.11310)|null|
+|**2026-10-07**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-10-07**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
 |**2026-10-07**|**TiTok: Audio-Visual LLM for Multi-Segment Temporal Grounding**|Eunji Shin et.al.|[2610.09408](http://arxiv.org/abs/2610.09408)|null|
+|**2026-10-07**|**SAVU-BENCH: A Real-World Benchmark for Spatial Audio-Visual Understanding**|Yu Chen et.al.|[2610.10624](http://arxiv.org/abs/2610.10624)|null|
 |**2026-10-06**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
 |**2026-10-06**|**WorldSonus: Bringing Sound to Worlds**|Pengjun Fang et.al.|[2610.08760](http://arxiv.org/abs/2610.08760)|null|
 |**2026-10-06**|**Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses**|Tianyi She et.al.|[2610.08417](http://arxiv.org/abs/2610.08417)|null|
@@ -115,7 +126,6 @@
 |**2026-10-06**|**CueRator: Agentic Search for Symbolic Rules to Adapt Frozen Multimodal Encoders**|Sunchan Park et.al.|[2610.07868](http://arxiv.org/abs/2610.07868)|null|
 |**2026-10-06**|**PVSync: A Unified Lip-Sync Expert for Timing and Articulation**|Kevin Stephen et.al.|[2610.09223](http://arxiv.org/abs/2610.09223)|null|
 |**2026-10-05**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
-|**2026-10-05**|**BabelFake: A Multilingual Audio-Visual DeepFake Benchmark**|Carlotta Segna et.al.|[2610.06339](http://arxiv.org/abs/2610.06339)|null|
 |**2026-10-05**|**LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning**|Benjamin Robson et.al.|[2610.06226](http://arxiv.org/abs/2610.06226)|null|
 |**2026-10-05**|**UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance**|Gaoxiang Cong et.al.|[2610.05932](http://arxiv.org/abs/2610.05932)|null|
 |**2026-10-04**|**FATE: Frame-Level Audio-Visual Temporal Embedding**|Kaisi Guan et.al.|[2608.01310](http://arxiv.org/abs/2608.01310)|null|
@@ -126,7 +136,6 @@
 |**2026-10-02**|**Relevant Evidence Decoding for Audio-Visual Hallucination Mitigation**|Hyunjae Ra et.al.|[2610.02976](http://arxiv.org/abs/2610.02976)|null|
 |**2026-10-02**|**Text-Centric Post-Training for Omni-Modal Reasoning**|Ziyang Cheng et.al.|[2610.02819](http://arxiv.org/abs/2610.02819)|null|
 |**2026-10-02**|**GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation**|Zhiyuan Zhang et.al.|[2610.02752](http://arxiv.org/abs/2610.02752)|null|
-|**2026-10-01**|**Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios**|Long-Vu Hoang et.al.|[2609.17056](http://arxiv.org/abs/2609.17056)|null|
 |**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
 |**2026-10-01**|**AVSD-Scenes: A Dataset for Audio-Visual Description of Urban Scenes**|Dhanunjaya Varma Devalraju et.al.|[2610.01861](http://arxiv.org/abs/2610.01861)|null|
 |**2026-10-01**|**Supervising Sound Localization by In-the-wild Egomotion**|Anna Min et.al.|[2610.01388](http://arxiv.org/abs/2610.01388)|null|
@@ -395,7 +404,6 @@
 |**2026-06-29**|**Delayed Bidirectional Alignment via Disentangled Audio Semantics for Audio-Visual Segmentation**|Jingqi Tian et.al.|[2512.20117](http://arxiv.org/abs/2512.20117)|null|
 |**2026-06-28**|**VIB-AVSR: Variational Information Bottleneck for Noise-Robust LLM-Based Audio-Visual Speech Recognition**|Piyush Arora et.al.|[2606.29632](http://arxiv.org/abs/2606.29632)|null|
 |**2026-06-24**|**MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation**|Yujie Wei et.al.|[2605.20183](http://arxiv.org/abs/2605.20183)|null|
-|**2026-06-24**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-06-23**|**MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning**|Revant Teotia et.al.|[2606.25225](http://arxiv.org/abs/2606.25225)|null|
 |**2026-06-22**|**READ More than What You See: Reinforcement Learning for Accurate and Coherent Audio Description Generations**|Bo Fang et.al.|[2606.22766](http://arxiv.org/abs/2606.22766)|null|
 |**2026-06-22**|**EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs**|Chao Gong et.al.|[2512.10324](http://arxiv.org/abs/2512.10324)|null|
@@ -654,7 +662,6 @@
 |**2026-03-09**|**Listening with the Eyes: Benchmarking Egocentric Co-Speech Grounding across Space and Time**|Weijie Zhou et.al.|[2603.07966](http://arxiv.org/abs/2603.07966)|null|
 |**2026-03-08**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
 |**2026-03-07**|**Seeing the Context: Rich Visual Context-Aware Speech Recognition via Multimodal Reasoning**|Wenjie Tian et.al.|[2603.07263](http://arxiv.org/abs/2603.07263)|null|
-|**2026-03-07**|**mAVE: A Watermark for Joint Audio-Visual Generation Models**|Luyang Si et.al.|[2603.07090](http://arxiv.org/abs/2603.07090)|null|
 |**2026-03-07**|**Complementarity-Supervised Spectral-Band Routing for Multimodal Emotion Recognition**|Zhexian Huang et.al.|[2603.13340](http://arxiv.org/abs/2603.13340)|null|
 |**2026-03-07**|**EmoOmni: Bridging Emotional Understanding and Expression in Omni-Modal LLMs**|Wenjie Tian et.al.|[2602.21900](http://arxiv.org/abs/2602.21900)|null|
 |**2026-03-07**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Fold Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
@@ -2139,5 +2146,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
