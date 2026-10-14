@@ -107,6 +107,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding**|Haichen He et.al.|[2605.22907](http://arxiv.org/abs/2605.22907)|null|
+|**2026-10-13**|**OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding**|Xuyang Liu et.al.|[2610.18829](http://arxiv.org/abs/2610.18829)|null|
+|**2026-10-13**|**Physics-Aware Deepfake Detection via Distance-Speech Consistency**|Kyeongrae Kim et.al.|[2610.18485](http://arxiv.org/abs/2610.18485)|null|
+|**2026-10-13**|**Mitigating Cross-Modal Hallucinations by Correcting Modality Misrouting in Omnimodal LLMs**|Yu Mi et.al.|[2610.18141](http://arxiv.org/abs/2610.18141)|null|
+|**2026-10-12**|**NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware**|Leonidas Delimpasis et.al.|[2609.24391](http://arxiv.org/abs/2609.24391)|null|
+|**2026-10-12**|**SyncReward: Human-Aligned Synchronization Reward for Audio-Visual Generation**|Kaisi Guan et.al.|[2610.16338](http://arxiv.org/abs/2610.16338)|null|
+|**2026-10-11**|**PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation**|Tianxin Xie et.al.|[2512.23994](http://arxiv.org/abs/2512.23994)|null|
+|**2026-10-11**|**SlotAVS: Object-Centric Audio-Visual Segmentation via Bi-Modal Slot Attention**|Arnav Sharma et.al.|[2610.15764](http://arxiv.org/abs/2610.15764)|null|
+|**2026-10-11**|**Structured Stateful Relational Scripts with a High-Quality Dataset for Multi-Shot Audio-Visual Video Generation**|Chen Zhao et.al.|[2610.15512](http://arxiv.org/abs/2610.15512)|null|
+|**2026-10-11**|**SIMPLE: Semantic Structure-Aligned Prompt Learning for Open-Vocabulary Audio-Visual Event Localization**|Hanyu Xuan et.al.|[2610.15342](http://arxiv.org/abs/2610.15342)|null|
+|**2026-10-10**|**HiPAD: A Unified Gait, Audio-Visual, and Personality Fusion Network for Depression Detection, with a Hierarchical Personality Ablation and the Calibration Limits of Domain-Adapted LLMs**|Karol Chlasta et.al.|[2610.14961](http://arxiv.org/abs/2610.14961)|null|
 |**2026-10-09**|**MacJEPA: Missingness-Robust Audio-Visual Recognition from Untrimmed Egocentric Videos**|Souptik Sen et.al.|[2610.08192](http://arxiv.org/abs/2610.08192)|null|
 |**2026-10-09**|**X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation**|Saumyaranjan Mohanty et.al.|[2610.13687](http://arxiv.org/abs/2610.13687)|null|
 |**2026-10-09**|**PAGE: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation**|Yabiao Wang et.al.|[2610.13301](http://arxiv.org/abs/2610.13301)|null|
@@ -125,6 +136,7 @@
 |**2026-10-08**|**Spend Where It Matters: Particle Search with MH Refinement for Budget-Constrained Audio-Visual Alignment**|Shivanshu Shekhar et.al.|[2610.12811](http://arxiv.org/abs/2610.12811)|null|
 |**2026-10-08**|**Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search**|Khubaib Ahmed et.al.|[2610.12796](http://arxiv.org/abs/2610.12796)|null|
 |**2026-10-08**|**Shift-Aware Identity-Guided Latent Refinement for Referring Audio--Visual Segmentation**|Kun Li et.al.|[2610.12783](http://arxiv.org/abs/2610.12783)|null|
+|**2026-10-08**|**Two-Stage Multi-modal Learning for Dynamic Audio-Visual Navigation: From Physical Alignment to Scene Aggregation**|Jia Li et.al.|[2610.14077](http://arxiv.org/abs/2610.14077)|null|
 |**2026-10-07**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-10-07**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
 |**2026-10-07**|**TiTok: Audio-Visual LLM for Multi-Segment Temporal Grounding**|Eunji Shin et.al.|[2610.09408](http://arxiv.org/abs/2610.09408)|null|
@@ -203,7 +215,6 @@
 |**2026-09-22**|**Compositional Failure in Audio-Visual LLMs: Late-Layer Prior Dominance Under Cross-modal Conflict**|Adarsh Sudheer et.al.|[2608.27785](http://arxiv.org/abs/2608.27785)|null|
 |**2026-09-22**|**Unified Multimodal Uncertain Inference**|Dengjia Zhang et.al.|[2604.08701](http://arxiv.org/abs/2604.08701)|null|
 |**2026-09-21**|**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**|Ovis-Embedding Team et.al.|[2609.25165](http://arxiv.org/abs/2609.25165)|null|
-|**2026-09-21**|**NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware**|Leonidas Delimpasis et.al.|[2609.24391](http://arxiv.org/abs/2609.24391)|null|
 |**2026-09-21**|**OmniFysics-Captioner Technical Report: Grounding Omni-Modal Understanding in the Physical World for Better Captioning**|Kaixiang Qiu et.al.|[2609.31714](http://arxiv.org/abs/2609.31714)|null|
 |**2026-09-20**|**DFD-Lab: A Modular Audio-Visual Deepfake Detection Pipeline**|Jan Rybarczyk et.al.|[2609.23830](http://arxiv.org/abs/2609.23830)|null|
 |**2026-09-20**|**If You Hear It, Help Find It: Orthogonal Knowledge Distillation for Open-Vocabulary Audio-Visual Event Localization**|Yi Xu et.al.|[2609.23376](http://arxiv.org/abs/2609.23376)|null|
@@ -498,7 +509,6 @@
 |**2026-05-22**|**RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity in Retrieval?**|Arijit Ghosh et.al.|[2605.27436](http://arxiv.org/abs/2605.27436)|null|
 |**2026-05-22**|**EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation**|Songlin Yang et.al.|[2605.23271](http://arxiv.org/abs/2605.23271)|null|
 |**2026-05-22**|**Inconsistency-aware Multimodal Schrödinger Bridge for Deepfake Localization**|Jiayu Xiong et.al.|[2605.23113](http://arxiv.org/abs/2605.23113)|null|
-|**2026-05-21**|**VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding**|Haichen He et.al.|[2605.22907](http://arxiv.org/abs/2605.22907)|null|
 |**2026-05-21**|**Quantifying Full-Body Immersion**|Alihan Bakir et.al.|[2605.22521](http://arxiv.org/abs/2605.22521)|null|
 |**2026-05-21**|**LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning**|Yifan Dai et.al.|[2605.22012](http://arxiv.org/abs/2605.22012)|null|
 |**2026-05-20**|**OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization**|Mark Boss et.al.|[2605.21226](http://arxiv.org/abs/2605.21226)|null|
@@ -508,7 +518,6 @@
 |**2026-05-18**|**WavFlow: Audio Generation in Waveform Space**|Feiyan Zhou et.al.|[2605.18749](http://arxiv.org/abs/2605.18749)|null|
 |**2026-05-18**|**OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding**|Ruixiang Zhao et.al.|[2605.18577](http://arxiv.org/abs/2605.18577)|null|
 |**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194](http://arxiv.org/abs/2605.18194)|null|
-|**2026-05-18**|**PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation**|Tianxin Xie et.al.|[2512.23994](http://arxiv.org/abs/2512.23994)|null|
 |**2026-05-15**|**IsoNet: Spatially-aware audio-visual target speech extraction in complex acoustic environments**|Dinanath Padhya et.al.|[2605.14736](http://arxiv.org/abs/2605.14736)|null|
 |**2026-05-15**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2026-05-14**|**Sound Sparks Motion: Audio and Text Tuning for Video Editing**|AmirHossein Naghi Razlighi et.al.|[2605.15307](http://arxiv.org/abs/2605.15307)|null|
