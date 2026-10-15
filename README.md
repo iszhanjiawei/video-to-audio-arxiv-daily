@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,12 +101,14 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
+|**2026-10-14**|**Designing Textual Interfaces To Enhance Llm Reasoning On Audio-Visual Question Answering**|Yi Wang et.al.|[2610.20085](http://arxiv.org/abs/2610.20085)|null|
 |**2026-10-13**|**VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding**|Haichen He et.al.|[2605.22907](http://arxiv.org/abs/2605.22907)|null|
 |**2026-10-13**|**OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding**|Xuyang Liu et.al.|[2610.18829](http://arxiv.org/abs/2610.18829)|null|
 |**2026-10-13**|**Physics-Aware Deepfake Detection via Distance-Speech Consistency**|Kyeongrae Kim et.al.|[2610.18485](http://arxiv.org/abs/2610.18485)|null|
@@ -137,7 +139,6 @@
 |**2026-10-08**|**Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search**|Khubaib Ahmed et.al.|[2610.12796](http://arxiv.org/abs/2610.12796)|null|
 |**2026-10-08**|**Shift-Aware Identity-Guided Latent Refinement for Referring Audio--Visual Segmentation**|Kun Li et.al.|[2610.12783](http://arxiv.org/abs/2610.12783)|null|
 |**2026-10-08**|**Two-Stage Multi-modal Learning for Dynamic Audio-Visual Navigation: From Physical Alignment to Scene Aggregation**|Jia Li et.al.|[2610.14077](http://arxiv.org/abs/2610.14077)|null|
-|**2026-10-07**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-10-07**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
 |**2026-10-07**|**TiTok: Audio-Visual LLM for Multi-Segment Temporal Grounding**|Eunji Shin et.al.|[2610.09408](http://arxiv.org/abs/2610.09408)|null|
 |**2026-10-07**|**SAVU-BENCH: A Real-World Benchmark for Spatial Audio-Visual Understanding**|Yu Chen et.al.|[2610.10624](http://arxiv.org/abs/2610.10624)|null|
@@ -2163,5 +2164,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
