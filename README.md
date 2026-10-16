@@ -1,4 +1,4 @@
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,14 +101,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
+|**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
+|**2026-10-15**|**To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation**|Haojie Hu et.al.|[2610.21613](http://arxiv.org/abs/2610.21613)|null|
+|**2026-10-15**|**Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs**|Kim Sung-Bin et.al.|[2610.21588](http://arxiv.org/abs/2610.21588)|null|
 |**2026-10-14**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
+|**2026-10-14**|**LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception**|Juyi Lin et.al.|[2609.39938](http://arxiv.org/abs/2609.39938)|null|
 |**2026-10-14**|**Designing Textual Interfaces To Enhance Llm Reasoning On Audio-Visual Question Answering**|Yi Wang et.al.|[2610.20085](http://arxiv.org/abs/2610.20085)|null|
+|**2026-10-14**|**Audio-Visual Dog Identification and Tracking in Real-World Videos**|Aryahvishwa Babu et.al.|[2610.21011](http://arxiv.org/abs/2610.21011)|null|
 |**2026-10-13**|**VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding**|Haichen He et.al.|[2605.22907](http://arxiv.org/abs/2605.22907)|null|
 |**2026-10-13**|**OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding**|Xuyang Liu et.al.|[2610.18829](http://arxiv.org/abs/2610.18829)|null|
 |**2026-10-13**|**Physics-Aware Deepfake Detection via Distance-Speech Consistency**|Kyeongrae Kim et.al.|[2610.18485](http://arxiv.org/abs/2610.18485)|null|
@@ -163,7 +169,6 @@
 |**2026-10-01**|**Supervising Sound Localization by In-the-wild Egomotion**|Anna Min et.al.|[2610.01388](http://arxiv.org/abs/2610.01388)|null|
 |**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
 |**2026-09-30**|**Structured-Noise Masked Modeling for Video, Audio and Beyond**|Aritra Bhowmik et.al.|[2503.16311](http://arxiv.org/abs/2503.16311)|null|
-|**2026-09-30**|**LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception**|Juyi Lin et.al.|[2609.39938](http://arxiv.org/abs/2609.39938)|null|
 |**2026-09-30**|**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**|Junming Lin et.al.|[2609.39490](http://arxiv.org/abs/2609.39490)|null|
 |**2026-09-30**|**OP-CAD: On-Policy Clean-Audio Distillation for Robust Audio-Visual Reasoning**|Xingming Shui et.al.|[2609.39150](http://arxiv.org/abs/2609.39150)|null|
 |**2026-09-30**|**MAV-C: A Framework for the Joint Objective Estimation of Audio-Visual Complexity in Immersive Virtual Environments**|Luca Resti et.al.|[2610.00754](http://arxiv.org/abs/2610.00754)|null|
@@ -2164,5 +2169,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
