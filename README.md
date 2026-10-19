@@ -1,4 +1,4 @@
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,16 +101,22 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
+|**2026-10-16**|**MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025**|Andreas Goulas et.al.|[2610.23214](http://arxiv.org/abs/2610.23214)|null|
+|**2026-10-16**|**Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation**|Shiyao Wang et.al.|[2610.23117](http://arxiv.org/abs/2610.23117)|null|
+|**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
+|**2026-10-16**|**ANCHOR: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark**|Joel Julin et.al.|[2610.22964](http://arxiv.org/abs/2610.22964)|null|
 |**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-15**|**To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation**|Haojie Hu et.al.|[2610.21613](http://arxiv.org/abs/2610.21613)|null|
 |**2026-10-15**|**Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs**|Kim Sung-Bin et.al.|[2610.21588](http://arxiv.org/abs/2610.21588)|null|
+|**2026-10-15**|**JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents**|Junseok Ahn et.al.|[2610.22499](http://arxiv.org/abs/2610.22499)|null|
 |**2026-10-14**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-10-14**|**LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception**|Juyi Lin et.al.|[2609.39938](http://arxiv.org/abs/2609.39938)|null|
 |**2026-10-14**|**Designing Textual Interfaces To Enhance Llm Reasoning On Audio-Visual Question Answering**|Yi Wang et.al.|[2610.20085](http://arxiv.org/abs/2610.20085)|null|
@@ -216,7 +222,6 @@
 |**2026-09-23**|**OmniEcho: Audio-Visual Spatial Understanding for Omni-Modal Embodied Agents**|Ruixun Liu et.al.|[2609.23407](http://arxiv.org/abs/2609.23407)|null|
 |**2026-09-23**|**Realtime-Venus: A full-duplex interaction system with asynchronous delegation**|Ant Group et.al.|[2609.13814](http://arxiv.org/abs/2609.13814)|null|
 |**2026-09-23**|**Intervention, Not Shared Latents: Blocking Visual Shortcuts in Audio-Video Generation**|Jian Xu et.al.|[2609.22361](http://arxiv.org/abs/2609.22361)|null|
-|**2026-09-22**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
 |**2026-09-22**|**OmniFysics-Nano-V2 Technical Report: Understanding the Physical World Across Modalities**|Yizhou Liu et.al.|[2609.25738](http://arxiv.org/abs/2609.25738)|null|
 |**2026-09-22**|**Compositional Failure in Audio-Visual LLMs: Late-Layer Prior Dominance Under Cross-modal Conflict**|Adarsh Sudheer et.al.|[2608.27785](http://arxiv.org/abs/2608.27785)|null|
 |**2026-09-22**|**Unified Multimodal Uncertain Inference**|Dengjia Zhang et.al.|[2604.08701](http://arxiv.org/abs/2604.08701)|null|
@@ -2169,5 +2174,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
