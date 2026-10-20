@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,17 +101,28 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
+|**2026-10-19**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
+|**2026-10-19**|**AVTime: Reinforcing Dense Audio-Visual Captions with Bidirectional Alignment**|Mingyang Wu et.al.|[2610.26046](http://arxiv.org/abs/2610.26046)|null|
+|**2026-10-19**|**OmniGround: Strengthening Omni-Modal Temporal Grounding via Attention-Consistency Training**|Zixuan Chen et.al.|[2610.25929](http://arxiv.org/abs/2610.25929)|null|
+|**2026-10-18**|**Local Evidence, Global Failure: Diagnosing Speech-Vision Temporal Composition in Audio-Visual Language Models**|Jaehong Myung et.al.|[2610.25352](http://arxiv.org/abs/2610.25352)|null|
+|**2026-10-18**|**CASE: Complementary Articulation-Aware Speech Encoder to Enhance Speech-Driven 3D Facial Animation**|Jaehong Myung et.al.|[2610.25342](http://arxiv.org/abs/2610.25342)|null|
+|**2026-10-18**|**Shared-Private Cross-Modal Discrepancy Learning for Imbalanced Multi-Source Audio-Visual Deepfake Detection**|Qiwu Wen et.al.|[2610.25301](http://arxiv.org/abs/2610.25301)|null|
+|**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
+|**2026-10-17**|**MM-LeJEPA: Correlated Gaussian Regularization for Multimodal Joint-Embedding Predictive Architectures**|Haowen Bai et.al.|[2610.24681](http://arxiv.org/abs/2610.24681)|null|
 |**2026-10-16**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
+|**2026-10-16**|**RDSE: Real-Time Directional Speech Enhancement Framework for Dual-Mic Commodity Smartphones**|Chinmay Deo et.al.|[2610.12476](http://arxiv.org/abs/2610.12476)|null|
 |**2026-10-16**|**MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025**|Andreas Goulas et.al.|[2610.23214](http://arxiv.org/abs/2610.23214)|null|
 |**2026-10-16**|**Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation**|Shiyao Wang et.al.|[2610.23117](http://arxiv.org/abs/2610.23117)|null|
 |**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
 |**2026-10-16**|**ANCHOR: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark**|Joel Julin et.al.|[2610.22964](http://arxiv.org/abs/2610.22964)|null|
+|**2026-10-16**|**From Spectrograms to Shallow Speech SSL: Audio-Frontend Design for Generator-Disjoint and Low-Latency Audio--Visual Deepfake Detection**|Qiwu Wen et.al.|[2610.24138](http://arxiv.org/abs/2610.24138)|null|
 |**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-15**|**To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation**|Haojie Hu et.al.|[2610.21613](http://arxiv.org/abs/2610.21613)|null|
@@ -277,7 +288,6 @@
 |**2026-08-28**|**Encore: Infinite Audio-Video Generation with Adaptive Signal Routing**|Shaohua Pan et.al.|[2609.04249](http://arxiv.org/abs/2609.04249)|null|
 |**2026-08-28**|**Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models**|Ami Baid et.al.|[2604.14129](http://arxiv.org/abs/2604.14129)|null|
 |**2026-08-28**|**Diverse via bounded Agreement: Geometric Regularization for Multimodal Fusion**|Zixuan Xia et.al.|[2601.21670](http://arxiv.org/abs/2601.21670)|null|
-|**2026-08-27**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
 |**2026-08-27**|**Mitigating Strong-Modality Collapse in Multimodal Learning via Inverted Asymmetric Fusion**|Mary Ogbuka Kenneth et.al.|[2608.26879](http://arxiv.org/abs/2608.26879)|null|
 |**2026-08-26**|**CAD: Conflict-Aware Decoding to Mitigate Cross-Modal Hallucinations in Omnimodal Large Language Models**|Yuchen Deng et.al.|[2609.04247](http://arxiv.org/abs/2609.04247)|null|
 |**2026-08-26**|**Asymmetric Cross-Modal Fine-Grained Visual Categorization: ACF-Net and the BirdPro Benchmark**|Bohan Deng et.al.|[2608.25520](http://arxiv.org/abs/2608.25520)|null|
@@ -308,7 +318,6 @@
 |**2026-08-15**|**FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data**|Ziting Wang et.al.|[2509.02473](http://arxiv.org/abs/2509.02473)|null|
 |**2026-08-14**|**Separate First, Then Associate: A Two-Stage Approach for Real-World Audio-Visual Speech Enhancement**|Tongtao Ling et.al.|[2608.14812](http://arxiv.org/abs/2608.14812)|null|
 |**2026-08-14**|**H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation**|Aleksandra Teng Ma et.al.|[2608.13957](http://arxiv.org/abs/2608.13957)|null|
-|**2026-08-14**|**RDSE: Real-Time Directional Speech Enhancement Framework for Dual-Mic Commodity Smartphones**|Chinmay Deo et.al.|[2610.12476](http://arxiv.org/abs/2610.12476)|null|
 |**2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Koen P. de Vries et.al.|[2608.13239](http://arxiv.org/abs/2608.13239)|null|
 |**2026-08-13**|**UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos**|Yuxuan Zhang et.al.|[2608.11752](http://arxiv.org/abs/2608.11752)|null|
 |**2026-08-13**|**Optimal Transport-based Semantic Alignment for LLM-based Audio-Visual Speech Recognition**|Xugang Lu et.al.|[2607.09001](http://arxiv.org/abs/2607.09001)|null|
@@ -430,7 +439,6 @@
 |**2026-06-30**|**VGGSounder: Audio-Visual Evaluations for Foundation Models**|Daniil Zverev et.al.|[2508.08237](http://arxiv.org/abs/2508.08237)|null|
 |**2026-06-30**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
 |**2026-06-29**|**AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation**|Kien T. Pham et.al.|[2606.30811](http://arxiv.org/abs/2606.30811)|null|
-|**2026-06-29**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
 |**2026-06-29**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
 |**2026-06-29**|**CueNet: Robust Audio-Visual Speaker Extraction through Cross-Modal Cue Mining and Interaction**|Jiadong Wang et.al.|[2603.01530](http://arxiv.org/abs/2603.01530)|null|
 |**2026-06-29**|**Delayed Bidirectional Alignment via Disentangled Audio Semantics for Audio-Visual Segmentation**|Jingqi Tian et.al.|[2512.20117](http://arxiv.org/abs/2512.20117)|null|
@@ -2174,5 +2182,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
