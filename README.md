@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,16 +101,25 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Binaural Audio-Visual Instance Segmentation**|Saijun Wang et.al.|[2609.32180](http://arxiv.org/abs/2609.32180)|null|
+|**2026-10-20**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Kai Peng et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
+|**2026-10-20**|**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**|Xiaoxing Hu et.al.|[2610.28444](http://arxiv.org/abs/2610.28444)|null|
+|**2026-10-20**|**PI-MLLM: Psychophysics-Inspired Multimodal Large Language Model for Oddly Satisfying Video Emotion Analysis**|Yuheng Zhang et.al.|[2610.28264](http://arxiv.org/abs/2610.28264)|null|
+|**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
 |**2026-10-19**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
 |**2026-10-19**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
+|**2026-10-19**|**LADDER: Landmark-Only Lip-Sync Deepfake Detection Across Generators and Languages**|Hao Chen et.al.|[2604.16808](http://arxiv.org/abs/2604.16808)|null|
 |**2026-10-19**|**AVTime: Reinforcing Dense Audio-Visual Captions with Bidirectional Alignment**|Mingyang Wu et.al.|[2610.26046](http://arxiv.org/abs/2610.26046)|null|
 |**2026-10-19**|**OmniGround: Strengthening Omni-Modal Temporal Grounding via Attention-Consistency Training**|Zixuan Chen et.al.|[2610.25929](http://arxiv.org/abs/2610.25929)|null|
+|**2026-10-19**|**ProMemAgent: Long-Horizon Proactive Assistance with Context-Aware Prospective Memory from Sensory Perceptions**|Lilin Xu et.al.|[2610.27400](http://arxiv.org/abs/2610.27400)|null|
+|**2026-10-19**|**Generalizing Multimodal Foundational Models in Context-Driven Class Incremental Learning**|Avi Gupta et.al.|[2610.27298](http://arxiv.org/abs/2610.27298)|null|
+|**2026-10-19**|**Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs**|Zijian Liu et.al.|[2610.27103](http://arxiv.org/abs/2610.27103)|null|
 |**2026-10-18**|**Local Evidence, Global Failure: Diagnosing Speech-Vision Temporal Composition in Audio-Visual Language Models**|Jaehong Myung et.al.|[2610.25352](http://arxiv.org/abs/2610.25352)|null|
 |**2026-10-18**|**CASE: Complementary Articulation-Aware Speech Encoder to Enhance Speech-Driven 3D Facial Animation**|Jaehong Myung et.al.|[2610.25342](http://arxiv.org/abs/2610.25342)|null|
 |**2026-10-18**|**Shared-Private Cross-Modal Discrepancy Learning for Imbalanced Multi-Source Audio-Visual Deepfake Detection**|Qiwu Wen et.al.|[2610.25301](http://arxiv.org/abs/2610.25301)|null|
@@ -216,7 +225,6 @@
 |**2026-09-26**|**WhisperVC-AV: Audio-Visual Content Restoration for Noise-Robust Whisper-to-Normal Voice Conversion**|Ziyue Yin et.al.|[2609.32843](http://arxiv.org/abs/2609.32843)|null|
 |**2026-09-26**|**OmniSmartHome: A Multimodal Reasoning Benchmark for Smart-Home Agents**|Jihoo Jung et.al.|[2609.32569](http://arxiv.org/abs/2609.32569)|null|
 |**2026-09-26**|**RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation**|Qilang Ye et.al.|[2609.32224](http://arxiv.org/abs/2609.32224)|null|
-|**2026-09-26**|**Binaural Audio-Visual Instance Segmentation**|Saijun Wang et.al.|[2609.32180](http://arxiv.org/abs/2609.32180)|null|
 |**2026-09-26**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-09-26**|**$C^3$ ASD: Multi-Level Consistency-Driven Representation Learning for Robust Active Speaker Detection**|Jin Hong et.al.|[2607.03018](http://arxiv.org/abs/2607.03018)|null|
 |**2026-09-25**|**EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models**|Kunxiong Zhu et.al.|[2609.31551](http://arxiv.org/abs/2609.31551)|null|
@@ -498,7 +506,6 @@
 |**2026-06-01**|**Before Fusion, Ask What to Keep: Contextual Calibration of Multimodal Signals**|Jiyuan Liu et.al.|[2606.02679](http://arxiv.org/abs/2606.02679)|null|
 |**2026-06-01**|**Kinship Verification Using Voice**|Jagabandhu Mishra et.al.|[2606.01704](http://arxiv.org/abs/2606.01704)|null|
 |**2026-06-01**|**Baton: Explicit Semantic Blueprints for Joint Video-Audio Generation**|Shuyuan Tu et.al.|[2605.25195](http://arxiv.org/abs/2605.25195)|null|
-|**2026-06-01**|**BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling**|Hao Chen et.al.|[2604.16808](http://arxiv.org/abs/2604.16808)|null|
 |**2026-05-31**|**SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models**|Chenshuang Zhang et.al.|[2606.02642](http://arxiv.org/abs/2606.02642)|null|
 |**2026-05-31**|**Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation**|Lingyong Yan et.al.|[2602.11790](http://arxiv.org/abs/2602.11790)|null|
 |**2026-05-30**|**Sandboxed Coding Agents are Competitive Omni-modal Task Solvers**|Dongping Chen et.al.|[2606.00579](http://arxiv.org/abs/2606.00579)|null|
@@ -958,7 +965,6 @@
 |**2025-09-26**|**EgoVIS@CVPR: PAIR-Net: Enhancing Egocentric Speaker Detection via Pretrained Audio-Visual Fusion and Alignment Loss**|Yu Wang et.al.|[2506.02247](http://arxiv.org/abs/2506.02247)|null|
 |**2025-09-25**|**Real-Time System for Audio-Visual Target Speech Enhancement**|T. Aleksandra Ma et.al.|[2509.20741](http://arxiv.org/abs/2509.20741)|null|
 |**2025-09-24**|**Audio-Visual Separation with Hierarchical Fusion and Representation Alignment**|Han Hu et.al.|[2510.07326](http://arxiv.org/abs/2510.07326)|null|
-|**2025-09-23**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Yunzhe Shen et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
 |**2025-09-23**|**Dynamic Multi-Target Fusion for Efficient Audio-Visual Navigation**|Yinfeng Yu et.al.|[2509.21377](http://arxiv.org/abs/2509.21377)|null|
 |**2025-09-23**|**SimToken: A Simple Baseline for Referring Audio-Visual Segmentation**|Dian Jin et.al.|[2509.17537](http://arxiv.org/abs/2509.17537)|null|
 |**2025-09-23**|**Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**|Tan-Hanh Pham et.al.|[2508.12587](http://arxiv.org/abs/2508.12587)|null|
@@ -2182,5 +2188,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
