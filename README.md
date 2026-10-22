@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,15 +101,16 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**|Xiaoxing Hu et.al.|[2610.28444](http://arxiv.org/abs/2610.28444)|null|
+|**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|null|
 |**2026-10-20**|**Binaural Audio-Visual Instance Segmentation**|Saijun Wang et.al.|[2609.32180](http://arxiv.org/abs/2609.32180)|null|
 |**2026-10-20**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Kai Peng et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
-|**2026-10-20**|**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**|Xiaoxing Hu et.al.|[2610.28444](http://arxiv.org/abs/2610.28444)|null|
 |**2026-10-20**|**PI-MLLM: Psychophysics-Inspired Multimodal Large Language Model for Oddly Satisfying Video Emotion Analysis**|Yuheng Zhang et.al.|[2610.28264](http://arxiv.org/abs/2610.28264)|null|
 |**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
 |**2026-10-19**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
@@ -2188,5 +2189,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
