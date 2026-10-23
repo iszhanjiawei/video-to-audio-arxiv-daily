@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,12 +101,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Lip-Focused Audio-Visual Consistency Detects Speech Content Manipulation beyond Coarse Synchronization**|Jian Zong et.al.|[2610.30872](http://arxiv.org/abs/2610.30872)|null|
+|**2026-10-22**|**CAVC: Convergence-Adaptive Audio-Visual Cache for Modality-Asymmetric Diffusion Generation**|Lifan Jiang et.al.|[2610.30854](http://arxiv.org/abs/2610.30854)|null|
+|**2026-10-22**|**AGF-Net: A Robust Multimodal Emotion Recognition Model for Asynchronous Audio-Visual Signals Based on Predictive Dynamic Fusion with Negative Learning**|Chuan Han Li et.al.|[2610.30651](http://arxiv.org/abs/2610.30651)|null|
 |**2026-10-21**|**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**|Xiaoxing Hu et.al.|[2610.28444](http://arxiv.org/abs/2610.28444)|null|
 |**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|null|
 |**2026-10-20**|**Binaural Audio-Visual Instance Segmentation**|Saijun Wang et.al.|[2609.32180](http://arxiv.org/abs/2609.32180)|null|
@@ -2189,5 +2192,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
