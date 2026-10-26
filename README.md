@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -101,15 +101,22 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
+|**2026-10-23**|**Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes**|Wendi Sang et.al.|[2610.32749](http://arxiv.org/abs/2610.32749)|null|
+|**2026-10-23**|**A Broader Look into MLLM's Retrieval Heads**|Jia Wang et.al.|[2610.32411](http://arxiv.org/abs/2610.32411)|null|
+|**2026-10-23**|**RVG-Bench: A Benchmark for Reasoning-Driven Audio-Visual Temporal Grounding**|Yue Feng et.al.|[2610.32268](http://arxiv.org/abs/2610.32268)|null|
+|**2026-10-23**|**X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints**|Jeongsoo Choi et.al.|[2610.32042](http://arxiv.org/abs/2610.32042)|null|
 |**2026-10-22**|**Lip-Focused Audio-Visual Consistency Detects Speech Content Manipulation beyond Coarse Synchronization**|Jian Zong et.al.|[2610.30872](http://arxiv.org/abs/2610.30872)|null|
 |**2026-10-22**|**CAVC: Convergence-Adaptive Audio-Visual Cache for Modality-Asymmetric Diffusion Generation**|Lifan Jiang et.al.|[2610.30854](http://arxiv.org/abs/2610.30854)|null|
 |**2026-10-22**|**AGF-Net: A Robust Multimodal Emotion Recognition Model for Asynchronous Audio-Visual Signals Based on Predictive Dynamic Fusion with Negative Learning**|Chuan Han Li et.al.|[2610.30651](http://arxiv.org/abs/2610.30651)|null|
+|**2026-10-22**|**DRAMA-Eval: A Benchmark for Context-Aware, Multi-Turn, Multi-Speaker Speech Generation**|Jingbin Hu et.al.|[2610.31796](http://arxiv.org/abs/2610.31796)|null|
+|**2026-10-22**|**ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis**|Pan Wang et.al.|[2610.31731](http://arxiv.org/abs/2610.31731)|null|
 |**2026-10-21**|**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**|Xiaoxing Hu et.al.|[2610.28444](http://arxiv.org/abs/2610.28444)|null|
 |**2026-10-21**|**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**|Hong Ting Tsang et.al.|[2610.29249](http://arxiv.org/abs/2610.29249)|null|
 |**2026-10-20**|**Binaural Audio-Visual Instance Segmentation**|Saijun Wang et.al.|[2609.32180](http://arxiv.org/abs/2609.32180)|null|
@@ -130,6 +137,8 @@
 |**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-17**|**MM-LeJEPA: Correlated Gaussian Regularization for Multimodal Joint-Embedding Predictive Architectures**|Haowen Bai et.al.|[2610.24681](http://arxiv.org/abs/2610.24681)|null|
 |**2026-10-16**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
+|**2026-10-16**|**Vorch-Human: Unified Multi-Task Human-Centric Generation via Long-Horizon Continuation**|Yang Ding et.al.|[2609.26117](http://arxiv.org/abs/2609.26117)|null|
+|**2026-10-16**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-10-16**|**RDSE: Real-Time Directional Speech Enhancement Framework for Dual-Mic Commodity Smartphones**|Chinmay Deo et.al.|[2610.12476](http://arxiv.org/abs/2610.12476)|null|
 |**2026-10-16**|**MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025**|Andreas Goulas et.al.|[2610.23214](http://arxiv.org/abs/2610.23214)|null|
 |**2026-10-16**|**Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation**|Shiyao Wang et.al.|[2610.23117](http://arxiv.org/abs/2610.23117)|null|
@@ -355,12 +364,10 @@
 |**2026-08-07**|**Training-Free Speech-Centric Omni Understanding with Frozen VLMs**|Ankan Deria et.al.|[2609.04242](http://arxiv.org/abs/2609.04242)|null|
 |**2026-08-07**|**AVCap: Reinforcing Audio-Video Joint Caption with Detail-Aware Reward**|Mingyang Wu et.al.|[2608.06930](http://arxiv.org/abs/2608.06930)|null|
 |**2026-08-07**|**MMAG: A Multi-Control Mixed Audio Generation Benchmark**|Zihao Zheng et.al.|[2608.06900](http://arxiv.org/abs/2608.06900)|null|
-|**2026-08-07**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-08-07**|**Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation**|Qin Chen et.al.|[2603.17889](http://arxiv.org/abs/2603.17889)|null|
 |**2026-08-06**|**Whence the Voice? Self-supervised Dual-source Audio-Visual Localisation via Selective Convergence**|Han Hu et.al.|[2608.05816](http://arxiv.org/abs/2608.05816)|null|
 |**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
 |**2026-08-06**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
-|**2026-08-06**|**Vorch-Human: Unified Multi-Task Human-Centric Generation via Long-Horizon Continuation**|Yang Ding et.al.|[2609.26117](http://arxiv.org/abs/2609.26117)|null|
 |**2026-08-06**|**StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding**|Xichen Zhang et.al.|[2608.05703](http://arxiv.org/abs/2608.05703)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
@@ -2192,5 +2199,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
