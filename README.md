@@ -1,4 +1,4 @@
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**A Multimodal Framework for Measuring Creator Communication on Short-Form Video**|Julie R. Ancis et.al.|[2610.33043](http://arxiv.org/abs/2610.33043)|null|
 |**2026-10-08**|**Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
 |**2026-10-05**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
 |**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
@@ -101,12 +102,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**|Junming Lin et.al.|[2609.39490](http://arxiv.org/abs/2609.39490)|null|
+|**2026-10-25**|**AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360 $^\circ$ Videos**|Qingyu Luo et.al.|[2610.34401](http://arxiv.org/abs/2610.34401)|null|
+|**2026-10-24**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
+|**2026-10-24**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
+|**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](http://arxiv.org/abs/2610.33413)|null|
+|**2026-10-24**|**AdShot: Benchmarking Multimodal Large Language Models for Video Advertisement Clipping**|Wen Xie et.al.|[2610.33377](http://arxiv.org/abs/2610.33377)|null|
 |**2026-10-23**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
 |**2026-10-23**|**Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes**|Wendi Sang et.al.|[2610.32749](http://arxiv.org/abs/2610.32749)|null|
 |**2026-10-23**|**A Broader Look into MLLM's Retrieval Heads**|Jia Wang et.al.|[2610.32411](http://arxiv.org/abs/2610.32411)|null|
@@ -208,7 +215,6 @@
 |**2026-10-01**|**Supervising Sound Localization by In-the-wild Egomotion**|Anna Min et.al.|[2610.01388](http://arxiv.org/abs/2610.01388)|null|
 |**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
 |**2026-09-30**|**Structured-Noise Masked Modeling for Video, Audio and Beyond**|Aritra Bhowmik et.al.|[2503.16311](http://arxiv.org/abs/2503.16311)|null|
-|**2026-09-30**|**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**|Junming Lin et.al.|[2609.39490](http://arxiv.org/abs/2609.39490)|null|
 |**2026-09-30**|**OP-CAD: On-Policy Clean-Audio Distillation for Robust Audio-Visual Reasoning**|Xingming Shui et.al.|[2609.39150](http://arxiv.org/abs/2609.39150)|null|
 |**2026-09-30**|**MAV-C: A Framework for the Joint Objective Estimation of Audio-Visual Complexity in Immersive Virtual Environments**|Luca Resti et.al.|[2610.00754](http://arxiv.org/abs/2610.00754)|null|
 |**2026-09-30**|**PLACE: Positional Latent Adaptation via Conditioned Embeddings for Binaural Audio Generation**|Tiernon Riesenmy et.al.|[2610.00630](http://arxiv.org/abs/2610.00630)|null|
@@ -366,8 +372,6 @@
 |**2026-08-07**|**MMAG: A Multi-Control Mixed Audio Generation Benchmark**|Zihao Zheng et.al.|[2608.06900](http://arxiv.org/abs/2608.06900)|null|
 |**2026-08-07**|**Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation**|Qin Chen et.al.|[2603.17889](http://arxiv.org/abs/2603.17889)|null|
 |**2026-08-06**|**Whence the Voice? Self-supervised Dual-source Audio-Visual Localisation via Selective Convergence**|Han Hu et.al.|[2608.05816](http://arxiv.org/abs/2608.05816)|null|
-|**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
-|**2026-08-06**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
 |**2026-08-06**|**StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding**|Xichen Zhang et.al.|[2608.05703](http://arxiv.org/abs/2608.05703)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
@@ -2199,5 +2203,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
