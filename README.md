@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -102,13 +102,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-27**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-29**|**SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization**|Derong Jin et.al.|[2610.40640](http://arxiv.org/abs/2610.40640)|null|
+|**2026-10-29**|**AVPS-360: A Spatial Audio-Visual Benchmark for Instance Segmentation and Tracking of Sound-Producing Persons**|Yifu Sun et.al.|[2610.40480](http://arxiv.org/abs/2610.40480)|null|
+|**2026-10-28**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
+|**2026-10-28**|**Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation**|Yi Wang et.al.|[2610.38960](http://arxiv.org/abs/2610.38960)|null|
+|**2026-10-27**|**FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving**|Yaqi Qiao et.al.|[2607.12121](http://arxiv.org/abs/2607.12121)|null|
+|**2026-10-27**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
 |**2026-10-27**|**A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**|Zhan Jin et.al.|[2610.36834](http://arxiv.org/abs/2610.36834)|null|
 |**2026-10-27**|**Tap2Listen: Instant Target Switching for Streaming Audio-Visual Speaker Extraction**|Hansol Park et.al.|[2610.36643](http://arxiv.org/abs/2610.36643)|null|
 |**2026-10-26**|**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**|Junming Lin et.al.|[2609.39490](http://arxiv.org/abs/2609.39490)|null|
@@ -194,7 +199,6 @@
 |**2026-10-08**|**Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search**|Khubaib Ahmed et.al.|[2610.12796](http://arxiv.org/abs/2610.12796)|null|
 |**2026-10-08**|**Shift-Aware Identity-Guided Latent Refinement for Referring Audio--Visual Segmentation**|Kun Li et.al.|[2610.12783](http://arxiv.org/abs/2610.12783)|null|
 |**2026-10-08**|**Two-Stage Multi-modal Learning for Dynamic Audio-Visual Navigation: From Physical Alignment to Scene Aggregation**|Jia Li et.al.|[2610.14077](http://arxiv.org/abs/2610.14077)|null|
-|**2026-10-07**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
 |**2026-10-07**|**TiTok: Audio-Visual LLM for Multi-Segment Temporal Grounding**|Eunji Shin et.al.|[2610.09408](http://arxiv.org/abs/2610.09408)|null|
 |**2026-10-07**|**SAVU-BENCH: A Real-World Benchmark for Spatial Audio-Visual Understanding**|Yu Chen et.al.|[2610.10624](http://arxiv.org/abs/2610.10624)|null|
 |**2026-10-06**|**TAC: Timestamped Audio Captioning**|Sonal Kumar et.al.|[2602.15766](http://arxiv.org/abs/2602.15766)|null|
@@ -423,7 +427,6 @@
 |**2026-07-16**|**Transformer-Based Token Fusion and Dynamic Graph Planning for Audio-Visual Navigation**|Shaohang Wu et.al.|[2609.17421](http://arxiv.org/abs/2609.17421)|null|
 |**2026-07-15**|**MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation**|Xiaohan Zhang et.al.|[2607.14189](http://arxiv.org/abs/2607.14189)|null|
 |**2026-07-15**|**Learning Speaker Identity Beyond Language and Modality Constraints: Insights from the POLY-SIM 2026 Challenge**|Marta Moscati et.al.|[2607.13669](http://arxiv.org/abs/2607.13669)|null|
-|**2026-07-15**|**FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving**|Yaqi Qiao et.al.|[2607.12121](http://arxiv.org/abs/2607.12121)|null|
 |**2026-07-15**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
 |**2026-07-15**|**Motubrain: An Advanced World Action Model for Robot Control**|Motubrain Team et.al.|[2604.27792](http://arxiv.org/abs/2604.27792)|null|
 |**2026-07-15**|**LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement**|Chih-Ning Chen et.al.|[2603.13952](http://arxiv.org/abs/2603.13952)|null|
@@ -2205,5 +2208,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
