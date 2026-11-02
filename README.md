@@ -1,4 +1,4 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -102,12 +102,14 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
+|**2026-10-30**|**AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360 $^\circ$ Videos**|Qingyu Luo et.al.|[2610.34401](http://arxiv.org/abs/2610.34401)|null|
 |**2026-10-29**|**SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization**|Derong Jin et.al.|[2610.40640](http://arxiv.org/abs/2610.40640)|null|
 |**2026-10-29**|**AVPS-360: A Spatial Audio-Visual Benchmark for Instance Segmentation and Tracking of Sound-Producing Persons**|Yifu Sun et.al.|[2610.40480](http://arxiv.org/abs/2610.40480)|null|
 |**2026-10-28**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
@@ -117,12 +119,10 @@
 |**2026-10-27**|**A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**|Zhan Jin et.al.|[2610.36834](http://arxiv.org/abs/2610.36834)|null|
 |**2026-10-27**|**Tap2Listen: Instant Target Switching for Streaming Audio-Visual Speaker Extraction**|Hansol Park et.al.|[2610.36643](http://arxiv.org/abs/2610.36643)|null|
 |**2026-10-26**|**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**|Junming Lin et.al.|[2609.39490](http://arxiv.org/abs/2609.39490)|null|
-|**2026-10-25**|**AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360 $^\circ$ Videos**|Qingyu Luo et.al.|[2610.34401](http://arxiv.org/abs/2610.34401)|null|
 |**2026-10-24**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
 |**2026-10-24**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
 |**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](http://arxiv.org/abs/2610.33413)|null|
 |**2026-10-24**|**AdShot: Benchmarking Multimodal Large Language Models for Video Advertisement Clipping**|Wen Xie et.al.|[2610.33377](http://arxiv.org/abs/2610.33377)|null|
-|**2026-10-23**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
 |**2026-10-23**|**Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes**|Wendi Sang et.al.|[2610.32749](http://arxiv.org/abs/2610.32749)|null|
 |**2026-10-23**|**A Broader Look into MLLM's Retrieval Heads**|Jia Wang et.al.|[2610.32411](http://arxiv.org/abs/2610.32411)|null|
 |**2026-10-23**|**RVG-Bench: A Benchmark for Reasoning-Driven Audio-Visual Temporal Grounding**|Yue Feng et.al.|[2610.32268](http://arxiv.org/abs/2610.32268)|null|
@@ -2208,5 +2208,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
