@@ -109,6 +109,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-11-02**|**ViSSFlow: Unifying Video-Conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
+|**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
+|**2026-11-02**|**CrowdForge: Effects of Audio and Visual Audience Participation Modalities on Agency, Collaboration, and Engagement in AI-Mediated MR Performances**|Torin Hopkins et.al.|[2611.03389](http://arxiv.org/abs/2611.03389)|null|
+|**2026-11-02**|**R $^2$ -Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation**|Bolong Feng et.al.|[2611.03247](http://arxiv.org/abs/2611.03247)|null|
 |**2026-11-01**|**Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation**|Yi Wang et.al.|[2610.38960](http://arxiv.org/abs/2610.38960)|null|
 |**2026-10-31**|**Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions**|Ziyang Lin et.al.|[2611.00524](http://arxiv.org/abs/2611.00524)|null|
 |**2026-10-30**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
