@@ -1,4 +1,4 @@
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -102,18 +102,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**ViSSFlow: Unifying Video-Conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
+|**2026-11-01**|**Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation**|Yi Wang et.al.|[2610.38960](http://arxiv.org/abs/2610.38960)|null|
+|**2026-10-31**|**Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions**|Ziyang Lin et.al.|[2611.00524](http://arxiv.org/abs/2611.00524)|null|
 |**2026-10-30**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
 |**2026-10-30**|**AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360 $^\circ$ Videos**|Qingyu Luo et.al.|[2610.34401](http://arxiv.org/abs/2610.34401)|null|
 |**2026-10-29**|**SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization**|Derong Jin et.al.|[2610.40640](http://arxiv.org/abs/2610.40640)|null|
 |**2026-10-29**|**AVPS-360: A Spatial Audio-Visual Benchmark for Instance Segmentation and Tracking of Sound-Producing Persons**|Yifu Sun et.al.|[2610.40480](http://arxiv.org/abs/2610.40480)|null|
 |**2026-10-28**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[2610.02181](http://arxiv.org/abs/2610.02181)|null|
-|**2026-10-28**|**Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation**|Yi Wang et.al.|[2610.38960](http://arxiv.org/abs/2610.38960)|null|
 |**2026-10-27**|**FlashDiff: Efficient Regional Execution and Scheduling for Diffusion Model Serving**|Yaqi Qiao et.al.|[2607.12121](http://arxiv.org/abs/2607.12121)|null|
 |**2026-10-27**|**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**|William Chen et.al.|[2610.10264](http://arxiv.org/abs/2610.10264)|null|
 |**2026-10-27**|**A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**|Zhan Jin et.al.|[2610.36834](http://arxiv.org/abs/2610.36834)|null|
@@ -697,7 +699,6 @@
 |**2026-03-20**|**Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio**|Candice R. Gerstner et.al.|[2603.20165](http://arxiv.org/abs/2603.20165)|null|
 |**2026-03-20**|**Semantic Audio-Visual Navigation in Continuous Environments**|Yichen Zeng et.al.|[2603.19660](http://arxiv.org/abs/2603.19660)|null|
 |**2026-03-20**|**AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer**|Pengjun Fang et.al.|[2603.15597](http://arxiv.org/abs/2603.15597)|null|
-|**2026-03-20**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|null|
 |**2026-03-19**|**Evaluating Hallucinations in Audio-Visual Multimodal LLMs with Spoken Queries under Diverse Acoustic Conditions**|Hansol Park et.al.|[2510.08581](http://arxiv.org/abs/2510.08581)|null|
 |**2026-03-17**|**Diffusion Models for Joint Audio-Video Generation**|Alejandro Paredes La Torre et.al.|[2603.16093](http://arxiv.org/abs/2603.16093)|null|
@@ -2208,5 +2209,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
