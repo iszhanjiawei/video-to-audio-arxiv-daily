@@ -1,4 +1,4 @@
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Pengfei Zhou et.al.|[2611.05275](http://arxiv.org/abs/2611.05275)|null|
 |**2026-10-16**|**A Multimodal Framework for Measuring Creator Communication on Short-Form Video**|Julie R. Ancis et.al.|[2610.33043](http://arxiv.org/abs/2610.33043)|null|
 |**2026-10-08**|**Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
 |**2026-10-05**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
@@ -102,16 +103,19 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs**|Wish Suharitdamrong et.al.|[2606.10147](http://arxiv.org/abs/2606.10147)|null|
 |**2026-11-02**|**ViSSFlow: Unifying Video-Conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-02**|**CrowdForge: Effects of Audio and Visual Audience Participation Modalities on Agency, Collaboration, and Engagement in AI-Mediated MR Performances**|Torin Hopkins et.al.|[2611.03389](http://arxiv.org/abs/2611.03389)|null|
 |**2026-11-02**|**R $^2$ -Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation**|Bolong Feng et.al.|[2611.03247](http://arxiv.org/abs/2611.03247)|null|
+|**2026-11-02**|**MusiSPARQ: Subscription-Aware Adaptive Resource Control for Musical Metaverse Services**|Ali Al Housseini et.al.|[2611.04011](http://arxiv.org/abs/2611.04011)|null|
+|**2026-11-02**|**When Music Needs Meaning: Semantic Communication as a Transformative Enabler for the Musical Metaverse**|Ali Al Housseini et.al.|[2611.03995](http://arxiv.org/abs/2611.03995)|null|
 |**2026-11-01**|**Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation**|Yi Wang et.al.|[2610.38960](http://arxiv.org/abs/2610.38960)|null|
 |**2026-10-31**|**Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions**|Ziyang Lin et.al.|[2611.00524](http://arxiv.org/abs/2611.00524)|null|
 |**2026-10-30**|**Sounding Surgical Instrument Localisation through Audio-Visual Correspondence**|Dominic Behling et.al.|[2610.32816](http://arxiv.org/abs/2610.32816)|null|
@@ -506,7 +510,6 @@
 |**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
 |**2026-06-09**|**Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio**|Avi Gupta et.al.|[2606.10887](http://arxiv.org/abs/2606.10887)|null|
 |**2026-06-09**|**Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning**|Zihan Meng et.al.|[2606.10533](http://arxiv.org/abs/2606.10533)|null|
-|**2026-06-08**|**From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs**|Wish Suharitdamrong et.al.|[2606.10147](http://arxiv.org/abs/2606.10147)|null|
 |**2026-06-08**|**SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM**|An Yu et.al.|[2511.14143](http://arxiv.org/abs/2511.14143)|null|
 |**2026-06-07**|**OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning**|Jiahao Wang et.al.|[2606.08572](http://arxiv.org/abs/2606.08572)|null|
 |**2026-06-07**|**SMC-ITA: Sequential Monte Carlo Inference-Time Alignment for Video-to-Audio Generation**|Haoyu Zhang et.al.|[2606.08393](http://arxiv.org/abs/2606.08393)|null|
@@ -2212,5 +2215,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
