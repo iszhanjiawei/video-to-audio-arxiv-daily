@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,12 +103,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
+|**2026-11-04**|**Which One Is Sounding? Binaural Sounding Instance Disambiguation for Audio-Visual Segmentation**|Haoze Ma et.al.|[2611.06074](http://arxiv.org/abs/2611.06074)|null|
+|**2026-11-04**|**LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds**|Yusheng Dai et.al.|[2611.05988](http://arxiv.org/abs/2611.05988)|null|
 |**2026-11-02**|**From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs**|Wish Suharitdamrong et.al.|[2606.10147](http://arxiv.org/abs/2606.10147)|null|
 |**2026-11-02**|**ViSSFlow: Unifying Video-Conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
@@ -147,6 +150,7 @@
 |**2026-10-20**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Kai Peng et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
 |**2026-10-20**|**PI-MLLM: Psychophysics-Inspired Multimodal Large Language Model for Oddly Satisfying Video Emotion Analysis**|Yuheng Zhang et.al.|[2610.28264](http://arxiv.org/abs/2610.28264)|null|
 |**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
+|**2026-10-20**|**When Does Sharing Work? Scaling a Shared SigLIP2 Across Image, Video, Audio, and Audio-Visual Representations**|Xiaofei Sun et.al.|[2611.05406](http://arxiv.org/abs/2611.05406)|null|
 |**2026-10-19**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
 |**2026-10-19**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
 |**2026-10-19**|**LADDER: Landmark-Only Lip-Sync Deepfake Detection Across Generators and Languages**|Hao Chen et.al.|[2604.16808](http://arxiv.org/abs/2604.16808)|null|
@@ -398,7 +402,6 @@
 |**2026-08-04**|**Hear to See: Discerning Stateful Listening for Audio-Visual Instance Segmentation**|Leiye Liu et.al.|[2608.03264](http://arxiv.org/abs/2608.03264)|null|
 |**2026-08-04**|**Geometric Cross-Modal Token Selection for Latency-Constrained Multimodal Token Communication**|Joohyuk Park et.al.|[2608.03141](http://arxiv.org/abs/2608.03141)|null|
 |**2026-08-04**|**Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics**|Jiahua Wang et.al.|[2512.00883](http://arxiv.org/abs/2512.00883)|null|
-|**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
 |**2026-08-01**|**Blind Source Separation Can Distort Behavior and Connectivity Analyses of Calcium Transients**|Adedayo S. A et.al.|[2608.00655](http://arxiv.org/abs/2608.00655)|null|
@@ -2215,5 +2218,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
