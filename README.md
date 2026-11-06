@@ -1,4 +1,4 @@
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,12 +103,17 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
+|**2026-11-05**|**Your Multimodal Speech Model Says I Have a Face for Radio**|Maya K. Nachesa et.al.|[2605.30472](http://arxiv.org/abs/2605.30472)|null|
+|**2026-11-05**|**THG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning**|Jisheng Dang et.al.|[2611.07836](http://arxiv.org/abs/2611.07836)|null|
+|**2026-11-05**|**Auditory and Visual Virtualization in 6DoF XR: Effects on Plausibility and Dynamic Auditory Distance Perception**|Johannes M. Arend et.al.|[2611.07612](http://arxiv.org/abs/2611.07612)|null|
+|**2026-11-05**|**Where Do Reported Long-Video QA Gains Come From? A Controlled Audit of Frame Selection, Evidence Injection, and Expert Routing**|Shih-Yao Lin et.al.|[2611.07329](http://arxiv.org/abs/2611.07329)|null|
 |**2026-11-04**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-11-04**|**Which One Is Sounding? Binaural Sounding Instance Disambiguation for Audio-Visual Segmentation**|Haoze Ma et.al.|[2611.06074](http://arxiv.org/abs/2611.06074)|null|
 |**2026-11-04**|**LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds**|Yusheng Dai et.al.|[2611.05988](http://arxiv.org/abs/2611.05988)|null|
@@ -164,7 +169,6 @@
 |**2026-10-18**|**Shared-Private Cross-Modal Discrepancy Learning for Imbalanced Multi-Source Audio-Visual Deepfake Detection**|Qiwu Wen et.al.|[2610.25301](http://arxiv.org/abs/2610.25301)|null|
 |**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-17**|**MM-LeJEPA: Correlated Gaussian Regularization for Multimodal Joint-Embedding Predictive Architectures**|Haowen Bai et.al.|[2610.24681](http://arxiv.org/abs/2610.24681)|null|
-|**2026-10-16**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
 |**2026-10-16**|**Vorch-Human: Unified Multi-Task Human-Centric Generation via Long-Horizon Continuation**|Yang Ding et.al.|[2609.26117](http://arxiv.org/abs/2609.26117)|null|
 |**2026-10-16**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-10-16**|**RDSE: Real-Time Directional Speech Enhancement Framework for Dual-Mic Commodity Smartphones**|Chinmay Deo et.al.|[2610.12476](http://arxiv.org/abs/2610.12476)|null|
@@ -545,7 +549,6 @@
 |**2026-05-29**|**SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing**|Sen Liang et.al.|[2605.25193](http://arxiv.org/abs/2605.25193)|null|
 |**2026-05-29**|**Do Joint Audio-Video Generation Models Understand Physics?**|Zijun Cui et.al.|[2605.07061](http://arxiv.org/abs/2605.07061)|null|
 |**2026-05-29**|**Multimodal Fusion via Self-Consistent Task-Gradient Fields**|Jiayu Xiong et.al.|[2410.15475](http://arxiv.org/abs/2410.15475)|null|
-|**2026-05-28**|**Your Multimodal Speech Model Says I Have a Face for Radio**|Maya K. Nachesa et.al.|[2605.30472](http://arxiv.org/abs/2605.30472)|null|
 |**2026-05-28**|**Benchmarking Single-Factor Physical Video-to-Audio Generation**|Tingle Li et.al.|[2605.30339](http://arxiv.org/abs/2605.30339)|null|
 |**2026-05-28**|**Native Audio-Visual Alignment for Generation**|Longbin Ji et.al.|[2605.30073](http://arxiv.org/abs/2605.30073)|null|
 |**2026-05-28**|**DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform**|Naisha Minnah et.al.|[2605.29353](http://arxiv.org/abs/2605.29353)|null|
@@ -2218,5 +2221,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
