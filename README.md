@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,13 +103,18 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**REAL-2MIX: Evaluating Identity Faithfulness in Audio-Visual Target Speaker Extraction**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
+|**2026-11-06**|**To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation**|Haojie Hu et.al.|[2610.21613](http://arxiv.org/abs/2610.21613)|null|
+|**2026-11-06**|**AISHELL8-FISHEYE: A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines**|Peijun Yang et.al.|[2611.09368](http://arxiv.org/abs/2611.09368)|null|
+|**2026-11-06**|**Bootstrap Your Own AV-Proxies: Adaptive Contrastive and Prototype Learning for Audio-Visual Segmentation**|Junbo Zhang et.al.|[2611.09191](http://arxiv.org/abs/2611.09191)|null|
 |**2026-11-05**|**TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum**|Xinyue Guo et.al.|[2609.25864](http://arxiv.org/abs/2609.25864)|null|
+|**2026-11-05**|**From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs**|Wish Suharitdamrong et.al.|[2606.10147](http://arxiv.org/abs/2606.10147)|null|
 |**2026-11-05**|**Your Multimodal Speech Model Says I Have a Face for Radio**|Maya K. Nachesa et.al.|[2605.30472](http://arxiv.org/abs/2605.30472)|null|
 |**2026-11-05**|**THG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning**|Jisheng Dang et.al.|[2611.07836](http://arxiv.org/abs/2611.07836)|null|
 |**2026-11-05**|**Auditory and Visual Virtualization in 6DoF XR: Effects on Plausibility and Dynamic Auditory Distance Perception**|Johannes M. Arend et.al.|[2611.07612](http://arxiv.org/abs/2611.07612)|null|
@@ -117,7 +122,6 @@
 |**2026-11-04**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-11-04**|**Which One Is Sounding? Binaural Sounding Instance Disambiguation for Audio-Visual Segmentation**|Haoze Ma et.al.|[2611.06074](http://arxiv.org/abs/2611.06074)|null|
 |**2026-11-04**|**LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds**|Yusheng Dai et.al.|[2611.05988](http://arxiv.org/abs/2611.05988)|null|
-|**2026-11-02**|**From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs**|Wish Suharitdamrong et.al.|[2606.10147](http://arxiv.org/abs/2606.10147)|null|
 |**2026-11-02**|**ViSSFlow: Unifying Video-Conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-02**|**CrowdForge: Effects of Audio and Visual Audience Participation Modalities on Agency, Collaboration, and Engagement in AI-Mediated MR Performances**|Torin Hopkins et.al.|[2611.03389](http://arxiv.org/abs/2611.03389)|null|
@@ -179,7 +183,6 @@
 |**2026-10-16**|**From Spectrograms to Shallow Speech SSL: Audio-Frontend Design for Generator-Disjoint and Low-Latency Audio--Visual Deepfake Detection**|Qiwu Wen et.al.|[2610.24138](http://arxiv.org/abs/2610.24138)|null|
 |**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
-|**2026-10-15**|**To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation**|Haojie Hu et.al.|[2610.21613](http://arxiv.org/abs/2610.21613)|null|
 |**2026-10-15**|**Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs**|Kim Sung-Bin et.al.|[2610.21588](http://arxiv.org/abs/2610.21588)|null|
 |**2026-10-15**|**JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents**|Junseok Ahn et.al.|[2610.22499](http://arxiv.org/abs/2610.22499)|null|
 |**2026-10-14**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
@@ -398,7 +401,6 @@
 |**2026-08-06**|**StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding**|Xichen Zhang et.al.|[2608.05703](http://arxiv.org/abs/2608.05703)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
-|**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-05**|**Visual Representation Matters: Exploiting Temporal Differences in Video-to-Audio Generation**|Zehua Chen et.al.|[2608.04902](http://arxiv.org/abs/2608.04902)|null|
 |**2026-08-05**|**EmpaAva: An Open-source Agentic 3D-Avatar Empathetic Live Chatbot**|Jie Yang et.al.|[2608.04709](http://arxiv.org/abs/2608.04709)|null|
 |**2026-08-05**|**Reading Less While Writing: A Closed-Form Bandwidth Dial for Streaming Multimodal Decoders**|Yasir Mehmood et.al.|[2609.20845](http://arxiv.org/abs/2609.20845)|null|
@@ -2221,5 +2223,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
