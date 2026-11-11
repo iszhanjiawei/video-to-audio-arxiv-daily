@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,12 +103,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
+|**2026-11-10**|**AVCC: Audio-Visual Conversation Corpus for Turn-Taking Prediction with a Human Benchmark**|Haotian Qi et.al.|[2611.13957](http://arxiv.org/abs/2611.13957)|null|
+|**2026-11-10**|**DASWeave: Weaving Evidence across Speaking Conditions for Multimodal Depression, Anxiety, and Stress Screening**|Binyan Chen et.al.|[2611.13544](http://arxiv.org/abs/2611.13544)|null|
 |**2026-11-09**|**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**|Xiaoxing Hu et.al.|[2610.28444](http://arxiv.org/abs/2610.28444)|null|
 |**2026-11-09**|**MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection**|Donghyun Kim et.al.|[2611.11989](http://arxiv.org/abs/2611.11989)|null|
 |**2026-11-07**|**LAION-BVD: A 13-Million-Hour Open Video Dataset for Multimodal Pre-training**|Andreas Hochlehnert et.al.|[2608.24845](http://arxiv.org/abs/2608.24845)|null|
@@ -162,7 +165,6 @@
 |**2026-10-20**|**Binaural Audio-Visual Instance Segmentation**|Saijun Wang et.al.|[2609.32180](http://arxiv.org/abs/2609.32180)|null|
 |**2026-10-20**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Kai Peng et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
 |**2026-10-20**|**PI-MLLM: Psychophysics-Inspired Multimodal Large Language Model for Oddly Satisfying Video Emotion Analysis**|Yuheng Zhang et.al.|[2610.28264](http://arxiv.org/abs/2610.28264)|null|
-|**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
 |**2026-10-20**|**When Does Sharing Work? Scaling a Shared SigLIP2 Across Image, Video, Audio, and Audio-Visual Representations**|Xiaofei Sun et.al.|[2611.05406](http://arxiv.org/abs/2611.05406)|null|
 |**2026-10-19**|**Omni-Interactive Universal Embedder**|Wei-Yao Wang et.al.|[2608.27044](http://arxiv.org/abs/2608.27044)|null|
 |**2026-10-19**|**From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation**|Shuchang Ye et.al.|[2606.30059](http://arxiv.org/abs/2606.30059)|null|
@@ -2225,5 +2227,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
