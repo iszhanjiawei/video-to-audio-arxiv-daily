@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,15 +103,21 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Separate First, Then Associate: A Two-Stage Approach for Real-World Audio-Visual Speech Enhancement**|Tongtao Ling et.al.|[2608.14812](http://arxiv.org/abs/2608.14812)|null|
+|**2026-11-16**|**VIVID: A Visual Harness for Agentic Video Editing**|Wenhan Yu et.al.|[2611.20688](http://arxiv.org/abs/2611.20688)|null|
+|**2026-11-14**|**Learning Spatially Aware Audio-Visual Features from Videos with Mono Audio**|Mengyu Yang et.al.|[2611.19593](http://arxiv.org/abs/2611.19593)|null|
+|**2026-11-14**|**Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning**|Linge Wang et.al.|[2611.19236](http://arxiv.org/abs/2611.19236)|null|
+|**2026-11-13**|**Découpage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation**|Yifan Wang et.al.|[2611.18866](http://arxiv.org/abs/2611.18866)|null|
 |**2026-11-12**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-11-11**|**CineMME: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding**|Jin Liu et.al.|[2611.15161](http://arxiv.org/abs/2611.15161)|null|
 |**2026-11-11**|**Duo: A Reciprocal World Model for Full-Duplex Interaction**|Hengyuan Cao et.al.|[2611.15131](http://arxiv.org/abs/2611.15131)|null|
+|**2026-11-11**|**Video-as-Experience: Learning Computer Use via Audio-Visual Understanding**|Guangzhi Sun et.al.|[2611.18747](http://arxiv.org/abs/2611.18747)|null|
 |**2026-11-10**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
 |**2026-11-10**|**AVCC: Audio-Visual Conversation Corpus for Turn-Taking Prediction with a Human Benchmark**|Haotian Qi et.al.|[2611.13957](http://arxiv.org/abs/2611.13957)|null|
 |**2026-11-10**|**DASWeave: Weaving Evidence across Speaking Conditions for Multimodal Depression, Anxiety, and Stress Screening**|Binyan Chen et.al.|[2611.13544](http://arxiv.org/abs/2611.13544)|null|
@@ -335,6 +341,7 @@
 |**2026-09-07**|**AdoDAS: A Privacy-Preserving Multimodal Challenge for Adolescent Depression, Anxiety, and Stress Assessment**|Zhaojie Luo et.al.|[2609.07038](http://arxiv.org/abs/2609.07038)|null|
 |**2026-09-07**|**AV-SafetyBench: A Safety Benchmark for Text-to-Audio-Video Generation**|Suah Choi et.al.|[2609.06991](http://arxiv.org/abs/2609.06991)|null|
 |**2026-09-06**|**When Speech Meets Lips: Interpretable Audio-Visual Synchronization for L2 Pronunciation Assessment**|Bowen Yu et.al.|[2609.06788](http://arxiv.org/abs/2609.06788)|null|
+|**2026-09-04**|**NYUAD at ImageEval Shared Tasks: A Multimodal LLM for Audio-Visual Question Answering and Hallucination Detection in English and Modern Standard Arabic**|Nouar AlDahoul et.al.|[2611.18610](http://arxiv.org/abs/2611.18610)|null|
 |**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|null|
 |**2026-09-01**|**TimeSteer: Inference-Time Speech Scheduling in Joint Audio-Visual Diffusion Models**|Chao Zhou et.al.|[2609.01277](http://arxiv.org/abs/2609.01277)|null|
 |**2026-09-01**|**Taming Modality Entanglement in Continual Audio-Visual Segmentation**|Yuyang Hong et.al.|[2510.17234](http://arxiv.org/abs/2510.17234)|null|
@@ -377,7 +384,6 @@
 |**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
 |**2026-08-16**|**Efficient Audio-Visual Generation via Synchrony-Aware Cross-Modal Sparse Attention**|Shengchuan Gao et.al.|[2608.15522](http://arxiv.org/abs/2608.15522)|null|
 |**2026-08-15**|**FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data**|Ziting Wang et.al.|[2509.02473](http://arxiv.org/abs/2509.02473)|null|
-|**2026-08-14**|**Separate First, Then Associate: A Two-Stage Approach for Real-World Audio-Visual Speech Enhancement**|Tongtao Ling et.al.|[2608.14812](http://arxiv.org/abs/2608.14812)|null|
 |**2026-08-14**|**H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation**|Aleksandra Teng Ma et.al.|[2608.13957](http://arxiv.org/abs/2608.13957)|null|
 |**2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Koen P. de Vries et.al.|[2608.13239](http://arxiv.org/abs/2608.13239)|null|
 |**2026-08-13**|**UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos**|Yuxuan Zhang et.al.|[2608.11752](http://arxiv.org/abs/2608.11752)|null|
@@ -426,6 +432,7 @@
 |**2026-07-28**|**Less is More: Modality-Decoupling for General AIGC Audio-Video Detection**|Jielun Peng et.al.|[2607.25543](http://arxiv.org/abs/2607.25543)|null|
 |**2026-07-28**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
 |**2026-07-28**|**VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents**|Amrita Mazumdar et.al.|[2605.30256](http://arxiv.org/abs/2605.30256)|null|
+|**2026-07-28**|**VidEngram: Agentic Long-Term Video Understanding via Structured Hierarchical Memory**|Zinuo Cheng et.al.|[2611.18578](http://arxiv.org/abs/2611.18578)|null|
 |**2026-07-27**|**TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation**|Qijun Gan et.al.|[2607.24359](http://arxiv.org/abs/2607.24359)|null|
 |**2026-07-26**|**The JEPA Paradox in Language: The Geometry of Linguistic Alternatives**|Anh Trac Duc Dinh et.al.|[2607.23531](http://arxiv.org/abs/2607.23531)|null|
 |**2026-07-26**|**Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models**|Yiming Zhong et.al.|[2607.23445](http://arxiv.org/abs/2607.23445)|null|
@@ -2229,5 +2236,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
