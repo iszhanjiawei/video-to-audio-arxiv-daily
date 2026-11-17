@@ -113,6 +113,7 @@
 |**2026-11-16**|**VIVID: A Visual Harness for Agentic Video Editing**|Wenhan Yu et.al.|[2611.20688](http://arxiv.org/abs/2611.20688)|null|
 |**2026-11-14**|**Learning Spatially Aware Audio-Visual Features from Videos with Mono Audio**|Mengyu Yang et.al.|[2611.19593](http://arxiv.org/abs/2611.19593)|null|
 |**2026-11-14**|**Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning**|Linge Wang et.al.|[2611.19236](http://arxiv.org/abs/2611.19236)|null|
+|**2026-11-14**|**DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**|Kangran Zhao et.al.|[2510.22622](http://arxiv.org/abs/2510.22622)|null|
 |**2026-11-13**|**Découpage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation**|Yifan Wang et.al.|[2611.18866](http://arxiv.org/abs/2611.18866)|null|
 |**2026-11-12**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-11-11**|**CineMME: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding**|Jin Liu et.al.|[2611.15161](http://arxiv.org/abs/2611.15161)|null|
