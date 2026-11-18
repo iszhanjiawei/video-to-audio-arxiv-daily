@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,12 +103,20 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs**|Jihoo Jung et.al.|[2609.31193](http://arxiv.org/abs/2609.31193)|null|
+|**2026-11-17**|**Out of Sight, Still in Mind: Token Compression for Omni-LLMs**|Suho Yoo et.al.|[2607.21179](http://arxiv.org/abs/2607.21179)|null|
+|**2026-11-17**|**Gradual emergence of temporal structures depending on the distance between neighboring callers in natural habitat of male treefrogs**|Ikkyu Aihara et.al.|[2603.16051](http://arxiv.org/abs/2603.16051)|null|
+|**2026-11-17**|**Transfer Once, Ask Locally: Compact Audio-Visual Memory for On-Device Question Answering**|Qitong Wang et.al.|[2611.23085](http://arxiv.org/abs/2611.23085)|null|
+|**2026-11-17**|**Beyond Co-Generation: Rethinking Jointness in Joint Audio-Video Generation**|Jihoo Jung et.al.|[2611.22857](http://arxiv.org/abs/2611.22857)|null|
+|**2026-11-17**|**Social Signal Bench: Evidence-Weighted Evaluation of Co-occurring Social Signals in Video and Audio**|Siddharth Ravi et.al.|[2611.22704](http://arxiv.org/abs/2611.22704)|null|
+|**2026-11-17**|**PACD: Provenance-Aware Consensus Decoding for Mitigating Cross-Modal Hallucinations in Omnimodal Large Language Models**|Chang Sun et.al.|[2611.22456](http://arxiv.org/abs/2611.22456)|null|
+|**2026-11-17**|**AutoMV: An Automatic Multi-Agent System for Music Video Generation**|Xiaoxuan Tang et.al.|[2512.12196](http://arxiv.org/abs/2512.12196)|null|
 |**2026-11-16**|**Separate First, Then Associate: A Two-Stage Approach for Real-World Audio-Visual Speech Enhancement**|Tongtao Ling et.al.|[2608.14812](http://arxiv.org/abs/2608.14812)|null|
 |**2026-11-16**|**VIVID: A Visual Harness for Agentic Video Editing**|Wenhan Yu et.al.|[2611.20688](http://arxiv.org/abs/2611.20688)|null|
 |**2026-11-14**|**Learning Spatially Aware Audio-Visual Features from Videos with Mono Audio**|Mengyu Yang et.al.|[2611.19593](http://arxiv.org/abs/2611.19593)|null|
@@ -288,7 +296,6 @@
 |**2026-09-26**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
 |**2026-09-26**|**$C^3$ ASD: Multi-Level Consistency-Driven Representation Learning for Robust Active Speaker Detection**|Jin Hong et.al.|[2607.03018](http://arxiv.org/abs/2607.03018)|null|
 |**2026-09-25**|**EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models**|Kunxiong Zhu et.al.|[2609.31551](http://arxiv.org/abs/2609.31551)|null|
-|**2026-09-25**|**Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs**|Jihoo Jung et.al.|[2609.31193](http://arxiv.org/abs/2609.31193)|null|
 |**2026-09-25**|**Dialogue-Based Streaming Audio-Visual Target Speaker Extraction with Predictive Dialogue Information**|Shuhan Zhang et.al.|[2609.30774](http://arxiv.org/abs/2609.30774)|null|
 |**2026-09-25**|**The ISCSLP 2026 Real-World Audio-Visual Speech Enhancement Challenge: A Benchmark with Natural Mixtures and Degraded Video**|Kai Li et.al.|[2608.23759](http://arxiv.org/abs/2608.23759)|null|
 |**2026-09-24**|**Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**|Rayhan Rashed et.al.|[2609.30631](http://arxiv.org/abs/2609.30631)|null|
@@ -440,7 +447,6 @@
 |**2026-07-26**|**UniSkip-Mamba: A Frequency-Aware State Space Model for Audio-Visual Temporal Forgery Localization**|Cangjin Yu et.al.|[2607.04498](http://arxiv.org/abs/2607.04498)|null|
 |**2026-07-26**|**Asymmetric Hierarchical Anchoring for Robust Audio-Visual Cross-Modal Generalization**|Bixing Wu et.al.|[2602.03570](http://arxiv.org/abs/2602.03570)|null|
 |**2026-07-25**|**CTAN: Cycle-Temporal Attention Network for Embodied Audio-Visual Navigation**|Teng Liu et.al.|[2609.17420](http://arxiv.org/abs/2609.17420)|null|
-|**2026-07-23**|**Out of Sight, Still in Mind: Token Compression for Omni-LLMs**|Suho Yoo et.al.|[2607.21179](http://arxiv.org/abs/2607.21179)|null|
 |**2026-07-23**|**LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation**|Qi Wang et.al.|[2604.11052](http://arxiv.org/abs/2604.11052)|null|
 |**2026-07-23**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
 |**2026-07-22**|**Finding Fast Filters**|Karima Ma et.al.|[2607.20634](http://arxiv.org/abs/2607.20634)|null|
@@ -730,7 +736,6 @@
 |**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|null|
 |**2026-03-19**|**Evaluating Hallucinations in Audio-Visual Multimodal LLMs with Spoken Queries under Diverse Acoustic Conditions**|Hansol Park et.al.|[2510.08581](http://arxiv.org/abs/2510.08581)|null|
 |**2026-03-17**|**Diffusion Models for Joint Audio-Video Generation**|Alejandro Paredes La Torre et.al.|[2603.16093](http://arxiv.org/abs/2603.16093)|null|
-|**2026-03-17**|**Gradual emergence of temporal structures depending on the distance between neighboring callers in natural habitat of male treefrogs**|Ikkyu Aihara et.al.|[2603.16051](http://arxiv.org/abs/2603.16051)|null|
 |**2026-03-16**|**AILive Mixer: A Deep Learning based Zero Latency Automatic Music Mixer for Live Music Performances**|Devansh Zurale et.al.|[2603.15995](http://arxiv.org/abs/2603.15995)|null|
 |**2026-03-16**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
 |**2026-03-16**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|Ziyang Ma et.al.|[2510.12720](http://arxiv.org/abs/2510.12720)|null|
@@ -2237,5 +2242,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
