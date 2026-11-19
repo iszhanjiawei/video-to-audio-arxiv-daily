@@ -1,4 +1,4 @@
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,12 +103,14 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**VidDub: Replacement-Aware Supervision for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
+|**2026-11-18**|**Can Omni-modal LLMs Understand Spoken Intentions?**|Zijie Xin et.al.|[2611.24706](http://arxiv.org/abs/2611.24706)|null|
 |**2026-11-17**|**Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs**|Jihoo Jung et.al.|[2609.31193](http://arxiv.org/abs/2609.31193)|null|
 |**2026-11-17**|**Out of Sight, Still in Mind: Token Compression for Omni-LLMs**|Suho Yoo et.al.|[2607.21179](http://arxiv.org/abs/2607.21179)|null|
 |**2026-11-17**|**Gradual emergence of temporal structures depending on the distance between neighboring callers in natural habitat of male treefrogs**|Ikkyu Aihara et.al.|[2603.16051](http://arxiv.org/abs/2603.16051)|null|
@@ -149,7 +151,6 @@
 |**2026-11-04**|**Which One Is Sounding? Binaural Sounding Instance Disambiguation for Audio-Visual Segmentation**|Haoze Ma et.al.|[2611.06074](http://arxiv.org/abs/2611.06074)|null|
 |**2026-11-04**|**LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds**|Yusheng Dai et.al.|[2611.05988](http://arxiv.org/abs/2611.05988)|null|
 |**2026-11-02**|**ViSSFlow: Unifying Video-Conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
-|**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-02**|**CrowdForge: Effects of Audio and Visual Audience Participation Modalities on Agency, Collaboration, and Engagement in AI-Mediated MR Performances**|Torin Hopkins et.al.|[2611.03389](http://arxiv.org/abs/2611.03389)|null|
 |**2026-11-02**|**R $^2$ -Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation**|Bolong Feng et.al.|[2611.03247](http://arxiv.org/abs/2611.03247)|null|
 |**2026-11-02**|**MusiSPARQ: Subscription-Aware Adaptive Resource Control for Musical Metaverse Services**|Ali Al Housseini et.al.|[2611.04011](http://arxiv.org/abs/2611.04011)|null|
@@ -2242,5 +2243,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
