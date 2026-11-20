@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,14 +103,17 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding**|Changli Tang et.al.|[2611.26409](http://arxiv.org/abs/2611.26409)|null|
+|**2026-11-18**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
 |**2026-11-18**|**VidDub: Replacement-Aware Supervision for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-18**|**Can Omni-modal LLMs Understand Spoken Intentions?**|Zijie Xin et.al.|[2611.24706](http://arxiv.org/abs/2611.24706)|null|
+|**2026-11-18**|**Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans**|Chrisantus Eze et.al.|[2611.25243](http://arxiv.org/abs/2611.25243)|null|
 |**2026-11-17**|**Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs**|Jihoo Jung et.al.|[2609.31193](http://arxiv.org/abs/2609.31193)|null|
 |**2026-11-17**|**Out of Sight, Still in Mind: Token Compression for Omni-LLMs**|Suho Yoo et.al.|[2607.21179](http://arxiv.org/abs/2607.21179)|null|
 |**2026-11-17**|**Gradual emergence of temporal structures depending on the distance between neighboring callers in natural habitat of male treefrogs**|Ikkyu Aihara et.al.|[2603.16051](http://arxiv.org/abs/2603.16051)|null|
@@ -255,7 +258,6 @@
 |**2026-10-05**|**UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance**|Gaoxiang Cong et.al.|[2610.05932](http://arxiv.org/abs/2610.05932)|null|
 |**2026-10-04**|**FATE: Frame-Level Audio-Visual Temporal Embedding**|Kaisi Guan et.al.|[2608.01310](http://arxiv.org/abs/2608.01310)|null|
 |**2026-10-04**|**FoleyGenEx: Unified Video-to-Audio Generation with Multi-Modal Control, Temporal Alignment, and Semantic Precision**|Shiyao Wang et.al.|[2606.14049](http://arxiv.org/abs/2606.14049)|null|
-|**2026-10-04**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
 |**2026-10-04**|**Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training**|Shuyuan Tu et.al.|[2610.05416](http://arxiv.org/abs/2610.05416)|null|
 |**2026-10-03**|**Strong Helps Weak: Directional Cross-Modal Alignment Transfer in Multi-modal LLMs**|Hoigi Seo et.al.|[2610.04580](http://arxiv.org/abs/2610.04580)|null|
 |**2026-10-02**|**Relevant Evidence Decoding for Audio-Visual Hallucination Mitigation**|Hyunjae Ra et.al.|[2610.02976](http://arxiv.org/abs/2610.02976)|null|
@@ -2243,5 +2245,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
