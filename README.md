@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,13 +103,15 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines**|Kangran Zhao et.al.|[2510.22622](http://arxiv.org/abs/2510.22622)|null|
 |**2026-11-19**|**WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding**|Changli Tang et.al.|[2611.26409](http://arxiv.org/abs/2611.26409)|null|
+|**2026-11-19**|**What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference**|Mohammed El Amine Mokhtari et.al.|[2611.26776](http://arxiv.org/abs/2611.26776)|null|
 |**2026-11-18**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
 |**2026-11-18**|**VidDub: Replacement-Aware Supervision for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-18**|**Can Omni-modal LLMs Understand Spoken Intentions?**|Zijie Xin et.al.|[2611.24706](http://arxiv.org/abs/2611.24706)|null|
@@ -126,7 +128,6 @@
 |**2026-11-16**|**VIVID: A Visual Harness for Agentic Video Editing**|Wenhan Yu et.al.|[2611.20688](http://arxiv.org/abs/2611.20688)|null|
 |**2026-11-14**|**Learning Spatially Aware Audio-Visual Features from Videos with Mono Audio**|Mengyu Yang et.al.|[2611.19593](http://arxiv.org/abs/2611.19593)|null|
 |**2026-11-14**|**Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning**|Linge Wang et.al.|[2611.19236](http://arxiv.org/abs/2611.19236)|null|
-|**2026-11-14**|**DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**|Kangran Zhao et.al.|[2510.22622](http://arxiv.org/abs/2510.22622)|null|
 |**2026-11-13**|**Découpage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation**|Yifan Wang et.al.|[2611.18866](http://arxiv.org/abs/2611.18866)|null|
 |**2026-11-12**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-11-11**|**CineMME: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding**|Jin Liu et.al.|[2611.15161](http://arxiv.org/abs/2611.15161)|null|
@@ -2245,5 +2246,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
