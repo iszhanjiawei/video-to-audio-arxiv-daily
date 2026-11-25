@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -103,12 +103,23 @@
 |**2016-12-24**|**Practical Tera-scale Walsh-Hadamard Transform**|Yi Lu et.al.|[1607.01039](http://arxiv.org/abs/1607.01039)|null|
 |**2007-03-14**|**Wavelets on Irregular Grids with Arbitrary Dilation Matrices, and Frames Atoms for L^2(R^d)**|Akram Aldroubi et.al.|[math/0703438](http://arxiv.org/abs/math/0703438)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
 ## video-to-audio Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
+|**2026-11-24**|**One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography**|Anthony Chen et.al.|[2611.33147](http://arxiv.org/abs/2611.33147)|null|
+|**2026-11-24**|**Read My Lips: Context-aware Lip Reading Using Language and Audio-Visual Models**|Amir Razlighi et.al.|[2611.33117](http://arxiv.org/abs/2611.33117)|null|
+|**2026-11-24**|**File Size as a Potential Dataset Bias in Audio-Visual Deepfake Data**|Marcella Astrid et.al.|[2611.32979](http://arxiv.org/abs/2611.32979)|null|
+|**2026-11-24**|**Sol $^{3}$ : Accelerating Video Diffusion for Free via Hierarchical Sparse Attention Routing**|Guoxin Fan et.al.|[2611.32562](http://arxiv.org/abs/2611.32562)|null|
+|**2026-11-24**|**VividAudio: Multi-Event Reference-Conditioned Video-to-Audio Generation**|You Li et.al.|[2611.32458](http://arxiv.org/abs/2611.32458)|null|
+|**2026-11-24**|**Not All Pairs Align: Caption-Guided Audio-Visual Contrastive Learning**|Omar Emara et.al.|[2611.32399](http://arxiv.org/abs/2611.32399)|null|
+|**2026-11-24**|**SynAVID: A Synthetic Audio-Visual Immersive Dataset of Dynamic Scenes**|Jun Xu et.al.|[2611.32311](http://arxiv.org/abs/2611.32311)|null|
+|**2026-11-24**|**Open-OmniCoach: Evidence-Enhanced Trajectory Learning for Omni Video Agents**|Weisong Liu et.al.|[2611.31891](http://arxiv.org/abs/2611.31891)|null|
+|**2026-11-24**|**HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning**|Shanmuga Venkatachalam et.al.|[2611.31884](http://arxiv.org/abs/2611.31884)|null|
+|**2026-11-24**|**BEARING: Who Is Talking to Whom? Grounding Acoustic Direction in Vision for Online Multi-Party Conversation**|Nader Lobandi et.al.|[2611.31735](http://arxiv.org/abs/2611.31735)|null|
 |**2026-11-23**|**Separate First, Fuse Later: Mitigating Cross-Modal Interference in Audio-Visual LLMs Reasoning with Modality-Specific Chain-of-Thought**|Xuanchen Li et.al.|[2605.09906](http://arxiv.org/abs/2605.09906)|null|
 |**2026-11-23**|**Two Heads Are Better Than One: Audio-Visual Speech Error Correction with Dual Hypotheses**|Sungnyun Kim et.al.|[2510.13281](http://arxiv.org/abs/2510.13281)|null|
 |**2026-11-23**|**LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning**|Benjamin Robson et.al.|[2610.06226](http://arxiv.org/abs/2610.06226)|null|
@@ -450,7 +461,6 @@
 |**2026-08-01**|**Blind Source Separation Can Distort Behavior and Connectivity Analyses of Calcium Transients**|Adedayo S. A et.al.|[2608.00655](http://arxiv.org/abs/2608.00655)|null|
 |**2026-07-31**|**DoubleHelix: Structured Cross-Modal Fusion for Audio-Visual Speech Recognition with LLMs**|Ziwei Cheng et.al.|[2607.29112](http://arxiv.org/abs/2607.29112)|null|
 |**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
-|**2026-07-29**|**MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**|Haohang Huang et.al.|[2604.23321](http://arxiv.org/abs/2604.23321)|null|
 |**2026-07-29**|**TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**|Girish A. Koushik et.al.|[2601.11178](http://arxiv.org/abs/2601.11178)|null|
 |**2026-07-28**|**Less is More: Modality-Decoupling for General AIGC Audio-Video Detection**|Jielun Peng et.al.|[2607.25543](http://arxiv.org/abs/2607.25543)|null|
 |**2026-07-28**|**OmniMate: Open-Ended Real-Time Streaming Audio-Visual Generation for Interactive Avatars**|Quanyue Song et.al.|[2607.23023](http://arxiv.org/abs/2607.23023)|null|
@@ -2255,5 +2265,5 @@
 |**2022-03-31**|**Audio-Visual Speech Codecs: Rethinking Audio-Visual Speech Enhancement by Re-Synthesis**|Karren Yang et.al.|[2203.17263](http://arxiv.org/abs/2203.17263)|null|
 |**2022-03-30**|**The Sound of Bounding-Boxes**|Takashi Oya et.al.|[2203.15991](http://arxiv.org/abs/2203.15991)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
